@@ -1,532 +1,534 @@
-﻿category,variable,activity_suffix,activity_label,source_status
-Other,serial,,,source variable
-Other,year,,,constant value: 2016
-Other,mode,,,source variable
-Other,Month,,,source variable
-Geography,LA_2023,,,source variable
-Geography,Reg9,,,source variable
-Geography,LondInOut,,,source variable
-Demographics,age16plus,,,source variable
-Demographics,Age9,,,source variable
-Demographics,Disab3,,,source variable
-Demographics,disty1_POP,,,source variable
-Demographics,disty2_POP,,,source variable
-Demographics,disty3_POP,,,source variable
-Demographics,disty4_POP,,,source variable
-Demographics,disty5_POP,,,source variable
-Demographics,disty6_POP,,,source variable
-Demographics,disty7_POP,,,source variable
-Demographics,disty8_POP,,,source variable
-Demographics,disty9_POP,,,source variable
-Demographics,disty10_POP,,,source variable
-Demographics,disty11_POP,,,source variable
-Demographics,disty12_POP,,,source variable
-Demographics,disty13_POP,,,source variable
-Weight,wt_final,,,source variable
-Weight,wt_final_online,,,source variable
-Weight,wt_final_B,,,source variable
-Weight,wt_final_C,,,source variable
-Weight,wt_final_AB,,,source variable
-Weight,wt_final_AC,,,source variable
-Weight,wt_time,,,source variable
-Weight,wt_online_time,,,source variable
-Activity,MEMS7_ABSEILING_H03,ABSEILING_H03,Abseiling,source variable
-Activity,MEMS7GR_ABSEILING_H03,ABSEILING_H03,Abseiling,source variable
-Activity,DAYS10P60GR_ABSEILING_H03,ABSEILING_H03,Abseiling,source variable
-Activity,MONTHS_12_ABSEILING_H03,ABSEILING_H03,Abseiling,source variable
-Activity,MEMS7_ACTTRAV_C03,ACTTRAV_C03,Active Travel,source variable
-Activity,MEMS7GR_ACTTRAV_C03,ACTTRAV_C03,Active Travel,source variable
-Activity,DAYS10P60GR_ACTTRAV_C03,ACTTRAV_C03,Active Travel,source variable
-Activity,MONTHS_12_ACTTRAV_C03,ACTTRAV_C03,Active Travel,source variable
-Activity,MEMS7_AIKIDO_S04,AIKIDO_S04,Aikido,source variable
-Activity,MEMS7GR_AIKIDO_S04,AIKIDO_S04,Aikido,source variable
-Activity,DAYS10P60GR_AIKIDO_S04,AIKIDO_S04,Aikido,source variable
-Activity,MONTHS_12_AIKIDO_S04,AIKIDO_S04,Aikido,source variable
-Activity,MEMS7_AIRGUN_S08,AIRGUN_S08,Airgun (including pistol),source variable
-Activity,MEMS7GR_AIRGUN_S08,AIRGUN_S08,Airgun (including pistol),source variable
-Activity,DAYS10P60GR_AIRGUN_S08,AIRGUN_S08,Airgun (including pistol),source variable
-Activity,MONTHS_12_AIRGUN_S08,AIRGUN_S08,Airgun (including pistol),source variable
-Activity,MEMS7_ARCHERY_J01,ARCHERY_J01,Archery,source variable
-Activity,MEMS7GR_ARCHERY_J01,ARCHERY_J01,Archery,source variable
-Activity,DAYS10P60GR_ARCHERY_J01,ARCHERY_J01,Archery,source variable
-Activity,MONTHS_12_ARCHERY_J01,ARCHERY_J01,Archery,source variable
-Activity,MEMS7_BADMINTON_G02,BADMINTON_G02,Badminton,source variable
-Activity,MEMS7GR_BADMINTON_G02,BADMINTON_G02,Badminton,source variable
-Activity,DAYS10P60GR_BADMINTON_G02,BADMINTON_G02,Badminton,source variable
-Activity,MONTHS_12_BADMINTON_G02,BADMINTON_G02,Badminton,source variable
-Activity,MEMS7_BASESOFTBALL_F13,BASESOFTBALL_F13,Baseball or Softball,source variable
-Activity,MEMS7GR_BASESOFTBALL_F13,BASESOFTBALL_F13,Baseball or Softball,source variable
-Activity,DAYS10P60GR_BASESOFTBALL_F13,BASESOFTBALL_F13,Baseball or Softball,source variable
-Activity,MONTHS_12_BASESOFTBALL_F13,BASESOFTBALL_F13,Baseball or Softball,source variable
-Activity,MEMS7_BASKETBALL_F07,BASKETBALL_F07,Basketball,source variable
-Activity,MEMS7GR_BASKETBALL_F07,BASKETBALL_F07,Basketball,source variable
-Activity,DAYS10P60GR_BASKETBALL_F07,BASKETBALL_F07,Basketball,source variable
-Activity,MONTHS_12_BASKETBALL_F07,BASKETBALL_F07,Basketball,source variable
-Activity,MEMS7_BOCCIA_L11,BOCCIA_L11,Boccia,source variable
-Activity,MEMS7GR_BOCCIA_L11,BOCCIA_L11,Boccia,source variable
-Activity,DAYS10P60GR_BOCCIA_L11,BOCCIA_L11,Boccia,source variable
-Activity,MONTHS_12_BOCCIA_L11,BOCCIA_L11,Boccia,source variable
-Activity,MEMS7_BOULES_L12,BOULES_L12,"Boules, petanque, deck bowls",source variable
-Activity,MEMS7GR_BOULES_L12,BOULES_L12,"Boules, petanque, deck bowls",source variable
-Activity,DAYS10P60GR_BOULES_L12,BOULES_L12,"Boules, petanque, deck bowls",source variable
-Activity,MONTHS_12_BOULES_L12,BOULES_L12,"Boules, petanque, deck bowls",source variable
-Activity,MEMS7_BOWLSBOULES_C12,BOWLSBOULES_C12,Bowls or boules,source variable
-Activity,MEMS7GR_BOWLSBOULES_C12,BOWLSBOULES_C12,Bowls or boules,source variable
-Activity,DAYS10P60GR_BOWLSBOULES_C12,BOWLSBOULES_C12,Bowls or boules,source variable
-Activity,MONTHS_12_BOWLSBOULES_C12,BOWLSBOULES_C12,Bowls or boules,source variable
-Activity,MEMS7_BOWLSCARPET_U18,BOWLSCARPET_U18,Carpet bowls,source variable
-Activity,MEMS7GR_BOWLSCARPET_U18,BOWLSCARPET_U18,Carpet bowls,source variable
-Activity,DAYS10P60GR_BOWLSCARPET_U18,BOWLSCARPET_U18,Carpet bowls,source variable
-Activity,MONTHS_12_BOWLSCARPET_U18,BOWLSCARPET_U18,Carpet bowls,source variable
-Activity,MEMS7_BOWLSCROWNGREEN_U19,BOWLSCROWNGREEN_U19,Crown green bowls,source variable
-Activity,MEMS7GR_BOWLSCROWNGREEN_U19,BOWLSCROWNGREEN_U19,Crown green bowls,source variable
-Activity,DAYS10P60GR_BOWLSCROWNGREEN_U19,BOWLSCROWNGREEN_U19,Crown green bowls,source variable
-Activity,MONTHS_12_BOWLSCROWNGREEN_U19,BOWLSCROWNGREEN_U19,Crown green bowls,source variable
-Activity,MEMS7_BOWLSFLATGREEN_U20,BOWLSFLATGREEN_U20,Flat green bowls,source variable
-Activity,MEMS7GR_BOWLSFLATGREEN_U20,BOWLSFLATGREEN_U20,Flat green bowls,source variable
-Activity,DAYS10P60GR_BOWLSFLATGREEN_U20,BOWLSFLATGREEN_U20,Flat green bowls,source variable
-Activity,MONTHS_12_BOWLSFLATGREEN_U20,BOWLSFLATGREEN_U20,Flat green bowls,source variable
-Activity,MEMS7_BOWLSSHORTMAT_U23,BOWLSSHORTMAT_U23,Short mat bowls,source variable
-Activity,MEMS7GR_BOWLSSHORTMAT_U23,BOWLSSHORTMAT_U23,Short mat bowls,source variable
-Activity,DAYS10P60GR_BOWLSSHORTMAT_U23,BOWLSSHORTMAT_U23,Short mat bowls,source variable
-Activity,MONTHS_12_BOWLSSHORTMAT_U23,BOWLSSHORTMAT_U23,Short mat bowls,source variable
-Activity,MEMS7_BOWLS_L10,BOWLS_L10,Bowls,source variable
-Activity,MEMS7GR_BOWLS_L10,BOWLS_L10,Bowls,source variable
-Activity,DAYS10P60GR_BOWLS_L10,BOWLS_L10,Bowls,source variable
-Activity,MONTHS_12_BOWLS_L10,BOWLS_L10,Bowls,source variable
-Activity,MEMS7_BOXINGTRAD_S01,BOXINGTRAD_S01,Boxing (traditional),source variable
-Activity,MEMS7GR_BOXINGTRAD_S01,BOXINGTRAD_S01,Boxing (traditional),source variable
-Activity,DAYS10P60GR_BOXINGTRAD_S01,BOXINGTRAD_S01,Boxing (traditional),source variable
-Activity,MONTHS_12_BOXINGTRAD_S01,BOXINGTRAD_S01,Boxing (traditional),source variable
-Activity,MEMS7_CAVING_H02,CAVING_H02,Caving or pot holing,source variable
-Activity,MEMS7GR_CAVING_H02,CAVING_H02,Caving or pot holing,source variable
-Activity,DAYS10P60GR_CAVING_H02,CAVING_H02,Caving or pot holing,source variable
-Activity,MONTHS_12_CAVING_H02,CAVING_H02,Caving or pot holing,source variable
-Activity,MEMS7_CHEERLEADING_L15,CHEERLEADING_L15,Cheerleading,source variable
-Activity,MEMS7GR_CHEERLEADING_L15,CHEERLEADING_L15,Cheerleading,source variable
-Activity,DAYS10P60GR_CHEERLEADING_L15,CHEERLEADING_L15,Cheerleading,source variable
-Activity,MONTHS_12_CHEERLEADING_L15,CHEERLEADING_L15,Cheerleading,source variable
-Activity,MEMS7_CLIMBWALL_R02,CLIMBWALL_R02,Climbing or bouldering wall,source variable
-Activity,MEMS7GR_CLIMBWALL_R02,CLIMBWALL_R02,Climbing or bouldering wall,source variable
-Activity,DAYS10P60GR_CLIMBWALL_R02,CLIMBWALL_R02,Climbing or bouldering wall,source variable
-Activity,MONTHS_12_CLIMBWALL_R02,CLIMBWALL_R02,Climbing or bouldering wall,source variable
-Activity,MEMS7_CRICKETLONG_Q06,CRICKETLONG_Q06,Long form cricket match (e.g. 40-50 overs),source variable
-Activity,MEMS7GR_CRICKETLONG_Q06,CRICKETLONG_Q06,Long form cricket match (e.g. 40-50 overs),source variable
-Activity,DAYS10P60GR_CRICKETLONG_Q06,CRICKETLONG_Q06,Long form cricket match (e.g. 40-50 overs),source variable
-Activity,MONTHS_12_CRICKETLONG_Q06,CRICKETLONG_Q06,Long form cricket match (e.g. 40-50 overs),source variable
-Activity,MEMS7_CRICKETOTH_Q12,CRICKETOTH_Q12,Other cricket,source variable
-Activity,MEMS7GR_CRICKETOTH_Q12,CRICKETOTH_Q12,Other cricket,source variable
-Activity,DAYS10P60GR_CRICKETOTH_Q12,CRICKETOTH_Q12,Other cricket,source variable
-Activity,MONTHS_12_CRICKETOTH_Q12,CRICKETOTH_Q12,Other cricket,source variable
-Activity,MEMS7_CRICKETSHORT_Q07,CRICKETSHORT_Q07,Short form cricket match (e.g. 20:20),source variable
-Activity,MEMS7GR_CRICKETSHORT_Q07,CRICKETSHORT_Q07,Short form cricket match (e.g. 20:20),source variable
-Activity,DAYS10P60GR_CRICKETSHORT_Q07,CRICKETSHORT_Q07,Short form cricket match (e.g. 20:20),source variable
-Activity,MONTHS_12_CRICKETSHORT_Q07,CRICKETSHORT_Q07,Short form cricket match (e.g. 20:20),source variable
-Activity,MEMS7_CROQUET_I05,CROQUET_I05,Croquet,source variable
-Activity,MEMS7GR_CROQUET_I05,CROQUET_I05,Croquet,source variable
-Activity,DAYS10P60GR_CROQUET_I05,CROQUET_I05,Croquet,source variable
-Activity,MONTHS_12_CROQUET_I05,CROQUET_I05,Croquet,source variable
-Activity,MEMS7_CYCBMX_N03,CYCBMX_N03,BMX,source variable
-Activity,MEMS7GR_CYCBMX_N03,CYCBMX_N03,BMX,source variable
-Activity,DAYS10P60GR_CYCBMX_N03,CYCBMX_N03,BMX,source variable
-Activity,MONTHS_12_CYCBMX_N03,CYCBMX_N03,BMX,source variable
-Activity,MEMS7_CYCCROSS_N06,CYCCROSS_N06,Cyclo-cross,source variable
-Activity,MEMS7GR_CYCCROSS_N06,CYCCROSS_N06,Cyclo-cross,source variable
-Activity,DAYS10P60GR_CYCCROSS_N06,CYCCROSS_N06,Cyclo-cross,source variable
-Activity,MONTHS_12_CYCCROSS_N06,CYCCROSS_N06,Cyclo-cross,source variable
-Activity,MEMS7_CYCLEISURE_N01,CYCLEISURE_N01,Cycling for leisure,source variable
-Activity,MEMS7GR_CYCLEISURE_N01,CYCLEISURE_N01,Cycling for leisure,source variable
-Activity,DAYS10P60GR_CYCLEISURE_N01,CYCLEISURE_N01,Cycling for leisure,source variable
-Activity,MONTHS_12_CYCLEISURE_N01,CYCLEISURE_N01,Cycling for leisure,source variable
-Activity,MEMS7_CYCMOUNTAIN_N02,CYCMOUNTAIN_N02,Mountain biking,source variable
-Activity,MEMS7GR_CYCMOUNTAIN_N02,CYCMOUNTAIN_N02,Mountain biking,source variable
-Activity,DAYS10P60GR_CYCMOUNTAIN_N02,CYCMOUNTAIN_N02,Mountain biking,source variable
-Activity,MONTHS_12_CYCMOUNTAIN_N02,CYCMOUNTAIN_N02,Mountain biking,source variable
-Activity,MEMS7_CYCROAD_N04,CYCROAD_N04,Road cycling or racing,source variable
-Activity,MEMS7GR_CYCROAD_N04,CYCROAD_N04,Road cycling or racing,source variable
-Activity,DAYS10P60GR_CYCROAD_N04,CYCROAD_N04,Road cycling or racing,source variable
-Activity,MONTHS_12_CYCROAD_N04,CYCROAD_N04,Road cycling or racing,source variable
-Activity,MEMS7_CYCTRACK_N05,CYCTRACK_N05,Track cycling,source variable
-Activity,MEMS7GR_CYCTRACK_N05,CYCTRACK_N05,Track cycling,source variable
-Activity,DAYS10P60GR_CYCTRACK_N05,CYCTRACK_N05,Track cycling,source variable
-Activity,MONTHS_12_CYCTRACK_N05,CYCTRACK_N05,Track cycling,source variable
-Activity,MEMS7_CYCTRAV_B04,CYCTRAV_B04,Cycling for travel,source variable
-Activity,MEMS7GR_CYCTRAV_B04,CYCTRAV_B04,Cycling for travel,source variable
-Activity,DAYS10P60GR_CYCTRAV_B04,CYCTRAV_B04,Cycling for travel,source variable
-Activity,MONTHS_12_CYCTRAV_B04,CYCTRAV_B04,Cycling for travel,source variable
-Activity,MEMS7_CYC_OLD_M02,CYC_OLD_M02,Cycling_old,source variable
-Activity,MEMS7GR_CYC_OLD_M02,CYC_OLD_M02,Cycling_old,source variable
-Activity,DAYS10P60GR_CYC_OLD_M02,CYC_OLD_M02,Cycling_old,source variable
-Activity,MONTHS_12_CYC_OLD_M02,CYC_OLD_M02,Cycling_old,source variable
-Activity,MEMS7_DANCEART_B05,DANCEART_B05,Creative or artistic dance,source variable
-Activity,MEMS7GR_DANCEART_B05,DANCEART_B05,Creative or artistic dance,source variable
-Activity,DAYS10P60GR_DANCEART_B05,DANCEART_B05,Creative or artistic dance,source variable
-Activity,MONTHS_12_DANCEART_B05,DANCEART_B05,Creative or artistic dance,source variable
-Activity,MEMS7_DANCEOTHER_O01,DANCEOTHER_O01,Other types of dancing,source variable
-Activity,MEMS7GR_DANCEOTHER_O01,DANCEOTHER_O01,Other types of dancing,source variable
-Activity,DAYS10P60GR_DANCEOTHER_O01,DANCEOTHER_O01,Other types of dancing,source variable
-Activity,MONTHS_12_DANCEOTHER_O01,DANCEOTHER_O01,Other types of dancing,source variable
-Activity,MEMS7_DARTS_I08,DARTS_I08,Darts,source variable
-Activity,MEMS7GR_DARTS_I08,DARTS_I08,Darts,source variable
-Activity,DAYS10P60GR_DARTS_I08,DARTS_I08,Darts,source variable
-Activity,MONTHS_12_DARTS_I08,DARTS_I08,Darts,source variable
-Activity,MEMS7_DIVING_U05,DIVING_U05,Diving,source variable
-Activity,MEMS7GR_DIVING_U05,DIVING_U05,Diving,source variable
-Activity,DAYS10P60GR_DIVING_U05,DIVING_U05,Diving,source variable
-Activity,MONTHS_12_DIVING_U05,DIVING_U05,Diving,source variable
-Activity,MEMS7_DODGEBALL_F12,DODGEBALL_F12,Dodgeball,source variable
-Activity,MEMS7GR_DODGEBALL_F12,DODGEBALL_F12,Dodgeball,source variable
-Activity,DAYS10P60GR_DODGEBALL_F12,DODGEBALL_F12,Dodgeball,source variable
-Activity,MONTHS_12_DODGEBALL_F12,DODGEBALL_F12,Dodgeball,source variable
-Activity,MEMS7_DRIVINGRANGE_U10,DRIVINGRANGE_U10,Driving range,source variable
-Activity,MEMS7GR_DRIVINGRANGE_U10,DRIVINGRANGE_U10,Driving range,source variable
-Activity,DAYS10P60GR_DRIVINGRANGE_U10,DRIVINGRANGE_U10,Driving range,source variable
-Activity,MONTHS_12_DRIVINGRANGE_U10,DRIVINGRANGE_U10,Driving range,source variable
-Activity,MEMS7_EQUESTDRESSAGE_U15,EQUESTDRESSAGE_U15,Dressage,source variable
-Activity,MEMS7GR_EQUESTDRESSAGE_U15,EQUESTDRESSAGE_U15,Dressage,source variable
-Activity,DAYS10P60GR_EQUESTDRESSAGE_U15,EQUESTDRESSAGE_U15,Dressage,source variable
-Activity,MONTHS_12_EQUESTDRESSAGE_U15,EQUESTDRESSAGE_U15,Dressage,source variable
-Activity,MEMS7_EQUESTEVENTING_U16,EQUESTEVENTING_U16,Eventing,source variable
-Activity,MEMS7GR_EQUESTEVENTING_U16,EQUESTEVENTING_U16,Eventing,source variable
-Activity,DAYS10P60GR_EQUESTEVENTING_U16,EQUESTEVENTING_U16,Eventing,source variable
-Activity,MONTHS_12_EQUESTEVENTING_U16,EQUESTEVENTING_U16,Eventing,source variable
-Activity,MEMS7_EQUESTHACKING_U12,EQUESTHACKING_U12,Hacking or pony trekking,source variable
-Activity,MEMS7GR_EQUESTHACKING_U12,EQUESTHACKING_U12,Hacking or pony trekking,source variable
-Activity,DAYS10P60GR_EQUESTHACKING_U12,EQUESTHACKING_U12,Hacking or pony trekking,source variable
-Activity,MONTHS_12_EQUESTHACKING_U12,EQUESTHACKING_U12,Hacking or pony trekking,source variable
-Activity,MEMS7_EQUESTOTHER_U17,EQUESTOTHER_U17,Other horse riding,source variable
-Activity,MEMS7GR_EQUESTOTHER_U17,EQUESTOTHER_U17,Other horse riding,source variable
-Activity,DAYS10P60GR_EQUESTOTHER_U17,EQUESTOTHER_U17,Other horse riding,source variable
-Activity,MONTHS_12_EQUESTOTHER_U17,EQUESTOTHER_U17,Other horse riding,source variable
-Activity,MEMS7_EQUESTSCHOOLING_U13,EQUESTSCHOOLING_U13,Schooling,source variable
-Activity,MEMS7GR_EQUESTSCHOOLING_U13,EQUESTSCHOOLING_U13,Schooling,source variable
-Activity,DAYS10P60GR_EQUESTSCHOOLING_U13,EQUESTSCHOOLING_U13,Schooling,source variable
-Activity,MONTHS_12_EQUESTSCHOOLING_U13,EQUESTSCHOOLING_U13,Schooling,source variable
-Activity,MEMS7_EQUESTSHOWJUMP_U14,EQUESTSHOWJUMP_U14,Show jumping,source variable
-Activity,MEMS7GR_EQUESTSHOWJUMP_U14,EQUESTSHOWJUMP_U14,Show jumping,source variable
-Activity,DAYS10P60GR_EQUESTSHOWJUMP_U14,EQUESTSHOWJUMP_U14,Show jumping,source variable
-Activity,MONTHS_12_EQUESTSHOWJUMP_U14,EQUESTSHOWJUMP_U14,Show jumping,source variable
-Activity,MEMS7_EQUEST_L09,EQUEST_L09,Equestrian,source variable
-Activity,MEMS7GR_EQUEST_L09,EQUEST_L09,Equestrian,source variable
-Activity,DAYS10P60GR_EQUEST_L09,EQUEST_L09,Equestrian,source variable
-Activity,MONTHS_12_EQUEST_L09,EQUEST_L09,Equestrian,source variable
-Activity,MEMS7_FELLRUNNING_L04,FELLRUNNING_L04,Fell running,source variable
-Activity,MEMS7GR_FELLRUNNING_L04,FELLRUNNING_L04,Fell running,source variable
-Activity,DAYS10P60GR_FELLRUNNING_L04,FELLRUNNING_L04,Fell running,source variable
-Activity,MONTHS_12_FELLRUNNING_L04,FELLRUNNING_L04,Fell running,source variable
-Activity,MEMS7_FENCING_J03,FENCING_J03,Fencing,source variable
-Activity,MEMS7GR_FENCING_J03,FENCING_J03,Fencing,source variable
-Activity,DAYS10P60GR_FENCING_J03,FENCING_J03,Fencing,source variable
-Activity,MONTHS_12_FENCING_J03,FENCING_J03,Fencing,source variable
-Activity,MEMS7_FOOTBALL11_Q01,FOOTBALL11_Q01,11 a-side football,source variable
-Activity,MEMS7GR_FOOTBALL11_Q01,FOOTBALL11_Q01,11 a-side football,source variable
-Activity,DAYS10P60GR_FOOTBALL11_Q01,FOOTBALL11_Q01,11 a-side football,source variable
-Activity,MONTHS_12_FOOTBALL11_Q01,FOOTBALL11_Q01,11 a-side football,source variable
-Activity,MEMS7_FOOTBALLOTHER_Q05,FOOTBALLOTHER_Q05,Other football,source variable
-Activity,MEMS7GR_FOOTBALLOTHER_Q05,FOOTBALLOTHER_Q05,Other football,source variable
-Activity,DAYS10P60GR_FOOTBALLOTHER_Q05,FOOTBALLOTHER_Q05,Other football,source variable
-Activity,MONTHS_12_FOOTBALLOTHER_Q05,FOOTBALLOTHER_Q05,Other football,source variable
-Activity,MEMS7_FOOTBALLSMALL_Q02,FOOTBALLSMALL_Q02,Small sided football,source variable
-Activity,MEMS7GR_FOOTBALLSMALL_Q02,FOOTBALLSMALL_Q02,Small sided football,source variable
-Activity,DAYS10P60GR_FOOTBALLSMALL_Q02,FOOTBALLSMALL_Q02,Small sided football,source variable
-Activity,MONTHS_12_FOOTBALLSMALL_Q02,FOOTBALLSMALL_Q02,Small sided football,source variable
-Activity,MEMS7_FOOTBALLWALK_Q04,FOOTBALLWALK_Q04,Walking football,source variable
-Activity,MEMS7GR_FOOTBALLWALK_Q04,FOOTBALLWALK_Q04,Walking football,source variable
-Activity,DAYS10P60GR_FOOTBALLWALK_Q04,FOOTBALLWALK_Q04,Walking football,source variable
-Activity,MONTHS_12_FOOTBALLWALK_Q04,FOOTBALLWALK_Q04,Walking football,source variable
-Activity,MEMS7_FOOTBALL_F01,FOOTBALL_F01,Football,source variable
-Activity,MEMS7GR_FOOTBALL_F01,FOOTBALL_F01,Football,source variable
-Activity,DAYS10P60GR_FOOTBALL_F01,FOOTBALL_F01,Football,source variable
-Activity,MONTHS_12_FOOTBALL_F01,FOOTBALL_F01,Football,source variable
-Activity,MEMS7_FRISBEE_I03,FRISBEE_I03,Frisbee or ultimate frisbee,source variable
-Activity,MEMS7GR_FRISBEE_I03,FRISBEE_I03,Frisbee or ultimate frisbee,source variable
-Activity,DAYS10P60GR_FRISBEE_I03,FRISBEE_I03,Frisbee or ultimate frisbee,source variable
-Activity,MONTHS_12_FRISBEE_I03,FRISBEE_I03,Frisbee or ultimate frisbee,source variable
-Activity,MEMS7_FUTSAL_Q03,FUTSAL_Q03,Futsal,source variable
-Activity,MEMS7GR_FUTSAL_Q03,FUTSAL_Q03,Futsal,source variable
-Activity,DAYS10P60GR_FUTSAL_Q03,FUTSAL_Q03,Futsal,source variable
-Activity,MONTHS_12_FUTSAL_Q03,FUTSAL_Q03,Futsal,source variable
-Activity,MEMS7_GARDENTRAMP_L14,GARDENTRAMP_L14,Garden trampolining,source variable
-Activity,MEMS7GR_GARDENTRAMP_L14,GARDENTRAMP_L14,Garden trampolining,source variable
-Activity,DAYS10P60GR_GARDENTRAMP_L14,GARDENTRAMP_L14,Garden trampolining,source variable
-Activity,MONTHS_12_GARDENTRAMP_L14,GARDENTRAMP_L14,Garden trampolining,source variable
-Activity,MEMS7_GARD_B08,GARD_B08,Gardening,source variable
-Activity,MEMS7GR_GARD_B08,GARD_B08,Gardening,source variable
-Activity,DAYS10P60GR_GARD_B08,GARD_B08,Gardening,source variable
-Activity,MONTHS_12_GARD_B08,GARD_B08,Gardening,source variable
-Activity,MEMS7_GLIDING_H08,GLIDING_H08,"Gliding, paragliding or handgliding",source variable
-Activity,MEMS7GR_GLIDING_H08,GLIDING_H08,"Gliding, paragliding or handgliding",source variable
-Activity,DAYS10P60GR_GLIDING_H08,GLIDING_H08,"Gliding, paragliding or handgliding",source variable
-Activity,MONTHS_12_GLIDING_H08,GLIDING_H08,"Gliding, paragliding or handgliding",source variable
-Activity,MEMS7_GOALBALL_F15,GOALBALL_F15,Goalball,source variable
-Activity,MEMS7GR_GOALBALL_F15,GOALBALL_F15,Goalball,source variable
-Activity,DAYS10P60GR_GOALBALL_F15,GOALBALL_F15,Goalball,source variable
-Activity,MONTHS_12_GOALBALL_F15,GOALBALL_F15,Goalball,source variable
-Activity,MEMS7_GOLFADV_U11,GOLFADV_U11,Adventure or crazy golf,source variable
-Activity,MEMS7GR_GOLFADV_U11,GOLFADV_U11,Adventure or crazy golf,source variable
-Activity,DAYS10P60GR_GOLFADV_U11,GOLFADV_U11,Adventure or crazy golf,source variable
-Activity,MONTHS_12_GOLFADV_U11,GOLFADV_U11,Adventure or crazy golf,source variable
-Activity,MEMS7_GOLFFULL_U08,GOLFFULL_U08,Full course golf,source variable
-Activity,MEMS7GR_GOLFFULL_U08,GOLFFULL_U08,Full course golf,source variable
-Activity,DAYS10P60GR_GOLFFULL_U08,GOLFFULL_U08,Full course golf,source variable
-Activity,MONTHS_12_GOLFFULL_U08,GOLFFULL_U08,Full course golf,source variable
-Activity,MEMS7_GOLFSHORT_U09,GOLFSHORT_U09,"Short course golf, par 3, pitch and putt, putting",source variable
-Activity,MEMS7GR_GOLFSHORT_U09,GOLFSHORT_U09,"Short course golf, par 3, pitch and putt, putting",source variable
-Activity,DAYS10P60GR_GOLFSHORT_U09,GOLFSHORT_U09,"Short course golf, par 3, pitch and putt, putting",source variable
-Activity,MONTHS_12_GOLFSHORT_U09,GOLFSHORT_U09,"Short course golf, par 3, pitch and putt, putting",source variable
-Activity,MEMS7_GOLF_L08,GOLF_L08,Golf,source variable
-Activity,MEMS7GR_GOLF_L08,GOLF_L08,Golf,source variable
-Activity,DAYS10P60GR_GOLF_L08,GOLF_L08,Golf,source variable
-Activity,MONTHS_12_GOLF_L08,GOLF_L08,Golf,source variable
-Activity,MEMS7_GYMNASTICSONLY_U24,GYMNASTICSONLY_U24,Gymnastics,source variable
-Activity,MEMS7GR_GYMNASTICSONLY_U24,GYMNASTICSONLY_U24,Gymnastics,source variable
-Activity,DAYS10P60GR_GYMNASTICSONLY_U24,GYMNASTICSONLY_U24,Gymnastics,source variable
-Activity,MONTHS_12_GYMNASTICSONLY_U24,GYMNASTICSONLY_U24,Gymnastics,source variable
-Activity,MEMS7_GYMNASTICS_L13,GYMNASTICS_L13,Gymnastics,source variable
-Activity,MEMS7GR_GYMNASTICS_L13,GYMNASTICS_L13,Gymnastics,source variable
-Activity,DAYS10P60GR_GYMNASTICS_L13,GYMNASTICS_L13,Gymnastics,source variable
-Activity,MONTHS_12_GYMNASTICS_L13,GYMNASTICS_L13,Gymnastics,source variable
-Activity,MEMS7_GYMTRAMPCHEER_C13,GYMTRAMPCHEER_C13,"Gymnastics, trampolining or cheerleading",source variable
-Activity,MEMS7GR_GYMTRAMPCHEER_C13,GYMTRAMPCHEER_C13,"Gymnastics, trampolining or cheerleading",source variable
-Activity,DAYS10P60GR_GYMTRAMPCHEER_C13,GYMTRAMPCHEER_C13,"Gymnastics, trampolining or cheerleading",source variable
-Activity,MONTHS_12_GYMTRAMPCHEER_C13,GYMTRAMPCHEER_C13,"Gymnastics, trampolining or cheerleading",source variable
-Activity,MEMS7_HANDBALL_F16,HANDBALL_F16,Handball,source variable
-Activity,MEMS7GR_HANDBALL_F16,HANDBALL_F16,Handball,source variable
-Activity,DAYS10P60GR_HANDBALL_F16,HANDBALL_F16,Handball,source variable
-Activity,MONTHS_12_HANDBALL_F16,HANDBALL_F16,Handball,source variable
-Activity,MEMS7_HIGHROPES_H14,HIGHROPES_H14,High ropes,source variable
-Activity,MEMS7GR_HIGHROPES_H14,HIGHROPES_H14,High ropes,source variable
-Activity,DAYS10P60GR_HIGHROPES_H14,HIGHROPES_H14,High ropes,source variable
-Activity,MONTHS_12_HIGHROPES_H14,HIGHROPES_H14,High ropes,source variable
-Activity,MEMS7_HOCKEY_F09,HOCKEY_F09,Hockey,source variable
-Activity,MEMS7GR_HOCKEY_F09,HOCKEY_F09,Hockey,source variable
-Activity,DAYS10P60GR_HOCKEY_F09,HOCKEY_F09,Hockey,source variable
-Activity,MONTHS_12_HOCKEY_F09,HOCKEY_F09,Hockey,source variable
-Activity,MEMS7_HULAHOOP_P27,HULAHOOP_P27,Hula hooping,blank placeholder
-Activity,MEMS7GR_HULAHOOP_P27,HULAHOOP_P27,Hula hooping,blank placeholder
-Activity,DAYS10P60GR_HULAHOOP_P27,HULAHOOP_P27,Hula hooping,blank placeholder
-Activity,MONTHS_12_HULAHOOP_P27,HULAHOOP_P27,Hula hooping,blank placeholder
-Activity,MEMS7_ICEHOCKEY_K03,ICEHOCKEY_K03,Ice hockey,source variable
-Activity,MEMS7GR_ICEHOCKEY_K03,ICEHOCKEY_K03,Ice hockey,source variable
-Activity,DAYS10P60GR_ICEHOCKEY_K03,ICEHOCKEY_K03,Ice hockey,source variable
-Activity,MONTHS_12_ICEHOCKEY_K03,ICEHOCKEY_K03,Ice hockey,source variable
-Activity,MEMS7_ICESKATING_I02,ICESKATING_I02,Ice skating,source variable
-Activity,MEMS7GR_ICESKATING_I02,ICESKATING_I02,Ice skating,source variable
-Activity,DAYS10P60GR_ICESKATING_I02,ICESKATING_I02,Ice skating,source variable
-Activity,MONTHS_12_ICESKATING_I02,ICESKATING_I02,Ice skating,source variable
-Activity,MEMS7_JUJITSU_S03,JUJITSU_S03,Ju-Jitsu,source variable
-Activity,MEMS7GR_JUJITSU_S03,JUJITSU_S03,Ju-Jitsu,source variable
-Activity,DAYS10P60GR_JUJITSU_S03,JUJITSU_S03,Ju-Jitsu,source variable
-Activity,MONTHS_12_JUJITSU_S03,JUJITSU_S03,Ju-Jitsu,source variable
-Activity,MEMS7_KARATE_S02,KARATE_S02,Karate,source variable
-Activity,MEMS7GR_KARATE_S02,KARATE_S02,Karate,source variable
-Activity,DAYS10P60GR_KARATE_S02,KARATE_S02,Karate,source variable
-Activity,MONTHS_12_KARATE_S02,KARATE_S02,Karate,source variable
-Activity,MEMS7_KARTING_U26,KARTING_U26,Karting or go-karting,source variable
-Activity,MEMS7GR_KARTING_U26,KARTING_U26,Karting or go-karting,source variable
-Activity,DAYS10P60GR_KARTING_U26,KARTING_U26,Karting or go-karting,source variable
-Activity,MONTHS_12_KARTING_U26,KARTING_U26,Karting or go-karting,source variable
-Activity,MEMS7_LACROSSE_F14,LACROSSE_F14,Lacrosse,source variable
-Activity,MEMS7GR_LACROSSE_F14,LACROSSE_F14,Lacrosse,source variable
-Activity,DAYS10P60GR_LACROSSE_F14,LACROSSE_F14,Lacrosse,source variable
-Activity,MONTHS_12_LACROSSE_F14,LACROSSE_F14,Lacrosse,source variable
-Activity,MEMS7_LIFESAVING_H13,LIFESAVING_H13,Life-saving,source variable
-Activity,MEMS7GR_LIFESAVING_H13,LIFESAVING_H13,Life-saving,source variable
-Activity,DAYS10P60GR_LIFESAVING_H13,LIFESAVING_H13,Life-saving,source variable
-Activity,MONTHS_12_LIFESAVING_H13,LIFESAVING_H13,Life-saving,source variable
-Activity,MEMS7_MARTIALCHINESE_S05,MARTIALCHINESE_S05,Chinese martial arts,source variable
-Activity,MEMS7GR_MARTIALCHINESE_S05,MARTIALCHINESE_S05,Chinese martial arts,source variable
-Activity,DAYS10P60GR_MARTIALCHINESE_S05,MARTIALCHINESE_S05,Chinese martial arts,source variable
-Activity,MONTHS_12_MARTIALCHINESE_S05,MARTIALCHINESE_S05,Chinese martial arts,source variable
-Activity,MEMS7_MARTIALOTHER_S06,MARTIALOTHER_S06,Other martial arts,source variable
-Activity,MEMS7GR_MARTIALOTHER_S06,MARTIALOTHER_S06,Other martial arts,source variable
-Activity,DAYS10P60GR_MARTIALOTHER_S06,MARTIALOTHER_S06,Other martial arts,source variable
-Activity,MONTHS_12_MARTIALOTHER_S06,MARTIALOTHER_S06,Other martial arts,source variable
-Activity,MEMS7_MARTIAL_J07,MARTIAL_J07,Martial Arts,source variable
-Activity,MEMS7GR_MARTIAL_J07,MARTIAL_J07,Martial Arts,source variable
-Activity,DAYS10P60GR_MARTIAL_J07,MARTIAL_J07,Martial Arts,source variable
-Activity,MONTHS_12_MARTIAL_J07,MARTIAL_J07,Martial Arts,source variable
-Activity,MEMS7_MODPENT_L06,MODPENT_L06,Modern Pentathlon,source variable
-Activity,MEMS7GR_MODPENT_L06,MODPENT_L06,Modern Pentathlon,source variable
-Activity,DAYS10P60GR_MODPENT_L06,MODPENT_L06,Modern Pentathlon,source variable
-Activity,MONTHS_12_MODPENT_L06,MODPENT_L06,Modern Pentathlon,source variable
-Activity,MEMS7_MOTORCARRACE_U28,MOTORCARRACE_U28,Motorcar racing,source variable
-Activity,MEMS7GR_MOTORCARRACE_U28,MOTORCARRACE_U28,Motorcar racing,source variable
-Activity,DAYS10P60GR_MOTORCARRACE_U28,MOTORCARRACE_U28,Motorcar racing,source variable
-Activity,MONTHS_12_MOTORCARRACE_U28,MOTORCARRACE_U28,Motorcar racing,source variable
-Activity,MEMS7_MOTORCYCRACE_U27,MOTORCYCRACE_U27,Motorcycle racing,source variable
-Activity,MEMS7GR_MOTORCYCRACE_U27,MOTORCYCRACE_U27,Motorcycle racing,source variable
-Activity,DAYS10P60GR_MOTORCYCRACE_U27,MOTORCYCRACE_U27,Motorcycle racing,source variable
-Activity,MONTHS_12_MOTORCYCRACE_U27,MOTORCYCRACE_U27,Motorcycle racing,source variable
-Activity,MEMS7_MOTORSPORTS_L18,MOTORSPORTS_L18,Motor sports,source variable
-Activity,MEMS7GR_MOTORSPORTS_L18,MOTORSPORTS_L18,Motor sports,source variable
-Activity,DAYS10P60GR_MOTORSPORTS_L18,MOTORSPORTS_L18,Motor sports,source variable
-Activity,MONTHS_12_MOTORSPORTS_L18,MOTORSPORTS_L18,Motor sports,source variable
-Activity,MEMS7_NETBALL_F06,NETBALL_F06,Netball,source variable
-Activity,MEMS7GR_NETBALL_F06,NETBALL_F06,Netball,source variable
-Activity,DAYS10P60GR_NETBALL_F06,NETBALL_F06,Netball,source variable
-Activity,MONTHS_12_NETBALL_F06,NETBALL_F06,Netball,source variable
-Activity,MEMS7_ORIENTEERING_H04,ORIENTEERING_H04,Orienteering,source variable
-Activity,MEMS7GR_ORIENTEERING_H04,ORIENTEERING_H04,Orienteering,source variable
-Activity,DAYS10P60GR_ORIENTEERING_H04,ORIENTEERING_H04,Orienteering,source variable
-Activity,MONTHS_12_ORIENTEERING_H04,ORIENTEERING_H04,Orienteering,source variable
-Activity,MEMS7_PARKOUR_H05,PARKOUR_H05,Parkour or free running,source variable
-Activity,MEMS7GR_PARKOUR_H05,PARKOUR_H05,Parkour or free running,source variable
-Activity,DAYS10P60GR_PARKOUR_H05,PARKOUR_H05,Parkour or free running,source variable
-Activity,MONTHS_12_PARKOUR_H05,PARKOUR_H05,Parkour or free running,source variable
-Activity,MEMS7_POOL_I07,POOL_I07,Pool,source variable
-Activity,MEMS7GR_POOL_I07,POOL_I07,Pool,source variable
-Activity,DAYS10P60GR_POOL_I07,POOL_I07,Pool,source variable
-Activity,MONTHS_12_POOL_I07,POOL_I07,Pool,source variable
-Activity,MEMS7_RIFLE_S09,RIFLE_S09,Rifle,source variable
-Activity,MEMS7GR_RIFLE_S09,RIFLE_S09,Rifle,source variable
-Activity,DAYS10P60GR_RIFLE_S09,RIFLE_S09,Rifle,source variable
-Activity,MONTHS_12_RIFLE_S09,RIFLE_S09,Rifle,source variable
-Activity,MEMS7_ROCKCLIMB_R01,ROCKCLIMB_R01,Rock climbing or bouldering,source variable
-Activity,MEMS7GR_ROCKCLIMB_R01,ROCKCLIMB_R01,Rock climbing or bouldering,source variable
-Activity,DAYS10P60GR_ROCKCLIMB_R01,ROCKCLIMB_R01,Rock climbing or bouldering,source variable
-Activity,MONTHS_12_ROCKCLIMB_R01,ROCKCLIMB_R01,Rock climbing or bouldering,source variable
-Activity,MEMS7_ROLLERSKATING_L16,ROLLERSKATING_L16,"Rollerskating, inline skating, rollerblading",source variable
-Activity,MEMS7GR_ROLLERSKATING_L16,ROLLERSKATING_L16,"Rollerskating, inline skating, rollerblading",source variable
-Activity,DAYS10P60GR_ROLLERSKATING_L16,ROLLERSKATING_L16,"Rollerskating, inline skating, rollerblading",source variable
-Activity,MONTHS_12_ROLLERSKATING_L16,ROLLERSKATING_L16,"Rollerskating, inline skating, rollerblading",source variable
-Activity,MEMS7_ROUNDERS_F11,ROUNDERS_F11,Rounders,source variable
-Activity,MEMS7GR_ROUNDERS_F11,ROUNDERS_F11,Rounders,source variable
-Activity,DAYS10P60GR_ROUNDERS_F11,ROUNDERS_F11,Rounders,source variable
-Activity,MONTHS_12_ROUNDERS_F11,ROUNDERS_F11,Rounders,source variable
-Activity,MEMS7_ROWINGWATER_R04,ROWINGWATER_R04,Rowing (on water),source variable
-Activity,MEMS7GR_ROWINGWATER_R04,ROWINGWATER_R04,Rowing (on water),source variable
-Activity,DAYS10P60GR_ROWINGWATER_R04,ROWINGWATER_R04,Rowing (on water),source variable
-Activity,MONTHS_12_ROWINGWATER_R04,ROWINGWATER_R04,Rowing (on water),source variable
-Activity,MEMS7_RUGBYLEAG13_Q17,RUGBYLEAG13_Q17,13 a-side rugby league,source variable
-Activity,MEMS7GR_RUGBYLEAG13_Q17,RUGBYLEAG13_Q17,13 a-side rugby league,source variable
-Activity,DAYS10P60GR_RUGBYLEAG13_Q17,RUGBYLEAG13_Q17,13 a-side rugby league,source variable
-Activity,MONTHS_12_RUGBYLEAG13_Q17,RUGBYLEAG13_Q17,13 a-side rugby league,source variable
-Activity,MEMS7_RUGBYLEAGTAG_Q19,RUGBYLEAGTAG_Q19,Tag or other rugby league,source variable
-Activity,MEMS7GR_RUGBYLEAGTAG_Q19,RUGBYLEAGTAG_Q19,Tag or other rugby league,source variable
-Activity,DAYS10P60GR_RUGBYLEAGTAG_Q19,RUGBYLEAGTAG_Q19,Tag or other rugby league,source variable
-Activity,MONTHS_12_RUGBYLEAGTAG_Q19,RUGBYLEAGTAG_Q19,Tag or other rugby league,source variable
-Activity,MEMS7_RUGBYLEAGTOUCH_Q18,RUGBYLEAGTOUCH_Q18,Touch rugby league,source variable
-Activity,MEMS7GR_RUGBYLEAGTOUCH_Q18,RUGBYLEAGTOUCH_Q18,Touch rugby league,source variable
-Activity,DAYS10P60GR_RUGBYLEAGTOUCH_Q18,RUGBYLEAGTOUCH_Q18,Touch rugby league,source variable
-Activity,MONTHS_12_RUGBYLEAGTOUCH_Q18,RUGBYLEAGTOUCH_Q18,Touch rugby league,source variable
-Activity,MEMS7_RUGBYLEAGUE_F04,RUGBYLEAGUE_F04,Rugby League,source variable
-Activity,MEMS7GR_RUGBYLEAGUE_F04,RUGBYLEAGUE_F04,Rugby League,source variable
-Activity,DAYS10P60GR_RUGBYLEAGUE_F04,RUGBYLEAGUE_F04,Rugby League,source variable
-Activity,MONTHS_12_RUGBYLEAGUE_F04,RUGBYLEAGUE_F04,Rugby League,source variable
-Activity,MEMS7_RUGBYUN15_Q13,RUGBYUN15_Q13,15 a-side rugby union,source variable
-Activity,MEMS7GR_RUGBYUN15_Q13,RUGBYUN15_Q13,15 a-side rugby union,source variable
-Activity,DAYS10P60GR_RUGBYUN15_Q13,RUGBYUN15_Q13,15 a-side rugby union,source variable
-Activity,MONTHS_12_RUGBYUN15_Q13,RUGBYUN15_Q13,15 a-side rugby union,source variable
-Activity,MEMS7_RUGBYUN7_Q15,RUGBYUN7_Q15,Rugby sevens,source variable
-Activity,MEMS7GR_RUGBYUN7_Q15,RUGBYUN7_Q15,Rugby sevens,source variable
-Activity,DAYS10P60GR_RUGBYUN7_Q15,RUGBYUN7_Q15,Rugby sevens,source variable
-Activity,MONTHS_12_RUGBYUN7_Q15,RUGBYUN7_Q15,Rugby sevens,source variable
-Activity,MEMS7_RUGBYUNION_F03,RUGBYUNION_F03,Rugby Union,source variable
-Activity,MEMS7GR_RUGBYUNION_F03,RUGBYUNION_F03,Rugby Union,source variable
-Activity,DAYS10P60GR_RUGBYUNION_F03,RUGBYUNION_F03,Rugby Union,source variable
-Activity,MONTHS_12_RUGBYUNION_F03,RUGBYUNION_F03,Rugby Union,source variable
-Activity,MEMS7_RUGBYUNTAG_Q16,RUGBYUNTAG_Q16,Tag or other rugby union,source variable
-Activity,MEMS7GR_RUGBYUNTAG_Q16,RUGBYUNTAG_Q16,Tag or other rugby union,source variable
-Activity,DAYS10P60GR_RUGBYUNTAG_Q16,RUGBYUNTAG_Q16,Tag or other rugby union,source variable
-Activity,MONTHS_12_RUGBYUNTAG_Q16,RUGBYUNTAG_Q16,Tag or other rugby union,source variable
-Activity,MEMS7_RUGBYUNTOUCH_Q14,RUGBYUNTOUCH_Q14,Touch rugby union,source variable
-Activity,MEMS7GR_RUGBYUNTOUCH_Q14,RUGBYUNTOUCH_Q14,Touch rugby union,source variable
-Activity,DAYS10P60GR_RUGBYUNTOUCH_Q14,RUGBYUNTOUCH_Q14,Touch rugby union,source variable
-Activity,MONTHS_12_RUGBYUNTOUCH_Q14,RUGBYUNTOUCH_Q14,Touch rugby union,source variable
-Activity,MEMS7_RUNJOG_U07,RUNJOG_U07,Running or jogging,source variable
-Activity,MEMS7GR_RUNJOG_U07,RUNJOG_U07,Running or jogging,source variable
-Activity,DAYS10P60GR_RUNJOG_U07,RUNJOG_U07,Running or jogging,source variable
-Activity,MONTHS_12_RUNJOG_U07,RUNJOG_U07,Running or jogging,source variable
-Activity,MEMS7_SHOOTING_J08,SHOOTING_J08,Shooting,source variable
-Activity,MEMS7GR_SHOOTING_J08,SHOOTING_J08,Shooting,source variable
-Activity,DAYS10P60GR_SHOOTING_J08,SHOOTING_J08,Shooting,source variable
-Activity,MONTHS_12_SHOOTING_J08,SHOOTING_J08,Shooting,source variable
-Activity,MEMS7_SKATEBOARDING_L17,SKATEBOARDING_L17,Skateboarding,source variable
-Activity,MEMS7GR_SKATEBOARDING_L17,SKATEBOARDING_L17,Skateboarding,source variable
-Activity,DAYS10P60GR_SKATEBOARDING_L17,SKATEBOARDING_L17,Skateboarding,source variable
-Activity,MONTHS_12_SKATEBOARDING_L17,SKATEBOARDING_L17,Skateboarding,source variable
-Activity,MEMS7_SKIING_T01,SKIING_T01,Skiing,source variable
-Activity,MEMS7GR_SKIING_T01,SKIING_T01,Skiing,source variable
-Activity,DAYS10P60GR_SKIING_T01,SKIING_T01,Skiing,source variable
-Activity,MONTHS_12_SKIING_T01,SKIING_T01,Skiing,source variable
-Activity,MEMS7_SKITTLES_I09,SKITTLES_I09,Skittles,source variable
-Activity,MEMS7GR_SKITTLES_I09,SKITTLES_I09,Skittles,source variable
-Activity,DAYS10P60GR_SKITTLES_I09,SKITTLES_I09,Skittles,source variable
-Activity,MONTHS_12_SKITTLES_I09,SKITTLES_I09,Skittles,source variable
-Activity,MEMS7_SLEDDING_K02,SLEDDING_K02,"Sledding, luge, tobogganing",source variable
-Activity,MEMS7GR_SLEDDING_K02,SLEDDING_K02,"Sledding, luge, tobogganing",source variable
-Activity,DAYS10P60GR_SLEDDING_K02,SLEDDING_K02,"Sledding, luge, tobogganing",source variable
-Activity,MONTHS_12_SLEDDING_K02,SLEDDING_K02,"Sledding, luge, tobogganing",source variable
-Activity,MEMS7_SNOOKER_I06,SNOOKER_I06,Snooker,source variable
-Activity,MEMS7GR_SNOOKER_I06,SNOOKER_I06,Snooker,source variable
-Activity,DAYS10P60GR_SNOOKER_I06,SNOOKER_I06,Snooker,source variable
-Activity,MONTHS_12_SNOOKER_I06,SNOOKER_I06,Snooker,source variable
-Activity,MEMS7_SNOWBOARDING_T02,SNOWBOARDING_T02,Snowboarding,source variable
-Activity,MEMS7GR_SNOWBOARDING_T02,SNOWBOARDING_T02,Snowboarding,source variable
-Activity,DAYS10P60GR_SNOWBOARDING_T02,SNOWBOARDING_T02,Snowboarding,source variable
-Activity,MONTHS_12_SNOWBOARDING_T02,SNOWBOARDING_T02,Snowboarding,source variable
-Activity,MEMS7_SNOWSPORT_K01,SNOWSPORT_K01,Snowsport,source variable
-Activity,MEMS7GR_SNOWSPORT_K01,SNOWSPORT_K01,Snowsport,source variable
-Activity,DAYS10P60GR_SNOWSPORT_K01,SNOWSPORT_K01,Snowsport,source variable
-Activity,MONTHS_12_SNOWSPORT_K01,SNOWSPORT_K01,Snowsport,source variable
-Activity,MEMS7_TABLETENNIS_G03,TABLETENNIS_G03,Table Tennis,source variable
-Activity,MEMS7GR_TABLETENNIS_G03,TABLETENNIS_G03,Table Tennis,source variable
-Activity,DAYS10P60GR_TABLETENNIS_G03,TABLETENNIS_G03,Table Tennis,source variable
-Activity,MONTHS_12_TABLETENNIS_G03,TABLETENNIS_G03,Table Tennis,source variable
-Activity,MEMS7_TAEKWONDO_J05,TAEKWONDO_J05,Taekwondo,source variable
-Activity,MEMS7GR_TAEKWONDO_J05,TAEKWONDO_J05,Taekwondo,source variable
-Activity,DAYS10P60GR_TAEKWONDO_J05,TAEKWONDO_J05,Taekwondo,source variable
-Activity,MONTHS_12_TAEKWONDO_J05,TAEKWONDO_J05,Taekwondo,source variable
-Activity,MEMS7_TENNIS_G01,TENNIS_G01,Tennis,source variable
-Activity,MEMS7GR_TENNIS_G01,TENNIS_G01,Tennis,source variable
-Activity,DAYS10P60GR_TENNIS_G01,TENNIS_G01,Tennis,source variable
-Activity,MONTHS_12_TENNIS_G01,TENNIS_G01,Tennis,source variable
-Activity,MEMS7_TENPIN_I04,TENPIN_I04,Ten-pin bowling,source variable
-Activity,MEMS7GR_TENPIN_I04,TENPIN_I04,Ten-pin bowling,source variable
-Activity,DAYS10P60GR_TENPIN_I04,TENPIN_I04,Ten-pin bowling,source variable
-Activity,MONTHS_12_TENPIN_I04,TENPIN_I04,Ten-pin bowling,source variable
-Activity,MEMS7_TRACKANDFIELD_L02,TRACKANDFIELD_L02,Track and field athletics,source variable
-Activity,MEMS7GR_TRACKANDFIELD_L02,TRACKANDFIELD_L02,Track and field athletics,source variable
-Activity,DAYS10P60GR_TRACKANDFIELD_L02,TRACKANDFIELD_L02,Track and field athletics,source variable
-Activity,MONTHS_12_TRACKANDFIELD_L02,TRACKANDFIELD_L02,Track and field athletics,source variable
-Activity,MEMS7_TRAMPOLINING_U25,TRAMPOLINING_U25,Trampolining,source variable
-Activity,MEMS7GR_TRAMPOLINING_U25,TRAMPOLINING_U25,Trampolining,source variable
-Activity,DAYS10P60GR_TRAMPOLINING_U25,TRAMPOLINING_U25,Trampolining,source variable
-Activity,MONTHS_12_TRAMPOLINING_U25,TRAMPOLINING_U25,Trampolining,source variable
-Activity,MEMS7_TRIATHLON_L05,TRIATHLON_L05,Triathlon,source variable
-Activity,MEMS7GR_TRIATHLON_L05,TRIATHLON_L05,Triathlon,source variable
-Activity,DAYS10P60GR_TRIATHLON_L05,TRIATHLON_L05,Triathlon,source variable
-Activity,MONTHS_12_TRIATHLON_L05,TRIATHLON_L05,Triathlon,source variable
-Activity,MEMS7_VOLLEYBALL_F10,VOLLEYBALL_F10,Volleyball,source variable
-Activity,MEMS7GR_VOLLEYBALL_F10,VOLLEYBALL_F10,Volleyball,source variable
-Activity,DAYS10P60GR_VOLLEYBALL_F10,VOLLEYBALL_F10,Volleyball,source variable
-Activity,MONTHS_12_VOLLEYBALL_F10,VOLLEYBALL_F10,Volleyball,source variable
-Activity,MEMS7_WALKTRAV_B02,WALKTRAV_B02,Walking for travel,source variable
-Activity,MEMS7GR_WALKTRAV_B02,WALKTRAV_B02,Walking for travel,source variable
-Activity,DAYS10P60GR_WALKTRAV_B02,WALKTRAV_B02,Walking for travel,source variable
-Activity,MONTHS_12_WALKTRAV_B02,WALKTRAV_B02,Walking for travel,source variable
-Activity,MEMS7_WATERPOLO_U06,WATERPOLO_U06,Water polo,source variable
-Activity,MEMS7GR_WATERPOLO_U06,WATERPOLO_U06,Water polo,source variable
-Activity,DAYS10P60GR_WATERPOLO_U06,WATERPOLO_U06,Water polo,source variable
-Activity,MONTHS_12_WATERPOLO_U06,WATERPOLO_U06,Water polo,source variable
-Activity,MEMS7_WATERSKIING_H10,WATERSKIING_H10,Waterskiing,source variable
-Activity,MEMS7GR_WATERSKIING_H10,WATERSKIING_H10,Waterskiing,source variable
-Activity,DAYS10P60GR_WATERSKIING_H10,WATERSKIING_H10,Waterskiing,source variable
-Activity,MONTHS_12_WATERSKIING_H10,WATERSKIING_H10,Waterskiing,source variable
-Activity,MEMS7_WHEELCHBASKETBALL_F08,WHEELCHBASKETBALL_F08,Wheelchair Basketball,source variable
-Activity,MEMS7GR_WHEELCHBASKETBALL_F08,WHEELCHBASKETBALL_F08,Wheelchair Basketball,source variable
-Activity,DAYS10P60GR_WHEELCHBASKETBALL_F08,WHEELCHBASKETBALL_F08,Wheelchair Basketball,source variable
-Activity,MONTHS_12_WHEELCHBASKETBALL_F08,WHEELCHBASKETBALL_F08,Wheelchair Basketball,source variable
-Activity,MEMS7_WHEELCHRUGBY_F05,WHEELCHRUGBY_F05,Wheelchair Rugby,source variable
-Activity,MEMS7GR_WHEELCHRUGBY_F05,WHEELCHRUGBY_F05,Wheelchair Rugby,source variable
-Activity,DAYS10P60GR_WHEELCHRUGBY_F05,WHEELCHRUGBY_F05,Wheelchair Rugby,source variable
-Activity,MONTHS_12_WHEELCHRUGBY_F05,WHEELCHRUGBY_F05,Wheelchair Rugby,source variable
-Activity,MEMS7_WINTER_C10,WINTER_C10,Winter sports,source variable
-Activity,MEMS7GR_WINTER_C10,WINTER_C10,Winter sports,source variable
-Activity,DAYS10P60GR_WINTER_C10,WINTER_C10,Winter sports,source variable
-Activity,MONTHS_12_WINTER_C10,WINTER_C10,Winter sports,source variable
-Activity,MEMS7_WRESTLING_J09,WRESTLING_J09,Wrestling,source variable
-Activity,MEMS7GR_WRESTLING_J09,WRESTLING_J09,Wrestling,source variable
-Activity,DAYS10P60GR_WRESTLING_J09,WRESTLING_J09,Wrestling,source variable
-Activity,MONTHS_12_WRESTLING_J09,WRESTLING_J09,Wrestling,source variable
+﻿category,variable,activity_suffix,activity_label,source_status,selection_note
+Other,serial,,,source variable,
+Other,year,,,constant value: 2016,
+Other,mode,,,source variable,
+Other,Month,,,source variable,
+Geography,LA_2023,,,source variable,
+Geography,Reg9,,,source variable,
+Geography,LondInOut,,,source variable,
+Demographics,age16plus,,,source variable,
+Demographics,Age9,,,source variable,
+Demographics,Disab3,,,source variable,
+Demographics,disty1_POP,,,source variable,
+Demographics,disty2_POP,,,source variable,
+Demographics,disty3_POP,,,source variable,
+Demographics,disty4_POP,,,source variable,
+Demographics,disty5_POP,,,source variable,
+Demographics,disty6_POP,,,source variable,
+Demographics,disty7_POP,,,source variable,
+Demographics,disty8_POP,,,source variable,
+Demographics,disty9_POP,,,source variable,
+Demographics,disty10_POP,,,source variable,
+Demographics,disty11_POP,,,source variable,
+Demographics,disty12_POP,,,source variable,
+Demographics,disty13_POP,,,source variable,
+Weight,wt_final,,,source variable,
+Weight,wt_final_online,,,source variable,
+Weight,wt_final_B,,,source variable,
+Weight,wt_final_C,,,source variable,
+Weight,wt_final_AB,,,source variable,
+Weight,wt_final_AC,,,source variable,
+Weight,wt_time,,,source variable,
+Weight,wt_online_time,,,source variable,
+Activity,MEMS7_ALL,,Overall activity measure,source variable,Added explicitly
+Activity,MEMS7GR_ALL,,Overall activity measure,source variable,Added explicitly
+Activity,MONTHS_12_WALKTRAV_B02,WALKTRAV_B02,Walking for travel,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_WALKTRAV_B02,WALKTRAV_B02,Walking for travel,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CAPPED_WALKTRAV_B02,WALKTRAV_B02,Walking for travel,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7_WALKTRAV_B02,WALKTRAV_B02,Walking for travel,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_WALKTRAV_B02,WALKTRAV_B02,Walking for travel,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CYCTRAV_B04,CYCTRAV_B04,Cycling for travel,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CYCTRAV_B04,CYCTRAV_B04,Cycling for travel,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CAPPED_CYCTRAV_B04,CYCTRAV_B04,Cycling for travel,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7_CYCTRAV_B04,CYCTRAV_B04,Cycling for travel,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CYCTRAV_B04,CYCTRAV_B04,Cycling for travel,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_DANCEART_B05,DANCEART_B05,Creative or artistic dance,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_DANCEART_B05,DANCEART_B05,Creative or artistic dance,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_DANCEART_B05,DANCEART_B05,Creative or artistic dance,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_DANCEART_B05,DANCEART_B05,Creative or artistic dance,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GARD_B08,GARD_B08,Gardening,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GARD_B08,GARD_B08,Gardening,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GARD_B08,GARD_B08,Gardening,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GARD_B08,GARD_B08,Gardening,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ACTTRAV_C03,ACTTRAV_C03,Active Travel,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ACTTRAV_C03,ACTTRAV_C03,Active Travel,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CAPPED_ACTTRAV_C03,ACTTRAV_C03,Active Travel,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7_ACTTRAV_C03,ACTTRAV_C03,Active Travel,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ACTTRAV_C03,ACTTRAV_C03,Active Travel,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_WINTER_C10,WINTER_C10,Winter sports,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_WINTER_C10,WINTER_C10,Winter sports,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_WINTER_C10,WINTER_C10,Winter sports,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_WINTER_C10,WINTER_C10,Winter sports,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BOWLSBOULES_C12,BOWLSBOULES_C12,Bowls or boules,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BOWLSBOULES_C12,BOWLSBOULES_C12,Bowls or boules,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BOWLSBOULES_C12,BOWLSBOULES_C12,Bowls or boules,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BOWLSBOULES_C12,BOWLSBOULES_C12,Bowls or boules,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GYMTRAMPCHEER_C13,GYMTRAMPCHEER_C13,"Gymnastics, trampolining or cheerleading",source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GYMTRAMPCHEER_C13,GYMTRAMPCHEER_C13,"Gymnastics, trampolining or cheerleading",source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GYMTRAMPCHEER_C13,GYMTRAMPCHEER_C13,"Gymnastics, trampolining or cheerleading",source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GYMTRAMPCHEER_C13,GYMTRAMPCHEER_C13,"Gymnastics, trampolining or cheerleading",source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_FOOTBALL_F01,FOOTBALL_F01,Football,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_FOOTBALL_F01,FOOTBALL_F01,Football,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CAPPED_FOOTBALL_F01,FOOTBALL_F01,Football,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7_FOOTBALL_F01,FOOTBALL_F01,Football,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_FOOTBALL_F01,FOOTBALL_F01,Football,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUGBYUNION_F03,RUGBYUNION_F03,Rugby Union,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUGBYUNION_F03,RUGBYUNION_F03,Rugby Union,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUGBYUNION_F03,RUGBYUNION_F03,Rugby Union,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUGBYUNION_F03,RUGBYUNION_F03,Rugby Union,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUGBYLEAGUE_F04,RUGBYLEAGUE_F04,Rugby League,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUGBYLEAGUE_F04,RUGBYLEAGUE_F04,Rugby League,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUGBYLEAGUE_F04,RUGBYLEAGUE_F04,Rugby League,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUGBYLEAGUE_F04,RUGBYLEAGUE_F04,Rugby League,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_WHEELCHRUGBY_F05,WHEELCHRUGBY_F05,Wheelchair Rugby,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_WHEELCHRUGBY_F05,WHEELCHRUGBY_F05,Wheelchair Rugby,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_WHEELCHRUGBY_F05,WHEELCHRUGBY_F05,Wheelchair Rugby,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_WHEELCHRUGBY_F05,WHEELCHRUGBY_F05,Wheelchair Rugby,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_NETBALL_F06,NETBALL_F06,Netball,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_NETBALL_F06,NETBALL_F06,Netball,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_NETBALL_F06,NETBALL_F06,Netball,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_NETBALL_F06,NETBALL_F06,Netball,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BASKETBALL_F07,BASKETBALL_F07,Basketball,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BASKETBALL_F07,BASKETBALL_F07,Basketball,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BASKETBALL_F07,BASKETBALL_F07,Basketball,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BASKETBALL_F07,BASKETBALL_F07,Basketball,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_WHEELCHBASKETBALL_F08,WHEELCHBASKETBALL_F08,Wheelchair Basketball,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_WHEELCHBASKETBALL_F08,WHEELCHBASKETBALL_F08,Wheelchair Basketball,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_WHEELCHBASKETBALL_F08,WHEELCHBASKETBALL_F08,Wheelchair Basketball,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_WHEELCHBASKETBALL_F08,WHEELCHBASKETBALL_F08,Wheelchair Basketball,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_HOCKEY_F09,HOCKEY_F09,Hockey,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_HOCKEY_F09,HOCKEY_F09,Hockey,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_HOCKEY_F09,HOCKEY_F09,Hockey,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_HOCKEY_F09,HOCKEY_F09,Hockey,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_VOLLEYBALL_F10,VOLLEYBALL_F10,Volleyball,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_VOLLEYBALL_F10,VOLLEYBALL_F10,Volleyball,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_VOLLEYBALL_F10,VOLLEYBALL_F10,Volleyball,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_VOLLEYBALL_F10,VOLLEYBALL_F10,Volleyball,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ROUNDERS_F11,ROUNDERS_F11,Rounders,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ROUNDERS_F11,ROUNDERS_F11,Rounders,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_ROUNDERS_F11,ROUNDERS_F11,Rounders,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ROUNDERS_F11,ROUNDERS_F11,Rounders,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_DODGEBALL_F12,DODGEBALL_F12,Dodgeball,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_DODGEBALL_F12,DODGEBALL_F12,Dodgeball,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_DODGEBALL_F12,DODGEBALL_F12,Dodgeball,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_DODGEBALL_F12,DODGEBALL_F12,Dodgeball,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BASESOFTBALL_F13,BASESOFTBALL_F13,Baseball or Softball,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BASESOFTBALL_F13,BASESOFTBALL_F13,Baseball or Softball,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BASESOFTBALL_F13,BASESOFTBALL_F13,Baseball or Softball,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BASESOFTBALL_F13,BASESOFTBALL_F13,Baseball or Softball,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_LACROSSE_F14,LACROSSE_F14,Lacrosse,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_LACROSSE_F14,LACROSSE_F14,Lacrosse,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_LACROSSE_F14,LACROSSE_F14,Lacrosse,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_LACROSSE_F14,LACROSSE_F14,Lacrosse,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GOALBALL_F15,GOALBALL_F15,Goalball,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GOALBALL_F15,GOALBALL_F15,Goalball,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GOALBALL_F15,GOALBALL_F15,Goalball,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GOALBALL_F15,GOALBALL_F15,Goalball,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_HANDBALL_F16,HANDBALL_F16,Handball,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_HANDBALL_F16,HANDBALL_F16,Handball,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_HANDBALL_F16,HANDBALL_F16,Handball,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_HANDBALL_F16,HANDBALL_F16,Handball,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_TENNIS_G01,TENNIS_G01,Tennis,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_TENNIS_G01,TENNIS_G01,Tennis,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_TENNIS_G01,TENNIS_G01,Tennis,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_TENNIS_G01,TENNIS_G01,Tennis,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BADMINTON_G02,BADMINTON_G02,Badminton,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BADMINTON_G02,BADMINTON_G02,Badminton,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BADMINTON_G02,BADMINTON_G02,Badminton,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BADMINTON_G02,BADMINTON_G02,Badminton,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_TABLETENNIS_G03,TABLETENNIS_G03,Table Tennis,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_TABLETENNIS_G03,TABLETENNIS_G03,Table Tennis,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_TABLETENNIS_G03,TABLETENNIS_G03,Table Tennis,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_TABLETENNIS_G03,TABLETENNIS_G03,Table Tennis,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CAVING_H02,CAVING_H02,Caving or pot holing,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CAVING_H02,CAVING_H02,Caving or pot holing,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CAVING_H02,CAVING_H02,Caving or pot holing,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CAVING_H02,CAVING_H02,Caving or pot holing,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ABSEILING_H03,ABSEILING_H03,Abseiling,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ABSEILING_H03,ABSEILING_H03,Abseiling,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_ABSEILING_H03,ABSEILING_H03,Abseiling,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ABSEILING_H03,ABSEILING_H03,Abseiling,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ORIENTEERING_H04,ORIENTEERING_H04,Orienteering,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ORIENTEERING_H04,ORIENTEERING_H04,Orienteering,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_ORIENTEERING_H04,ORIENTEERING_H04,Orienteering,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ORIENTEERING_H04,ORIENTEERING_H04,Orienteering,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_PARKOUR_H05,PARKOUR_H05,Parkour or free running,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_PARKOUR_H05,PARKOUR_H05,Parkour or free running,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_PARKOUR_H05,PARKOUR_H05,Parkour or free running,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_PARKOUR_H05,PARKOUR_H05,Parkour or free running,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GLIDING_H08,GLIDING_H08,"Gliding, paragliding or handgliding",source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GLIDING_H08,GLIDING_H08,"Gliding, paragliding or handgliding",source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GLIDING_H08,GLIDING_H08,"Gliding, paragliding or handgliding",source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GLIDING_H08,GLIDING_H08,"Gliding, paragliding or handgliding",source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_WATERSKIING_H10,WATERSKIING_H10,Waterskiing,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_WATERSKIING_H10,WATERSKIING_H10,Waterskiing,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_WATERSKIING_H10,WATERSKIING_H10,Waterskiing,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_WATERSKIING_H10,WATERSKIING_H10,Waterskiing,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_LIFESAVING_H13,LIFESAVING_H13,Life-saving,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_LIFESAVING_H13,LIFESAVING_H13,Life-saving,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_LIFESAVING_H13,LIFESAVING_H13,Life-saving,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_LIFESAVING_H13,LIFESAVING_H13,Life-saving,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_HIGHROPES_H14,HIGHROPES_H14,High ropes,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_HIGHROPES_H14,HIGHROPES_H14,High ropes,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_HIGHROPES_H14,HIGHROPES_H14,High ropes,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_HIGHROPES_H14,HIGHROPES_H14,High ropes,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ICESKATING_I02,ICESKATING_I02,Ice skating,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ICESKATING_I02,ICESKATING_I02,Ice skating,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_ICESKATING_I02,ICESKATING_I02,Ice skating,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ICESKATING_I02,ICESKATING_I02,Ice skating,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_FRISBEE_I03,FRISBEE_I03,Frisbee or ultimate frisbee,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_FRISBEE_I03,FRISBEE_I03,Frisbee or ultimate frisbee,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_FRISBEE_I03,FRISBEE_I03,Frisbee or ultimate frisbee,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_FRISBEE_I03,FRISBEE_I03,Frisbee or ultimate frisbee,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_TENPIN_I04,TENPIN_I04,Ten-pin bowling,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_TENPIN_I04,TENPIN_I04,Ten-pin bowling,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_TENPIN_I04,TENPIN_I04,Ten-pin bowling,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_TENPIN_I04,TENPIN_I04,Ten-pin bowling,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CROQUET_I05,CROQUET_I05,Croquet,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CROQUET_I05,CROQUET_I05,Croquet,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CROQUET_I05,CROQUET_I05,Croquet,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CROQUET_I05,CROQUET_I05,Croquet,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_SNOOKER_I06,SNOOKER_I06,Snooker,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_SNOOKER_I06,SNOOKER_I06,Snooker,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_SNOOKER_I06,SNOOKER_I06,Snooker,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_SNOOKER_I06,SNOOKER_I06,Snooker,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_POOL_I07,POOL_I07,Pool,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_POOL_I07,POOL_I07,Pool,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_POOL_I07,POOL_I07,Pool,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_POOL_I07,POOL_I07,Pool,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_DARTS_I08,DARTS_I08,Darts,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_DARTS_I08,DARTS_I08,Darts,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_DARTS_I08,DARTS_I08,Darts,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_DARTS_I08,DARTS_I08,Darts,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_SKITTLES_I09,SKITTLES_I09,Skittles,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_SKITTLES_I09,SKITTLES_I09,Skittles,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_SKITTLES_I09,SKITTLES_I09,Skittles,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_SKITTLES_I09,SKITTLES_I09,Skittles,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ARCHERY_J01,ARCHERY_J01,Archery,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ARCHERY_J01,ARCHERY_J01,Archery,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_ARCHERY_J01,ARCHERY_J01,Archery,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ARCHERY_J01,ARCHERY_J01,Archery,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_FENCING_J03,FENCING_J03,Fencing,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_FENCING_J03,FENCING_J03,Fencing,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_FENCING_J03,FENCING_J03,Fencing,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_FENCING_J03,FENCING_J03,Fencing,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_TAEKWONDO_J05,TAEKWONDO_J05,Taekwondo,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_TAEKWONDO_J05,TAEKWONDO_J05,Taekwondo,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_TAEKWONDO_J05,TAEKWONDO_J05,Taekwondo,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_TAEKWONDO_J05,TAEKWONDO_J05,Taekwondo,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_MARTIAL_J07,MARTIAL_J07,Martial Arts,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_MARTIAL_J07,MARTIAL_J07,Martial Arts,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_MARTIAL_J07,MARTIAL_J07,Martial Arts,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_MARTIAL_J07,MARTIAL_J07,Martial Arts,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_SHOOTING_J08,SHOOTING_J08,Shooting,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_SHOOTING_J08,SHOOTING_J08,Shooting,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_SHOOTING_J08,SHOOTING_J08,Shooting,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_SHOOTING_J08,SHOOTING_J08,Shooting,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_WRESTLING_J09,WRESTLING_J09,Wrestling,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_WRESTLING_J09,WRESTLING_J09,Wrestling,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_WRESTLING_J09,WRESTLING_J09,Wrestling,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_WRESTLING_J09,WRESTLING_J09,Wrestling,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_SNOWSPORT_K01,SNOWSPORT_K01,Snowsport,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_SNOWSPORT_K01,SNOWSPORT_K01,Snowsport,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_SNOWSPORT_K01,SNOWSPORT_K01,Snowsport,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_SNOWSPORT_K01,SNOWSPORT_K01,Snowsport,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_SLEDDING_K02,SLEDDING_K02,"Sledding, luge, tobogganing",source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_SLEDDING_K02,SLEDDING_K02,"Sledding, luge, tobogganing",source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_SLEDDING_K02,SLEDDING_K02,"Sledding, luge, tobogganing",source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_SLEDDING_K02,SLEDDING_K02,"Sledding, luge, tobogganing",source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ICEHOCKEY_K03,ICEHOCKEY_K03,Ice hockey,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ICEHOCKEY_K03,ICEHOCKEY_K03,Ice hockey,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_ICEHOCKEY_K03,ICEHOCKEY_K03,Ice hockey,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ICEHOCKEY_K03,ICEHOCKEY_K03,Ice hockey,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_TRACKANDFIELD_L02,TRACKANDFIELD_L02,Track and field athletics,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_TRACKANDFIELD_L02,TRACKANDFIELD_L02,Track and field athletics,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_TRACKANDFIELD_L02,TRACKANDFIELD_L02,Track and field athletics,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_TRACKANDFIELD_L02,TRACKANDFIELD_L02,Track and field athletics,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_FELLRUNNING_L04,FELLRUNNING_L04,Fell running,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_FELLRUNNING_L04,FELLRUNNING_L04,Fell running,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_FELLRUNNING_L04,FELLRUNNING_L04,Fell running,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_FELLRUNNING_L04,FELLRUNNING_L04,Fell running,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_TRIATHLON_L05,TRIATHLON_L05,Triathlon,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_TRIATHLON_L05,TRIATHLON_L05,Triathlon,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_TRIATHLON_L05,TRIATHLON_L05,Triathlon,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_TRIATHLON_L05,TRIATHLON_L05,Triathlon,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_MODPENT_L06,MODPENT_L06,Modern Pentathlon,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_MODPENT_L06,MODPENT_L06,Modern Pentathlon,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_MODPENT_L06,MODPENT_L06,Modern Pentathlon,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_MODPENT_L06,MODPENT_L06,Modern Pentathlon,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GOLF_L08,GOLF_L08,Golf,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GOLF_L08,GOLF_L08,Golf,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GOLF_L08,GOLF_L08,Golf,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GOLF_L08,GOLF_L08,Golf,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_EQUEST_L09,EQUEST_L09,Equestrian,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_EQUEST_L09,EQUEST_L09,Equestrian,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_EQUEST_L09,EQUEST_L09,Equestrian,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_EQUEST_L09,EQUEST_L09,Equestrian,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BOWLS_L10,BOWLS_L10,Bowls,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BOWLS_L10,BOWLS_L10,Bowls,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BOWLS_L10,BOWLS_L10,Bowls,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BOWLS_L10,BOWLS_L10,Bowls,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BOCCIA_L11,BOCCIA_L11,Boccia,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BOCCIA_L11,BOCCIA_L11,Boccia,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BOCCIA_L11,BOCCIA_L11,Boccia,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BOCCIA_L11,BOCCIA_L11,Boccia,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BOULES_L12,BOULES_L12,"Boules, petanque, deck bowls",source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BOULES_L12,BOULES_L12,"Boules, petanque, deck bowls",source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BOULES_L12,BOULES_L12,"Boules, petanque, deck bowls",source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BOULES_L12,BOULES_L12,"Boules, petanque, deck bowls",source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GYMNASTICS_L13,GYMNASTICS_L13,Gymnastics,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GYMNASTICS_L13,GYMNASTICS_L13,Gymnastics,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GYMNASTICS_L13,GYMNASTICS_L13,Gymnastics,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GYMNASTICS_L13,GYMNASTICS_L13,Gymnastics,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GARDENTRAMP_L14,GARDENTRAMP_L14,Garden trampolining,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GARDENTRAMP_L14,GARDENTRAMP_L14,Garden trampolining,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GARDENTRAMP_L14,GARDENTRAMP_L14,Garden trampolining,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GARDENTRAMP_L14,GARDENTRAMP_L14,Garden trampolining,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CHEERLEADING_L15,CHEERLEADING_L15,Cheerleading,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CHEERLEADING_L15,CHEERLEADING_L15,Cheerleading,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CHEERLEADING_L15,CHEERLEADING_L15,Cheerleading,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CHEERLEADING_L15,CHEERLEADING_L15,Cheerleading,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ROLLERSKATING_L16,ROLLERSKATING_L16,"Rollerskating, inline skating, rollerblading",source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ROLLERSKATING_L16,ROLLERSKATING_L16,"Rollerskating, inline skating, rollerblading",source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_ROLLERSKATING_L16,ROLLERSKATING_L16,"Rollerskating, inline skating, rollerblading",source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ROLLERSKATING_L16,ROLLERSKATING_L16,"Rollerskating, inline skating, rollerblading",source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_SKATEBOARDING_L17,SKATEBOARDING_L17,Skateboarding,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_SKATEBOARDING_L17,SKATEBOARDING_L17,Skateboarding,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_SKATEBOARDING_L17,SKATEBOARDING_L17,Skateboarding,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_SKATEBOARDING_L17,SKATEBOARDING_L17,Skateboarding,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_MOTORSPORTS_L18,MOTORSPORTS_L18,Motor sports,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_MOTORSPORTS_L18,MOTORSPORTS_L18,Motor sports,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_MOTORSPORTS_L18,MOTORSPORTS_L18,Motor sports,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_MOTORSPORTS_L18,MOTORSPORTS_L18,Motor sports,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CYC_OLD_M02,CYC_OLD_M02,Cycling_old,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CYC_OLD_M02,CYC_OLD_M02,Cycling_old,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CYC_OLD_M02,CYC_OLD_M02,Cycling_old,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CYC_OLD_M02,CYC_OLD_M02,Cycling_old,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CYCLEISURE_N01,CYCLEISURE_N01,Cycling for leisure,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CYCLEISURE_N01,CYCLEISURE_N01,Cycling for leisure,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CYCLEISURE_N01,CYCLEISURE_N01,Cycling for leisure,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CYCLEISURE_N01,CYCLEISURE_N01,Cycling for leisure,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CYCMOUNTAIN_N02,CYCMOUNTAIN_N02,Mountain biking,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CYCMOUNTAIN_N02,CYCMOUNTAIN_N02,Mountain biking,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CYCMOUNTAIN_N02,CYCMOUNTAIN_N02,Mountain biking,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CYCMOUNTAIN_N02,CYCMOUNTAIN_N02,Mountain biking,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CYCBMX_N03,CYCBMX_N03,BMX,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CYCBMX_N03,CYCBMX_N03,BMX,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CYCBMX_N03,CYCBMX_N03,BMX,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CYCBMX_N03,CYCBMX_N03,BMX,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CYCROAD_N04,CYCROAD_N04,Road cycling or racing,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CYCROAD_N04,CYCROAD_N04,Road cycling or racing,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CYCROAD_N04,CYCROAD_N04,Road cycling or racing,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CYCROAD_N04,CYCROAD_N04,Road cycling or racing,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CYCTRACK_N05,CYCTRACK_N05,Track cycling,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CYCTRACK_N05,CYCTRACK_N05,Track cycling,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CYCTRACK_N05,CYCTRACK_N05,Track cycling,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CYCTRACK_N05,CYCTRACK_N05,Track cycling,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CYCCROSS_N06,CYCCROSS_N06,Cyclo-cross,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CYCCROSS_N06,CYCCROSS_N06,Cyclo-cross,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CYCCROSS_N06,CYCCROSS_N06,Cyclo-cross,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CYCCROSS_N06,CYCCROSS_N06,Cyclo-cross,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_DANCEOTHER_O01,DANCEOTHER_O01,Other types of dancing,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_DANCEOTHER_O01,DANCEOTHER_O01,Other types of dancing,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_DANCEOTHER_O01,DANCEOTHER_O01,Other types of dancing,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_DANCEOTHER_O01,DANCEOTHER_O01,Other types of dancing,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_FOOTBALL11_Q01,FOOTBALL11_Q01,11 a-side football,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_FOOTBALL11_Q01,FOOTBALL11_Q01,11 a-side football,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_FOOTBALL11_Q01,FOOTBALL11_Q01,11 a-side football,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_FOOTBALL11_Q01,FOOTBALL11_Q01,11 a-side football,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_FOOTBALLSMALL_Q02,FOOTBALLSMALL_Q02,Small sided football,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_FOOTBALLSMALL_Q02,FOOTBALLSMALL_Q02,Small sided football,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_FOOTBALLSMALL_Q02,FOOTBALLSMALL_Q02,Small sided football,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_FOOTBALLSMALL_Q02,FOOTBALLSMALL_Q02,Small sided football,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_FUTSAL_Q03,FUTSAL_Q03,Futsal,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_FUTSAL_Q03,FUTSAL_Q03,Futsal,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_FUTSAL_Q03,FUTSAL_Q03,Futsal,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_FUTSAL_Q03,FUTSAL_Q03,Futsal,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_FOOTBALLWALK_Q04,FOOTBALLWALK_Q04,Walking football,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_FOOTBALLWALK_Q04,FOOTBALLWALK_Q04,Walking football,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_FOOTBALLWALK_Q04,FOOTBALLWALK_Q04,Walking football,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_FOOTBALLWALK_Q04,FOOTBALLWALK_Q04,Walking football,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_FOOTBALLOTHER_Q05,FOOTBALLOTHER_Q05,Other football,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_FOOTBALLOTHER_Q05,FOOTBALLOTHER_Q05,Other football,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_FOOTBALLOTHER_Q05,FOOTBALLOTHER_Q05,Other football,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_FOOTBALLOTHER_Q05,FOOTBALLOTHER_Q05,Other football,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CRICKETLONG_Q06,CRICKETLONG_Q06,Long form cricket match (e.g. 40-50 overs),source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CRICKETLONG_Q06,CRICKETLONG_Q06,Long form cricket match (e.g. 40-50 overs),source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CRICKETLONG_Q06,CRICKETLONG_Q06,Long form cricket match (e.g. 40-50 overs),source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CRICKETLONG_Q06,CRICKETLONG_Q06,Long form cricket match (e.g. 40-50 overs),source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CRICKETSHORT_Q07,CRICKETSHORT_Q07,Short form cricket match (e.g. 20:20),source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CRICKETSHORT_Q07,CRICKETSHORT_Q07,Short form cricket match (e.g. 20:20),source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CRICKETSHORT_Q07,CRICKETSHORT_Q07,Short form cricket match (e.g. 20:20),source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CRICKETSHORT_Q07,CRICKETSHORT_Q07,Short form cricket match (e.g. 20:20),source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CRICKETOTH_Q12,CRICKETOTH_Q12,Other cricket,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CRICKETOTH_Q12,CRICKETOTH_Q12,Other cricket,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CRICKETOTH_Q12,CRICKETOTH_Q12,Other cricket,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CRICKETOTH_Q12,CRICKETOTH_Q12,Other cricket,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUGBYUN15_Q13,RUGBYUN15_Q13,15 a-side rugby union,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUGBYUN15_Q13,RUGBYUN15_Q13,15 a-side rugby union,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUGBYUN15_Q13,RUGBYUN15_Q13,15 a-side rugby union,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUGBYUN15_Q13,RUGBYUN15_Q13,15 a-side rugby union,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUGBYUNTOUCH_Q14,RUGBYUNTOUCH_Q14,Touch rugby union,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUGBYUNTOUCH_Q14,RUGBYUNTOUCH_Q14,Touch rugby union,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUGBYUNTOUCH_Q14,RUGBYUNTOUCH_Q14,Touch rugby union,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUGBYUNTOUCH_Q14,RUGBYUNTOUCH_Q14,Touch rugby union,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUGBYUN7_Q15,RUGBYUN7_Q15,Rugby sevens,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUGBYUN7_Q15,RUGBYUN7_Q15,Rugby sevens,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUGBYUN7_Q15,RUGBYUN7_Q15,Rugby sevens,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUGBYUN7_Q15,RUGBYUN7_Q15,Rugby sevens,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUGBYUNTAG_Q16,RUGBYUNTAG_Q16,Tag or other rugby union,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUGBYUNTAG_Q16,RUGBYUNTAG_Q16,Tag or other rugby union,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUGBYUNTAG_Q16,RUGBYUNTAG_Q16,Tag or other rugby union,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUGBYUNTAG_Q16,RUGBYUNTAG_Q16,Tag or other rugby union,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUGBYLEAG13_Q17,RUGBYLEAG13_Q17,13 a-side rugby league,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUGBYLEAG13_Q17,RUGBYLEAG13_Q17,13 a-side rugby league,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUGBYLEAG13_Q17,RUGBYLEAG13_Q17,13 a-side rugby league,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUGBYLEAG13_Q17,RUGBYLEAG13_Q17,13 a-side rugby league,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUGBYLEAGTOUCH_Q18,RUGBYLEAGTOUCH_Q18,Touch rugby league,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUGBYLEAGTOUCH_Q18,RUGBYLEAGTOUCH_Q18,Touch rugby league,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUGBYLEAGTOUCH_Q18,RUGBYLEAGTOUCH_Q18,Touch rugby league,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUGBYLEAGTOUCH_Q18,RUGBYLEAGTOUCH_Q18,Touch rugby league,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUGBYLEAGTAG_Q19,RUGBYLEAGTAG_Q19,Tag or other rugby league,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUGBYLEAGTAG_Q19,RUGBYLEAGTAG_Q19,Tag or other rugby league,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUGBYLEAGTAG_Q19,RUGBYLEAGTAG_Q19,Tag or other rugby league,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUGBYLEAGTAG_Q19,RUGBYLEAGTAG_Q19,Tag or other rugby league,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ROCKCLIMB_R01,ROCKCLIMB_R01,Rock climbing or bouldering,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ROCKCLIMB_R01,ROCKCLIMB_R01,Rock climbing or bouldering,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_ROCKCLIMB_R01,ROCKCLIMB_R01,Rock climbing or bouldering,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ROCKCLIMB_R01,ROCKCLIMB_R01,Rock climbing or bouldering,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_CLIMBWALL_R02,CLIMBWALL_R02,Climbing or bouldering wall,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_CLIMBWALL_R02,CLIMBWALL_R02,Climbing or bouldering wall,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_CLIMBWALL_R02,CLIMBWALL_R02,Climbing or bouldering wall,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_CLIMBWALL_R02,CLIMBWALL_R02,Climbing or bouldering wall,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_ROWINGWATER_R04,ROWINGWATER_R04,Rowing (on water),source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_ROWINGWATER_R04,ROWINGWATER_R04,Rowing (on water),source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_ROWINGWATER_R04,ROWINGWATER_R04,Rowing (on water),source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_ROWINGWATER_R04,ROWINGWATER_R04,Rowing (on water),source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BOXINGTRAD_S01,BOXINGTRAD_S01,Boxing (traditional),source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BOXINGTRAD_S01,BOXINGTRAD_S01,Boxing (traditional),source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BOXINGTRAD_S01,BOXINGTRAD_S01,Boxing (traditional),source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BOXINGTRAD_S01,BOXINGTRAD_S01,Boxing (traditional),source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_KARATE_S02,KARATE_S02,Karate,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_KARATE_S02,KARATE_S02,Karate,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_KARATE_S02,KARATE_S02,Karate,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_KARATE_S02,KARATE_S02,Karate,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_JUJITSU_S03,JUJITSU_S03,Ju-Jitsu,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_JUJITSU_S03,JUJITSU_S03,Ju-Jitsu,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_JUJITSU_S03,JUJITSU_S03,Ju-Jitsu,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_JUJITSU_S03,JUJITSU_S03,Ju-Jitsu,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_AIKIDO_S04,AIKIDO_S04,Aikido,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_AIKIDO_S04,AIKIDO_S04,Aikido,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_AIKIDO_S04,AIKIDO_S04,Aikido,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_AIKIDO_S04,AIKIDO_S04,Aikido,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_MARTIALCHINESE_S05,MARTIALCHINESE_S05,Chinese martial arts,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_MARTIALCHINESE_S05,MARTIALCHINESE_S05,Chinese martial arts,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_MARTIALCHINESE_S05,MARTIALCHINESE_S05,Chinese martial arts,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_MARTIALCHINESE_S05,MARTIALCHINESE_S05,Chinese martial arts,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_MARTIALOTHER_S06,MARTIALOTHER_S06,Other martial arts,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_MARTIALOTHER_S06,MARTIALOTHER_S06,Other martial arts,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_MARTIALOTHER_S06,MARTIALOTHER_S06,Other martial arts,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_MARTIALOTHER_S06,MARTIALOTHER_S06,Other martial arts,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_AIRGUN_S08,AIRGUN_S08,Airgun (including pistol),source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_AIRGUN_S08,AIRGUN_S08,Airgun (including pistol),source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_AIRGUN_S08,AIRGUN_S08,Airgun (including pistol),source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_AIRGUN_S08,AIRGUN_S08,Airgun (including pistol),source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RIFLE_S09,RIFLE_S09,Rifle,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RIFLE_S09,RIFLE_S09,Rifle,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RIFLE_S09,RIFLE_S09,Rifle,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RIFLE_S09,RIFLE_S09,Rifle,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_SKIING_T01,SKIING_T01,Skiing,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_SKIING_T01,SKIING_T01,Skiing,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_SKIING_T01,SKIING_T01,Skiing,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_SKIING_T01,SKIING_T01,Skiing,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_SNOWBOARDING_T02,SNOWBOARDING_T02,Snowboarding,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_SNOWBOARDING_T02,SNOWBOARDING_T02,Snowboarding,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_SNOWBOARDING_T02,SNOWBOARDING_T02,Snowboarding,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_SNOWBOARDING_T02,SNOWBOARDING_T02,Snowboarding,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_DIVING_U05,DIVING_U05,Diving,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_DIVING_U05,DIVING_U05,Diving,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_DIVING_U05,DIVING_U05,Diving,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_DIVING_U05,DIVING_U05,Diving,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_WATERPOLO_U06,WATERPOLO_U06,Water polo,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_WATERPOLO_U06,WATERPOLO_U06,Water polo,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_WATERPOLO_U06,WATERPOLO_U06,Water polo,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_WATERPOLO_U06,WATERPOLO_U06,Water polo,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_RUNJOG_U07,RUNJOG_U07,Running or jogging,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_RUNJOG_U07,RUNJOG_U07,Running or jogging,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_RUNJOG_U07,RUNJOG_U07,Running or jogging,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_RUNJOG_U07,RUNJOG_U07,Running or jogging,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GOLFFULL_U08,GOLFFULL_U08,Full course golf,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GOLFFULL_U08,GOLFFULL_U08,Full course golf,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GOLFFULL_U08,GOLFFULL_U08,Full course golf,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GOLFFULL_U08,GOLFFULL_U08,Full course golf,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GOLFSHORT_U09,GOLFSHORT_U09,"Short course golf, par 3, pitch and putt, putting",source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GOLFSHORT_U09,GOLFSHORT_U09,"Short course golf, par 3, pitch and putt, putting",source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GOLFSHORT_U09,GOLFSHORT_U09,"Short course golf, par 3, pitch and putt, putting",source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GOLFSHORT_U09,GOLFSHORT_U09,"Short course golf, par 3, pitch and putt, putting",source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_DRIVINGRANGE_U10,DRIVINGRANGE_U10,Driving range,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_DRIVINGRANGE_U10,DRIVINGRANGE_U10,Driving range,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_DRIVINGRANGE_U10,DRIVINGRANGE_U10,Driving range,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_DRIVINGRANGE_U10,DRIVINGRANGE_U10,Driving range,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GOLFADV_U11,GOLFADV_U11,Adventure or crazy golf,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GOLFADV_U11,GOLFADV_U11,Adventure or crazy golf,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GOLFADV_U11,GOLFADV_U11,Adventure or crazy golf,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GOLFADV_U11,GOLFADV_U11,Adventure or crazy golf,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_EQUESTHACKING_U12,EQUESTHACKING_U12,Hacking or pony trekking,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_EQUESTHACKING_U12,EQUESTHACKING_U12,Hacking or pony trekking,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_EQUESTHACKING_U12,EQUESTHACKING_U12,Hacking or pony trekking,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_EQUESTHACKING_U12,EQUESTHACKING_U12,Hacking or pony trekking,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_EQUESTSCHOOLING_U13,EQUESTSCHOOLING_U13,Schooling,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_EQUESTSCHOOLING_U13,EQUESTSCHOOLING_U13,Schooling,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_EQUESTSCHOOLING_U13,EQUESTSCHOOLING_U13,Schooling,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_EQUESTSCHOOLING_U13,EQUESTSCHOOLING_U13,Schooling,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_EQUESTSHOWJUMP_U14,EQUESTSHOWJUMP_U14,Show jumping,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_EQUESTSHOWJUMP_U14,EQUESTSHOWJUMP_U14,Show jumping,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_EQUESTSHOWJUMP_U14,EQUESTSHOWJUMP_U14,Show jumping,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_EQUESTSHOWJUMP_U14,EQUESTSHOWJUMP_U14,Show jumping,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_EQUESTDRESSAGE_U15,EQUESTDRESSAGE_U15,Dressage,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_EQUESTDRESSAGE_U15,EQUESTDRESSAGE_U15,Dressage,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_EQUESTDRESSAGE_U15,EQUESTDRESSAGE_U15,Dressage,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_EQUESTDRESSAGE_U15,EQUESTDRESSAGE_U15,Dressage,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_EQUESTEVENTING_U16,EQUESTEVENTING_U16,Eventing,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_EQUESTEVENTING_U16,EQUESTEVENTING_U16,Eventing,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_EQUESTEVENTING_U16,EQUESTEVENTING_U16,Eventing,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_EQUESTEVENTING_U16,EQUESTEVENTING_U16,Eventing,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_EQUESTOTHER_U17,EQUESTOTHER_U17,Other horse riding,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_EQUESTOTHER_U17,EQUESTOTHER_U17,Other horse riding,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_EQUESTOTHER_U17,EQUESTOTHER_U17,Other horse riding,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_EQUESTOTHER_U17,EQUESTOTHER_U17,Other horse riding,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BOWLSCARPET_U18,BOWLSCARPET_U18,Carpet bowls,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BOWLSCARPET_U18,BOWLSCARPET_U18,Carpet bowls,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BOWLSCARPET_U18,BOWLSCARPET_U18,Carpet bowls,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BOWLSCARPET_U18,BOWLSCARPET_U18,Carpet bowls,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BOWLSCROWNGREEN_U19,BOWLSCROWNGREEN_U19,Crown green bowls,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BOWLSCROWNGREEN_U19,BOWLSCROWNGREEN_U19,Crown green bowls,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BOWLSCROWNGREEN_U19,BOWLSCROWNGREEN_U19,Crown green bowls,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BOWLSCROWNGREEN_U19,BOWLSCROWNGREEN_U19,Crown green bowls,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BOWLSFLATGREEN_U20,BOWLSFLATGREEN_U20,Flat green bowls,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BOWLSFLATGREEN_U20,BOWLSFLATGREEN_U20,Flat green bowls,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BOWLSFLATGREEN_U20,BOWLSFLATGREEN_U20,Flat green bowls,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BOWLSFLATGREEN_U20,BOWLSFLATGREEN_U20,Flat green bowls,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_BOWLSSHORTMAT_U23,BOWLSSHORTMAT_U23,Short mat bowls,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_BOWLSSHORTMAT_U23,BOWLSSHORTMAT_U23,Short mat bowls,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_BOWLSSHORTMAT_U23,BOWLSSHORTMAT_U23,Short mat bowls,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_BOWLSSHORTMAT_U23,BOWLSSHORTMAT_U23,Short mat bowls,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_GYMNASTICSONLY_U24,GYMNASTICSONLY_U24,Gymnastics,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_GYMNASTICSONLY_U24,GYMNASTICSONLY_U24,Gymnastics,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_GYMNASTICSONLY_U24,GYMNASTICSONLY_U24,Gymnastics,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_GYMNASTICSONLY_U24,GYMNASTICSONLY_U24,Gymnastics,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_TRAMPOLINING_U25,TRAMPOLINING_U25,Trampolining,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_TRAMPOLINING_U25,TRAMPOLINING_U25,Trampolining,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_TRAMPOLINING_U25,TRAMPOLINING_U25,Trampolining,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_TRAMPOLINING_U25,TRAMPOLINING_U25,Trampolining,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_KARTING_U26,KARTING_U26,Karting or go-karting,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_KARTING_U26,KARTING_U26,Karting or go-karting,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_KARTING_U26,KARTING_U26,Karting or go-karting,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_KARTING_U26,KARTING_U26,Karting or go-karting,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_MOTORCYCRACE_U27,MOTORCYCRACE_U27,Motorcycle racing,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_MOTORCYCRACE_U27,MOTORCYCRACE_U27,Motorcycle racing,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_MOTORCYCRACE_U27,MOTORCYCRACE_U27,Motorcycle racing,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_MOTORCYCRACE_U27,MOTORCYCRACE_U27,Motorcycle racing,source variable,Matched prefix(es): MEMS7GR_
+Activity,MONTHS_12_MOTORCARRACE_U28,MOTORCARRACE_U28,Motorcar racing,source variable,Matched prefix(es): MONTHS_12_
+Activity,DAYS10P60GR_MOTORCARRACE_U28,MOTORCARRACE_U28,Motorcar racing,source variable,Matched prefix(es): DAYS10P60GR_
+Activity,MEMS7_MOTORCARRACE_U28,MOTORCARRACE_U28,Motorcar racing,source variable,Matched prefix(es): MEMS7_
+Activity,MEMS7GR_MOTORCARRACE_U28,MOTORCARRACE_U28,Motorcar racing,source variable,Matched prefix(es): MEMS7GR_
