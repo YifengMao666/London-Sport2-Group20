@@ -618,6 +618,99 @@ Number_Activities_150,Number of activities done at 150+ mins (max=85),-97.0,Inco
 Number_Activities_150,Number of activities done at 150+ mins (max=85),-96.0,Out of range,7
 Number_Activities_150,Number of activities done at 150+ mins (max=85),-95.0,Cannot give an estimate / Don't know,7
 Number_Activities_150,Number of activities done at 150+ mins (max=85),-94.0,Prefer not to say,7
+month,Interview month,-99.0,"Missing, should have been answered",7
+month,Interview month,-98.0,Not applicable: Survey routing,7
+month,Interview month,-97.0,Incorrectly multicoded,7
+month,Interview month,-96.0,Out of range,7
+month,Interview month,-95.0,Cannot give an estimate / Don't know,7
+month,Interview month,-94.0,Prefer not to say,7
+month,Interview month,-93.0,Not applicable - Question asked in online survey only,7
+month,Interview month,-92.0,Not applicable - Question asked in Phase 2 questionnaire only,7
+month,Interview month,-91.0,Not applicable - Question asked in Phase 1 questionnaire only,7
+month,Interview month,1.0,Month 1 (Nov 2015 to Dec 2015),7
+month,Interview month,2.0,Month 2 (Dec 2015 to Jan 2016),7
+month,Interview month,3.0,Month 3 (Jan 2016 to Feb 2016),7
+month,Interview month,4.0,Month 4 (Feb 2016 to Mar 2016),7
+month,Interview month,5.0,Month 5 (Mar 2016 to Apr 2016),7
+month,Interview month,6.0,Month 6 (Apr 2016 to May 2016),7
+month,Interview month,7.0,Month 7 (May 2016 to June 2016),7
+month,Interview month,8.0,Month 8 (June 2016 to July 2016),7
+month,Interview month,9.0,Month 9 (July 2016 to August 2016),7
+month,Interview month,10.0,Month 10 (August 2016 to September 2016),7
+month,Interview month,11.0,Month 11 (September 2016 to October 2016),7
+month,Interview month,12.0,Month 12 (October 2016 to November 2016),7
+month,Interview month,13.0,Month 13 (Nov 2016 to Dec 2016),7
+month,Interview month,14.0,Month 14 (Dec 2016 to Jan 2017),7
+month,Interview month,15.0,Month 15 (Jan 2017 to Feb 2017),7
+month,Interview month,16.0,Month 16 (Feb 2017 to Mar 2017),7
+month,Interview month,17.0,Month 17 (Mar 2017 to Apr 2017),7
+month,Interview month,18.0,Month 18 (Apr 2017 to May 2017),7
+month,Interview month,19.0,Month 19 (May 2017 to June 2017),7
+month,Interview month,20.0,Month 20 (June 2017 to July 2017),7
+month,Interview month,21.0,Month 21 (July 2017 to Aug 2017),7
+month,Interview month,22.0,Month 22 (Aug 2017 to Sep 2017),7
+month,Interview month,23.0,Month 23 (Sep 2017 to Oct 2017),7
+month,Interview month,24.0,Month 24 (Oct 2017 to Nov 2017),7
+month,Interview month,25.0,Month 25 (Nov 2017 to Dec 2017),7
+month,Interview month,26.0,Month 26 (Dec 2017 to Jan 2018),7
+month,Interview month,27.0,Month 27 (Jan 2018 to Feb 2018),7
+month,Interview month,28.0,Month 28 (Feb 2018 to Mar 2018),7
+month,Interview month,29.0,Month 29 (Mar 2018 to Apr 2018),7
+month,Interview month,30.0,Month 30 (Apr 2018 to May 2018),7
+month,Interview month,31.0,Month 31 (May 2018 to June 2018),7
+month,Interview month,32.0,Month 32 (June 2018 to July 2018),7
+month,Interview month,33.0,Month 33 (July 2018 to Aug 2018),7
+month,Interview month,34.0,Month 34 (Aug 2018 to Sep 2018),7
+month,Interview month,35.0,Month 35 (Sep 2018 to Oct 2018),7
+month,Interview month,36.0,Month 36 (Oct 2018 to Nov 2018),7
+month,Interview month,37.0,Month 37 (Nov 2018 to Dec 2018),7
+month,Interview month,38.0,Month 38 (Dec 2018 to Jan 2019),7
+month,Interview month,39.0,Month 39 (Jan 2019 to Feb 2019),7
+month,Interview month,40.0,Month 40 (Feb 2019 to Mar 2019),7
+month,Interview month,41.0,Month 41 (Mar 2019 to Apr 2019),7
+month,Interview month,42.0,Month 42 (Apr 2019 to May 2019),7
+month,Interview month,43.0,Month 43 (May 2019 to Jun 2019),7
+month,Interview month,44.0,Month 44 (Jun 2019 to Jul 2019),7
+month,Interview month,45.0,Month 45 (July 2019 to Aug 2019),7
+month,Interview month,46.0,Month 46 (Aug 2019 to Sep 2019),7
+month,Interview month,47.0,Month 47 (Sep 2019 to Oct 2019),7
+month,Interview month,48.0,Month 48 (Oct 2019 to Nov 2019),7
+month,Interview month,49.0,Month 49 (Nov 2019 to Dec 2019),7
+month,Interview month,50.0,Month 50 (Dec 2019 to Jan 2020),7
+month,Interview month,51.0,Month 51 (Jan 2020 to Feb 2020),7
+month,Interview month,52.0,Month 52 (Feb 2020 to Mar 2020),7
+month,Interview month,53.0,Month 53 (Mar 2020 to Apr 2020),7
+month,Interview month,54.0,Month 54 (Apr 2020 to May 2020),7
+month,Interview month,55.0,Month 55 (May 2020 to Jun 2020),7
+month,Interview month,56.0,Month 56 (Jun 2020 to Jul 2020),7
+month,Interview month,57.0,Month 57 (July 2020 to Aug 2020),7
+month,Interview month,58.0,Month 58 (Aug 2020 to Sep 2020),7
+month,Interview month,59.0,Month 59 (Sep 2020 to Oct 2020),7
+month,Interview month,60.0,Month 60 (Oct 2020 to Nov 2020),7
+month,Interview month,61.0,Month 61 (Nov 2020 to Dec 2020),7
+month,Interview month,62.0,Month 62 (Dec 2020 to Jan 2021),7
+month,Interview month,63.0,Month 63 (Jan 2021 to Feb 2021),7
+month,Interview month,64.0,Month 64 (Feb 2021 to Mar 2021),7
+month,Interview month,65.0,Month 65 (Mar 2021 to Apr 2021),7
+month,Interview month,66.0,Month 66 (Apr 2021 to May 2021),7
+month,Interview month,67.0,Month 67 (May 2021 to Jun 2021),7
+month,Interview month,68.0,Month 68 (Jun 2021 to Jul 2021),7
+month,Interview month,69.0,Month 69 (July 2021 to Aug 2021),7
+month,Interview month,70.0,Month 70 (Aug 2021 to Sep 2021),7
+month,Interview month,71.0,Month 71 (Sep 2021 to Oct 2021),7
+month,Interview month,72.0,Month 72 (Oct 2021 to Nov 2021),7
+month,Interview month,73.0,Month 73 (Nov 2021 to Dec 2021),7
+month,Interview month,74.0,Month 74 (Dec 2021 to Jan 2022),7
+month,Interview month,75.0,Month 75 (Jan 2022 to Feb 2022),7
+month,Interview month,76.0,Month 76 (Feb 2022 to Mar 2022),7
+month,Interview month,77.0,Month 77 (Mar 2022 to Apr 2022),7
+month,Interview month,78.0,Month 78 (Apr 2022 to May 2022),7
+month,Interview month,79.0,Month 79 (May 2022 to Jun 2022),7
+month,Interview month,80.0,Month 80 (Jun 2022 to Jul 2022),7
+month,Interview month,81.0,Month 81 (July 2022 to Aug 2022),7
+month,Interview month,82.0,Month 82 (Aug 2022 to Sep 2022),7
+month,Interview month,83.0,Month 83 (Sep 2022 to Oct 2022),7
+month,Interview month,84.0,Month 84 (Oct 2022 to Nov 2022),7
 wt_final,All: Online and Postal,,,7
 wt_final_AB,Postal & Online Group 1,,,7
 wt_final_AC,Postal & Online Group 2,,,7
@@ -9400,6 +9493,111 @@ Number_Activities_150,Number of activities done at 150+ mins (max=85),-97.0,Inco
 Number_Activities_150,Number of activities done at 150+ mins (max=85),-96.0,Out of range,8
 Number_Activities_150,Number of activities done at 150+ mins (max=85),-95.0,Cannot give an estimate / Don't know,8
 Number_Activities_150,Number of activities done at 150+ mins (max=85),-94.0,Prefer not to say,8
+month,Interview month,-99.0,"Missing, should have been answered",8
+month,Interview month,-98.0,Not applicable: Survey routing,8
+month,Interview month,-97.0,Incorrectly multicoded,8
+month,Interview month,-96.0,Out of range,8
+month,Interview month,-95.0,Cannot give an estimate / Don't know,8
+month,Interview month,-94.0,Prefer not to say,8
+month,Interview month,-93.0,Not applicable - Question asked in online survey only,8
+month,Interview month,-92.0,Not applicable - Question asked in Phase 2 questionnaire only,8
+month,Interview month,-91.0,Not applicable - Question asked in Phase 1 questionnaire only,8
+month,Interview month,1.0,Month 1 (Nov 2015 to Dec 2015),8
+month,Interview month,2.0,Month 2 (Dec 2015 to Jan 2016),8
+month,Interview month,3.0,Month 3 (Jan 2016 to Feb 2016),8
+month,Interview month,4.0,Month 4 (Feb 2016 to Mar 2016),8
+month,Interview month,5.0,Month 5 (Mar 2016 to Apr 2016),8
+month,Interview month,6.0,Month 6 (Apr 2016 to May 2016),8
+month,Interview month,7.0,Month 7 (May 2016 to June 2016),8
+month,Interview month,8.0,Month 8 (June 2016 to July 2016),8
+month,Interview month,9.0,Month 9 (July 2016 to August 2016),8
+month,Interview month,10.0,Month 10 (August 2016 to September 2016),8
+month,Interview month,11.0,Month 11 (September 2016 to October 2016),8
+month,Interview month,12.0,Month 12 (October 2016 to November 2016),8
+month,Interview month,13.0,Month 13 (Nov 2016 to Dec 2016),8
+month,Interview month,14.0,Month 14 (Dec 2016 to Jan 2017),8
+month,Interview month,15.0,Month 15 (Jan 2017 to Feb 2017),8
+month,Interview month,16.0,Month 16 (Feb 2017 to Mar 2017),8
+month,Interview month,17.0,Month 17 (Mar 2017 to Apr 2017),8
+month,Interview month,18.0,Month 18 (Apr 2017 to May 2017),8
+month,Interview month,19.0,Month 19 (May 2017 to June 2017),8
+month,Interview month,20.0,Month 20 (June 2017 to July 2017),8
+month,Interview month,21.0,Month 21 (July 2017 to Aug 2017),8
+month,Interview month,22.0,Month 22 (Aug 2017 to Sep 2017),8
+month,Interview month,23.0,Month 23 (Sep 2017 to Oct 2017),8
+month,Interview month,24.0,Month 24 (Oct 2017 to Nov 2017),8
+month,Interview month,25.0,Month 25 (Nov 2017 to Dec 2017),8
+month,Interview month,26.0,Month 26 (Dec 2017 to Jan 2018),8
+month,Interview month,27.0,Month 27 (Jan 2018 to Feb 2018),8
+month,Interview month,28.0,Month 28 (Feb 2018 to Mar 2018),8
+month,Interview month,29.0,Month 29 (Mar 2018 to Apr 2018),8
+month,Interview month,30.0,Month 30 (Apr 2018 to May 2018),8
+month,Interview month,31.0,Month 31 (May 2018 to June 2018),8
+month,Interview month,32.0,Month 32 (June 2018 to July 2018),8
+month,Interview month,33.0,Month 33 (July 2018 to Aug 2018),8
+month,Interview month,34.0,Month 34 (Aug 2018 to Sep 2018),8
+month,Interview month,35.0,Month 35 (Sep 2018 to Oct 2018),8
+month,Interview month,36.0,Month 36 (Oct 2018 to Nov 2018),8
+month,Interview month,37.0,Month 37 (Nov 2018 to Dec 2018),8
+month,Interview month,38.0,Month 38 (Dec 2018 to Jan 2019),8
+month,Interview month,39.0,Month 39 (Jan 2019 to Feb 2019),8
+month,Interview month,40.0,Month 40 (Feb 2019 to Mar 2019),8
+month,Interview month,41.0,Month 41 (Mar 2019 to Apr 2019),8
+month,Interview month,42.0,Month 42 (Apr 2019 to May 2019),8
+month,Interview month,43.0,Month 43 (May 2019 to Jun 2019),8
+month,Interview month,44.0,Month 44 (Jun 2019 to Jul 2019),8
+month,Interview month,45.0,Month 45 (July 2019 to Aug 2019),8
+month,Interview month,46.0,Month 46 (Aug 2019 to Sep 2019),8
+month,Interview month,47.0,Month 47 (Sep 2019 to Oct 2019),8
+month,Interview month,48.0,Month 48 (Oct 2019 to Nov 2019),8
+month,Interview month,49.0,Month 49 (Nov 2019 to Dec 2019),8
+month,Interview month,50.0,Month 50 (Dec 2019 to Jan 2020),8
+month,Interview month,51.0,Month 51 (Jan 2020 to Feb 2020),8
+month,Interview month,52.0,Month 52 (Feb 2020 to Mar 2020),8
+month,Interview month,53.0,Month 53 (Mar 2020 to Apr 2020),8
+month,Interview month,54.0,Month 54 (Apr 2020 to May 2020),8
+month,Interview month,55.0,Month 55 (May 2020 to Jun 2020),8
+month,Interview month,56.0,Month 56 (Jun 2020 to Jul 2020),8
+month,Interview month,57.0,Month 57 (July 2020 to Aug 2020),8
+month,Interview month,58.0,Month 58 (Aug 2020 to Sep 2020),8
+month,Interview month,59.0,Month 59 (Sep 2020 to Oct 2020),8
+month,Interview month,60.0,Month 60 (Oct 2020 to Nov 2020),8
+month,Interview month,61.0,Month 61 (Nov 2020 to Dec 2020),8
+month,Interview month,62.0,Month 62 (Dec 2020 to Jan 2021),8
+month,Interview month,63.0,Month 63 (Jan 2021 to Feb 2021),8
+month,Interview month,64.0,Month 64 (Feb 2021 to Mar 2021),8
+month,Interview month,65.0,Month 65 (Mar 2021 to Apr 2021),8
+month,Interview month,66.0,Month 66 (Apr 2021 to May 2021),8
+month,Interview month,67.0,Month 67 (May 2021 to Jun 2021),8
+month,Interview month,68.0,Month 68 (Jun 2021 to Jul 2021),8
+month,Interview month,69.0,Month 69 (July 2021 to Aug 2021),8
+month,Interview month,70.0,Month 70 (Aug 2021 to Sep 2021),8
+month,Interview month,71.0,Month 71 (Sep 2021 to Oct 2021),8
+month,Interview month,72.0,Month 72 (Oct 2021 to Nov 2021),8
+month,Interview month,73.0,Month 73 (Nov 2021 to Dec 2021),8
+month,Interview month,74.0,Month 74 (Dec 2021 to Jan 2022),8
+month,Interview month,75.0,Month 75 (Jan 2022 to Feb 2022),8
+month,Interview month,76.0,Month 76 (Feb 2022 to Mar 2022),8
+month,Interview month,77.0,Month 77 (Mar 2022 to Apr 2022),8
+month,Interview month,78.0,Month 78 (Apr 2022 to May 2022),8
+month,Interview month,79.0,Month 79 (May 2022 to Jun 2022),8
+month,Interview month,80.0,Month 80 (Jun 2022 to Jul 2022),8
+month,Interview month,81.0,Month 81 (July 2022 to Aug 2022),8
+month,Interview month,82.0,Month 82 (Aug 2022 to Sep 2022),8
+month,Interview month,83.0,Month 83 (Sep 2022 to Oct 2022),8
+month,Interview month,84.0,Month 84 (Oct 2022 to Nov 2022),8
+month,Interview month,85.0,Month 85 (Nov 2022 to Dec 2022),8
+month,Interview month,86.0,Month 86 (Dec 2022 to Jan 2023),8
+month,Interview month,87.0,Month 87 (Jan 2023 to Feb 2023),8
+month,Interview month,88.0,Month 88 (Feb 2023 to Mar 2023),8
+month,Interview month,89.0,Month 89 (Mar 2023 to Apr 2023),8
+month,Interview month,90.0,Month 90 (Apr 2023 to May 2023),8
+month,Interview month,91.0,Month 91 (May 2023 to Jun 2023),8
+month,Interview month,92.0,Month 92 (Jun 2023 to Jul 2023),8
+month,Interview month,93.0,Month 93 (July 2023 to Aug 2023),8
+month,Interview month,94.0,Month 94 (Aug 2023 to Sep 2023),8
+month,Interview month,95.0,Month 95 (Sep 2023 to Oct 2023),8
+month,Interview month,96.0,Month 96 (Oct 2023 to Nov 2023),8
 wt_final,All: Online and Postal,,,8
 wt_final_AB,Postal & Online Group 1,,,8
 wt_final_AC,Postal & Online Group 2,,,8
