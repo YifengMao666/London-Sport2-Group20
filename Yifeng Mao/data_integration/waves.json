@@ -1,0 +1,42 @@
+[
+  {
+    "wave_index": 1,
+    "survey_wave": "2015/16",
+    "relative_path": "Yifeng Mao/data/active_lives_1516_london_125.csv"
+  },
+  {
+    "wave_index": 2,
+    "survey_wave": "2016/17",
+    "relative_path": "Yifeng Mao/data/active_lives_1617_london_125.csv"
+  },
+  {
+    "wave_index": 3,
+    "survey_wave": "2017/18",
+    "relative_path": "Siyan Xin/2017~2018/2017_data_125_activities.csv"
+  },
+  {
+    "wave_index": 4,
+    "survey_wave": "2018/19",
+    "relative_path": "Siyan Xin/2018~2019/2018_data_125_activities.csv"
+  },
+  {
+    "wave_index": 5,
+    "survey_wave": "2019/20",
+    "relative_path": "Shuhan Zhao/docs/1920_london32_stable125.csv"
+  },
+  {
+    "wave_index": 6,
+    "survey_wave": "2020/21",
+    "relative_path": "Shuhan Zhao/docs/2021_london32_stable125.csv"
+  },
+  {
+    "wave_index": 7,
+    "survey_wave": "2021/22",
+    "relative_path": "Jingyi Hua/data/processed/year7_125activities.csv"
+  },
+  {
+    "wave_index": 8,
+    "survey_wave": "2022/23",
+    "relative_path": "Jingyi Hua/data/processed/year8_125activities.csv"
+  }
+]

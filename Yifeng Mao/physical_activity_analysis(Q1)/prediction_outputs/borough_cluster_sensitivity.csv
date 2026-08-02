@@ -1,0 +1,6 @@
+﻿representation,features,pca_components,ari_vs_selected_solution,silhouette,minimum_cluster_size
+"Outcomes + composition, Years 1–6",6,3,1.0,0.3283334544561918,14
+"External context only, Years 1–6",6,4,0.22721371072448715,0.2914047819392471,10
+"Outcomes + composition + context, Years 1–6",12,5,1.0,0.27753942661783937,14
+"Balanced full representation, Years 1–6",384,12,1.0,0.23412919283426964,14
+"Balanced full representation, pre-COVID Years 1–4",384,13,0.6495809783667901,0.24223425901175652,11

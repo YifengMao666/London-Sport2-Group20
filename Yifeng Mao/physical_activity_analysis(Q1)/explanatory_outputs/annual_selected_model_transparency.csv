@@ -1,0 +1,5 @@
+﻿item,result,interpretation
+Selected model,Seasonal naive,Chosen using Year 7 validation only
+Prediction rule,Year t forecast = Year t−1 observed composition,No fitted coefficient or black-box mechanism
+Year 8 selected-model weighted TV,0.0417800194562478,Independent test result; not used for reselection
+Year 8 test winner,Ridge,"Reported as stability evidence, not substituted after testing"

@@ -1,0 +1,16 @@
+﻿parameter,coefficient,cluster_robust_t,cluster_robust_p_value,wild_cluster_bootstrap_p_value,bootstrap_repeats,borough_clusters,specification,feature
+z_population_age_65_plus_rate,1.1519695681932163,1.6979922709509867,0.08950922061221574,0.14,999,32,Same-time borough comparison,population_age_65_plus_rate
+z_earnings_relative_to_london,2.891057172061736,4.571018498982747,4.8535942875948904e-06,0.001,999,32,Same-time borough comparison,earnings_relative_to_london
+z_economic_inactivity_rate,-1.4145159317481948,-3.5301856362965522,0.0004152681857189012,0.017,999,32,Same-time borough comparison,economic_inactivity_rate
+z_net_migration_per_1000,-0.4579135054495729,-1.267377173493841,0.2050204577682817,0.268,999,32,Same-time borough comparison,net_migration_per_1000
+z_selected_recorded_crime_rate_per_1000,-0.7626055663540345,-1.9331733249433718,0.05321484965843783,0.579,999,32,Same-time borough comparison,selected_recorded_crime_rate_per_1000
+age_65_plus_per_10pp,14.36808786100499,1.9118958101054542,0.05588955921407935,0.076,999,32,Borough + year fixed effects,age_65_plus_per_10pp
+earnings_relative_per_10pct,-0.03144317144482213,-0.05303119830075535,0.9577070500303054,0.962,999,32,Borough + year fixed effects,earnings_relative_per_10pct
+inactivity_per_10pp,0.59730208902933,0.8215545161975024,0.41133048482890255,0.433,999,32,Borough + year fixed effects,inactivity_per_10pp
+migration_per_10_per_1000,-0.0005940124257590718,-0.001565916043156241,0.9987505802762677,0.998,999,32,Borough + year fixed effects,migration_per_10_per_1000
+selected_crime_per_10,0.22737596583303196,2.015238090578096,0.043879708214559957,0.044,999,32,Borough + year fixed effects,selected_crime_per_10
+delta_age_65_plus_per_10pp,26.596786849044626,1.7858023395732898,0.074131267795302,0.134,999,32,First differences + year effects,age_65_plus_per_10pp
+delta_earnings_relative_per_10pct,0.4388311987816894,0.7355175942691907,0.4620243287264676,0.541,999,32,First differences + year effects,earnings_relative_per_10pct
+delta_inactivity_per_10pp,1.6481511257051746,2.3517209203317195,0.01868678929205726,0.041,999,32,First differences + year effects,inactivity_per_10pp
+delta_migration_per_10_per_1000,-0.138640105774905,-0.29107498598634324,0.7709939703304557,0.788,999,32,First differences + year effects,migration_per_10_per_1000
+delta_selected_crime_per_10,0.20611422364965068,1.127788562983278,0.2594092246386853,0.806,999,32,First differences + year effects,selected_crime_per_10

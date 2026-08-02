@@ -1,0 +1,6 @@
+﻿item,result
+Study coverage,32 boroughs × 96 months; no missing selected rates
+Included crime groups,personal_safety; property_public_space
+Excluded from totals,"Burglary, fraud/NFIB, drugs, public-order and miscellaneous groups"
+Rate denominator,ONS actual total population for matching calendar year
+Interpretation,Recorded selected crime; reporting/policing and classification may affect trends

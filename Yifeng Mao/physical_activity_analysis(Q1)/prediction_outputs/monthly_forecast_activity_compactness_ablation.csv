@@ -1,0 +1,4 @@
+﻿model,full_selected_mean_cv_weighted_tv,compact_mean_cv_weighted_tv,compact_minus_full_weighted_tv,full_activity_fields,compact_activity_indices,compact_is_sensitivity_only
+Ridge,0.10557696289925428,0.10601092133549789,0.00043395843624360886,372,51,True
+Random Forest,0.10494707778017741,0.10807488684304428,0.0031278090628668737,372,51,True
+Gradient Boosting,0.10233986136388468,0.10517632857358389,0.0028364672096992116,372,51,True

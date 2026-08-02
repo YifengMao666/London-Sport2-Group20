@@ -1,0 +1,3 @@
+﻿output,output_scale,test_rows,transformed_features,background_rows,feature_perturbation,maximum_additivity_error
+inactive_vs_active,log(Inactive / Active),384,419,128,interventional,2.483963701394032e-09
+fairly_vs_active,log(Fairly active / Active),384,419,128,interventional,1.98152427799414e-09
