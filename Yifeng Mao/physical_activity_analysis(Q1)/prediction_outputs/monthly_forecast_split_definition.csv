@@ -1,5 +1,0 @@
-﻿stage,target months,calendar,role
-Lag warm-up (inputs only),1–12,2015-11 to 2016-10,No supervised target
-Base training,13–48,2016-11 to 2019-10,Initial model fitting
-Rolling validation,49–84,2019-11 to 2022-10,Three 12-month folds for selection
-Independent test,85–96,2022-11 to 2023-10,Opened once after selection

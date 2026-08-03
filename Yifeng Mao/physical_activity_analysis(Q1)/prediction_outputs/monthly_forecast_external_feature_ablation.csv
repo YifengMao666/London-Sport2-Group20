@@ -1,4 +1,0 @@
-﻿model,survey_only_mean_cv_weighted_tv,survey_plus_external_mean_cv_weighted_tv,external_cv_gain,minimum_required_gain,external_context_retained,selected_feature_configuration
-Ridge,0.10557696289925428,0.10471261877673722,0.0008643441225170551,0.001,False,Full 372 activity fields — survey only
-Random Forest,0.10774816549963366,0.10494707778017741,0.0028010877194562522,0.001,True,Full 372 activity fields — survey + external
-Gradient Boosting,0.104948995976187,0.10233986136388468,0.002609134612302319,0.001,True,Full 372 activity fields — survey + external

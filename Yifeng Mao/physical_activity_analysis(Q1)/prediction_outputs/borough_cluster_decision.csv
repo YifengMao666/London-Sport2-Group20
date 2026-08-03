@@ -1,2 +1,0 @@
-﻿chosen_method,chosen_n_clusters,chosen_silhouette,chosen_stability_ari,best_finer_method,best_finer_n_clusters,best_finer_silhouette,best_finer_stability_ari,finer_cluster_supported,inner_outer_agreement,inner_outer_ari,cluster_forecast_statistically_justified,use_cluster_forecasts
-K-means,2,0.23412919283426964,0.7887395668403979,K-means,3,0.21966068480896556,0.9215512618031763,False,0.78125,0.2944007283605385,False,False

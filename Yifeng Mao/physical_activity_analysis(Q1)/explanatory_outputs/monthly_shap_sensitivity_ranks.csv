@@ -1,9 +1,0 @@
-﻿method,output,spearman_vs_interventional_background_128,top_group
-interventional_background_128,fairly_vs_active,1.0,Lagged external context
-interventional_background_128,inactive_vs_active,1.0,Lagged external context
-interventional_background_256,fairly_vs_active,1.0,Lagged external context
-interventional_background_256,inactive_vs_active,1.0,Lagged external context
-interventional_background_64,fairly_vs_active,0.9818181818181818,Calendar and trend
-interventional_background_64,inactive_vs_active,1.0,Lagged external context
-tree_path_dependent,fairly_vs_active,1.0,Lagged external context
-tree_path_dependent,inactive_vs_active,1.0,Lagged external context
