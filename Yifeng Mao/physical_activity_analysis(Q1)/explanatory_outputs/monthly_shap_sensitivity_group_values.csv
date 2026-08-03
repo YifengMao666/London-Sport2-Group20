@@ -1,0 +1,73 @@
+﻿method,output,output_scale,predictor_group,features_after_filtering,mean_absolute_group_shap,mean_signed_group_shap,positive_share
+interventional_background_64,inactive_vs_active,log(Inactive / Active),Calendar and trend,3,0.0,0.0,0.0
+interventional_background_64,inactive_vs_active,log(Inactive / Active),COVID calendar flags,2,0.0,0.0,0.0
+interventional_background_64,inactive_vs_active,log(Inactive / Active),Lagged activity-state outcomes,3,0.010176091223153586,-0.0016265554792577557,0.24739583333333334
+interventional_background_64,inactive_vs_active,log(Inactive / Active),Lagged survey composition,3,0.0,0.0,0.0
+interventional_background_64,inactive_vs_active,log(Inactive / Active),Lagged 12-month participation,124,0.00557232150845266,0.003085432981606573,0.8828125
+interventional_background_64,inactive_vs_active,log(Inactive / Active),Lagged recent participation (any),122,0.02348689916910492,0.0035230665125709493,0.65625
+interventional_background_64,inactive_vs_active,log(Inactive / Active),Lagged recent participation (2+),120,0.0026536276909610024,2.804362156894058e-05,0.4427083333333333
+interventional_background_64,inactive_vs_active,log(Inactive / Active),Borough identity,32,0.001988995072679245,0.0,0.03125
+interventional_background_64,inactive_vs_active,log(Inactive / Active),Lagged external context,10,0.1292350911903668,-0.020026915192526456,0.5052083333333334
+interventional_background_64,fairly_vs_active,log(Fairly active / Active),Calendar and trend,3,0.1090515204705298,-0.1090515204705298,0.0
+interventional_background_64,fairly_vs_active,log(Fairly active / Active),COVID calendar flags,2,0.0,0.0,0.0
+interventional_background_64,fairly_vs_active,log(Fairly active / Active),Lagged activity-state outcomes,3,0.008097047130831925,0.0003821501013590023,0.65625
+interventional_background_64,fairly_vs_active,log(Fairly active / Active),Lagged survey composition,3,0.0,0.0,0.0
+interventional_background_64,fairly_vs_active,log(Fairly active / Active),Lagged 12-month participation,124,0.011758114935749594,0.0031159084004078372,0.5989583333333334
+interventional_background_64,fairly_vs_active,log(Fairly active / Active),Lagged recent participation (any),122,0.0,0.0,0.0
+interventional_background_64,fairly_vs_active,log(Fairly active / Active),Lagged recent participation (2+),120,0.005611687023247214,0.0011548166221473366,0.390625
+interventional_background_64,fairly_vs_active,log(Fairly active / Active),Borough identity,32,0.0,0.0,0.0
+interventional_background_64,fairly_vs_active,log(Fairly active / Active),Lagged external context,10,0.09429640322696287,-0.05635185611269359,0.2864583333333333
+interventional_background_128,inactive_vs_active,log(Inactive / Active),Calendar and trend,3,0.0,0.0,0.0
+interventional_background_128,inactive_vs_active,log(Inactive / Active),COVID calendar flags,2,0.0,0.0,0.0
+interventional_background_128,inactive_vs_active,log(Inactive / Active),Lagged activity-state outcomes,3,0.009980605337865807,-0.0012396143454922524,0.24739583333333334
+interventional_background_128,inactive_vs_active,log(Inactive / Active),Lagged survey composition,3,0.0,0.0,0.0
+interventional_background_128,inactive_vs_active,log(Inactive / Active),Lagged 12-month participation,124,0.004986003546946449,0.0023196299298433587,0.8828125
+interventional_background_128,inactive_vs_active,log(Inactive / Active),Lagged recent participation (any),122,0.021347052349835093,-0.0038471118595043694,0.6354166666666666
+interventional_background_128,inactive_vs_active,log(Inactive / Active),Lagged recent participation (2+),120,0.002729205251089297,-0.0006315423577325421,0.4427083333333333
+interventional_background_128,inactive_vs_active,log(Inactive / Active),Borough identity,32,0.0022584718244615942,-0.0002874418685678392,0.03125
+interventional_background_128,inactive_vs_active,log(Inactive / Active),Lagged external context,10,0.13140107282015379,-0.05278098808582096,0.421875
+interventional_background_128,fairly_vs_active,log(Fairly active / Active),Calendar and trend,3,0.06717274344526229,-0.06717274344526229,0.0
+interventional_background_128,fairly_vs_active,log(Fairly active / Active),COVID calendar flags,2,0.0,0.0,0.0
+interventional_background_128,fairly_vs_active,log(Fairly active / Active),Lagged activity-state outcomes,3,0.007762792886933312,-0.0006874634791165583,0.65625
+interventional_background_128,fairly_vs_active,log(Fairly active / Active),Lagged survey composition,3,0.0,0.0,0.0
+interventional_background_128,fairly_vs_active,log(Fairly active / Active),Lagged 12-month participation,124,0.011295103406979859,0.0007764817287291715,0.5989583333333334
+interventional_background_128,fairly_vs_active,log(Fairly active / Active),Lagged recent participation (any),122,0.0,0.0,0.0
+interventional_background_128,fairly_vs_active,log(Fairly active / Active),Lagged recent participation (2+),120,0.005620107561117038,0.0011163227347424259,0.390625
+interventional_background_128,fairly_vs_active,log(Fairly active / Active),Borough identity,32,0.0,0.0,0.0
+interventional_background_128,fairly_vs_active,log(Fairly active / Active),Lagged external context,10,0.1012961145711112,-0.07234279342703909,0.2786458333333333
+interventional_background_256,inactive_vs_active,log(Inactive / Active),Calendar and trend,3,0.0,0.0,0.0
+interventional_background_256,inactive_vs_active,log(Inactive / Active),COVID calendar flags,2,0.0,0.0,0.0
+interventional_background_256,inactive_vs_active,log(Inactive / Active),Lagged activity-state outcomes,3,0.010773726922586014,-0.002809504492567309,0.24739583333333334
+interventional_background_256,inactive_vs_active,log(Inactive / Active),Lagged survey composition,3,0.0,0.0,0.0
+interventional_background_256,inactive_vs_active,log(Inactive / Active),Lagged 12-month participation,124,0.004559522895578994,0.0017625939770368863,0.8828125
+interventional_background_256,inactive_vs_active,log(Inactive / Active),Lagged recent participation (any),122,0.022075978961802318,-0.0011556905230099828,0.6354166666666666
+interventional_background_256,inactive_vs_active,log(Inactive / Active),Lagged recent participation (2+),120,0.002686018073873128,-0.0002546360838459805,0.4427083333333333
+interventional_background_256,inactive_vs_active,log(Inactive / Active),Borough identity,32,0.0022584718244615942,-0.0002874418685678392,0.03125
+interventional_background_256,inactive_vs_active,log(Inactive / Active),Lagged external context,10,0.12962285900430284,-0.038026979830853326,0.4739583333333333
+interventional_background_256,fairly_vs_active,log(Fairly active / Active),Calendar and trend,3,0.056630135052837434,-0.056630135052837434,0.0
+interventional_background_256,fairly_vs_active,log(Fairly active / Active),COVID calendar flags,2,0.0,0.0,0.0
+interventional_background_256,fairly_vs_active,log(Fairly active / Active),Lagged activity-state outcomes,3,0.007470434825518169,-0.0016230092756450178,0.65625
+interventional_background_256,fairly_vs_active,log(Fairly active / Active),Lagged survey composition,3,0.0,0.0,0.0
+interventional_background_256,fairly_vs_active,log(Fairly active / Active),Lagged 12-month participation,124,0.01114964787038237,4.154849118397809e-05,0.5989583333333334
+interventional_background_256,fairly_vs_active,log(Fairly active / Active),Lagged recent participation (any),122,0.0,0.0,0.0
+interventional_background_256,fairly_vs_active,log(Fairly active / Active),Lagged recent participation (2+),120,0.0057009447246673525,0.0007467814156552774,0.390625
+interventional_background_256,fairly_vs_active,log(Fairly active / Active),Borough identity,32,0.0,0.0,0.0
+interventional_background_256,fairly_vs_active,log(Fairly active / Active),Lagged external context,10,0.08370178235384325,-0.03104637791179508,0.3072916666666667
+tree_path_dependent,inactive_vs_active,log(Inactive / Active),Calendar and trend,3,0.0,0.0,0.0
+tree_path_dependent,inactive_vs_active,log(Inactive / Active),COVID calendar flags,2,0.0,0.0,0.0
+tree_path_dependent,inactive_vs_active,log(Inactive / Active),Lagged activity-state outcomes,3,0.009289066416736005,0.00012920533858388244,0.24739583333333334
+tree_path_dependent,inactive_vs_active,log(Inactive / Active),Lagged survey composition,3,0.0,0.0,0.0
+tree_path_dependent,inactive_vs_active,log(Inactive / Active),Lagged 12-month participation,124,0.004882397408645096,0.0021843076257398674,0.8828125
+tree_path_dependent,inactive_vs_active,log(Inactive / Active),Lagged recent participation (any),122,0.023859221114999617,0.004714496893655142,0.65625
+tree_path_dependent,inactive_vs_active,log(Inactive / Active),Lagged recent participation (2+),120,0.0027033698462333236,-0.00040606869205795927,0.4427083333333333
+tree_path_dependent,inactive_vs_active,log(Inactive / Active),Borough identity,32,0.0020331191080087854,-4.706561488402911e-05,0.03125
+tree_path_dependent,inactive_vs_active,log(Inactive / Active),Lagged external context,10,0.12922994128637122,-0.020521226138364667,0.5052083333333334
+tree_path_dependent,fairly_vs_active,log(Fairly active / Active),Calendar and trend,3,0.04943530250873628,-0.04943530250873628,0.0
+tree_path_dependent,fairly_vs_active,log(Fairly active / Active),COVID calendar flags,2,0.0,0.0,0.0
+tree_path_dependent,fairly_vs_active,log(Fairly active / Active),Lagged activity-state outcomes,3,0.007843358640774192,-0.0004296529227471871,0.65625
+tree_path_dependent,fairly_vs_active,log(Fairly active / Active),Lagged survey composition,3,0.0,0.0,0.0
+tree_path_dependent,fairly_vs_active,log(Fairly active / Active),Lagged 12-month participation,124,0.011442069001310111,0.0015190445626171265,0.5989583333333334
+tree_path_dependent,fairly_vs_active,log(Fairly active / Active),Lagged recent participation (any),122,0.0,0.0,0.0
+tree_path_dependent,fairly_vs_active,log(Fairly active / Active),Lagged recent participation (2+),120,0.005868930999193775,-2.1155028842526925e-05,0.390625
+tree_path_dependent,fairly_vs_active,log(Fairly active / Active),Borough identity,32,0.0,0.0,0.0
+tree_path_dependent,fairly_vs_active,log(Fairly active / Active),Lagged external context,10,0.07799322717437426,-0.015535936993335941,0.3411458333333333

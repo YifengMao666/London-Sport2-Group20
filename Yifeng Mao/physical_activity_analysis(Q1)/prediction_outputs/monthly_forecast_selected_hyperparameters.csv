@@ -1,0 +1,4 @@
+﻿model,feature_configuration,selection_rule,alpha,n_estimators,max_features,min_samples_leaf,max_depth,learning_rate,loss
+Ridge,Full 372 activity fields — survey only,three expanding-window folds; weighted TV; one-standard-error parsimony rule,10000.0,,,,,,
+Random Forest,Full 372 activity fields — survey + external,three expanding-window folds; weighted TV; one-standard-error parsimony rule,,300.0,0.2,15.0,8.0,,
+Gradient Boosting,Full 372 activity fields — survey + external,three expanding-window folds; weighted TV; one-standard-error parsimony rule,,100.0,,20.0,1.0,0.03,huber

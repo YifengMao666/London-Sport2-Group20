@@ -1,0 +1,43 @@
+﻿panel,variable group,variables,missing cells,missing cells (%)
+london_annual,three outcomes,3,0,0.0
+london_annual,three composition fields,3,0,0.0
+london_annual,372 activity fields,372,0,0.0
+london_annual,effective sample size,1,0,0.0
+london_annual,eight socioeconomic/demographic fields,8,0,0.0
+london_annual,five weather fields,5,0,0.0
+london_annual,two external-source uncertainty fields,2,0,0.0
+area_annual,three outcomes,3,0,0.0
+area_annual,three composition fields,3,0,0.0
+area_annual,372 activity fields,372,0,0.0
+area_annual,effective sample size,1,0,0.0
+area_annual,eight socioeconomic/demographic fields,8,0,0.0
+area_annual,five weather fields,5,0,0.0
+area_annual,two external-source uncertainty fields,2,0,0.0
+borough_annual,three outcomes,3,0,0.0
+borough_annual,three composition fields,3,0,0.0
+borough_annual,372 activity fields,372,0,0.0
+borough_annual,effective sample size,1,0,0.0
+borough_annual,eight socioeconomic/demographic fields,8,0,0.0
+borough_annual,five weather fields,5,0,0.0
+borough_annual,two external-source uncertainty fields,2,0,0.0
+london_monthly,three outcomes,3,0,0.0
+london_monthly,three composition fields,3,0,0.0
+london_monthly,372 activity fields,372,0,0.0
+london_monthly,effective sample size,1,0,0.0
+london_monthly,eight socioeconomic/demographic fields,8,0,0.0
+london_monthly,five weather fields,5,0,0.0
+london_monthly,two external-source uncertainty fields,2,0,0.0
+area_monthly,three outcomes,3,0,0.0
+area_monthly,three composition fields,3,0,0.0
+area_monthly,372 activity fields,372,0,0.0
+area_monthly,effective sample size,1,0,0.0
+area_monthly,eight socioeconomic/demographic fields,8,0,0.0
+area_monthly,five weather fields,5,0,0.0
+area_monthly,two external-source uncertainty fields,2,0,0.0
+borough_monthly,three outcomes,3,3,0.03255208333333333
+borough_monthly,three composition fields,3,3,0.03255208333333333
+borough_monthly,372 activity fields,372,372,0.03255208333333333
+borough_monthly,effective sample size,1,1,0.03255208333333333
+borough_monthly,eight socioeconomic/demographic fields,8,0,0.0
+borough_monthly,five weather fields,5,0,0.0
+borough_monthly,two external-source uncertainty fields,2,0,0.0

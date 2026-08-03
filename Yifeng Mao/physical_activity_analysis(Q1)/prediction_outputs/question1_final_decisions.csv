@@ -1,0 +1,8 @@
+﻿component,decision,evidence
+External data in monthly forecast,Retain lagged external inputs,model-specific development-only ablation; selected-model gain=0.0026; minimum required gain=0.0010
+Monthly borough forecast,Exploratory: retain as a backtest with explicit precision warnings,median effective_n=25.18; 25.9% below 20; selected=Gradient Boosting; test TV=0.1031; Active MAE=8.6%; Inactive MAE=7.5%; Fairly-active R2=0.017
+Compact activity sensitivity,Retain all 372 fields in the primary benchmark; report 51-index model separately,"Development-only comparison for Ridge, Random Forest and Gradient Boosting; test year not used"
+Monthly empirical error bands,"Treat as descriptive empirical bands, not p05/p95 model quantiles",Calibrated from rolling-development absolute residuals; componentwise bounds are not a joint simplex region
+Monthly split,Keep chronological base train + three rolling validation folds + untouched final-year test,"All data are published, but time-order simulation is required to prevent future-regime leakage"
+Annual borough forecast,Retain only as a limited one-year validation/test backtest; selected=Seasonal naive,selected-model test weighted TV=0.0418; test-year best=Ridge; model ranks reverse materially across the two years
+Borough clustering,Descriptive only; do not add cluster-level forecasts,"chosen=K-means, k=2, silhouette=0.234; Inner/Outer agreement=78.1%; sensitivity ARI minimum=0.227"

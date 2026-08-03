@@ -1,0 +1,9 @@
+﻿file,decision,role,reason,source
+myebtablesenglandwales20112024.xlsx,included,actual population age/sex structure and net migration,official annual estimates; complete 2015–2023 borough coverage,ONS mid-year population estimates and components of change
+earnings-residence-borough.xlsx,included,residence-based median weekly earnings,complete 2015–2023 coverage for the 32 study boroughs,ONS Annual Survey of Hours and Earnings via London Datastore
+economic-inactivity.csv,included,working-age economic inactivity rate,official APS annual series with complete study coverage,ONS Annual Population Survey via London Datastore
+open-meteo historical weather data,included,London-wide monthly weather context,daily historical values cover every month from 2015-11 to 2023-10,Open-Meteo historical weather API and user-supplied extract
+2022_Identified_Capacity_10yr_central_fert_std.xlsx,excluded,GLA demographic projections,projections are unnecessary because actual ONS estimates cover the study,GLA 2022-based demographic projections
+open-meteo-51.50N0.10W23m.csv,excluded,2024–2030 climate-model projections,future model scenarios are not observations and do not cover study outcomes,Open-Meteo climate projections
+MPS Borough Level Crime.csv,excluded,borough crime,starts 2020-06 and offence definitions change inside the short series,Metropolitan Police Service
+nomis_2026_07_14_*.xlsx,excluded,intended APS extracts,both workbooks contain only a title and no observations,Nomis download attempts
