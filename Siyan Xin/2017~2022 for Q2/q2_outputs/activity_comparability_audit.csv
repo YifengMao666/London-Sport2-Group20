@@ -1,0 +1,180 @@
+DV suffix,Activity label,Number of constituent activities,Constituent activities (canonical codes),four_DVs_present_all_six
+ABSEILING_H03,Abseiling,1,A1_3_4,True
+ACTTRAV_C03,Active Travel,2,"CYC1_1, WALK1_1",False
+AIKIDO_S04,Aikido,1,A1_5_6_4,True
+AIRGUN_S08,Airgun (including pistol),1,A1_5_7_1,False
+ANGLING_I01,Angling,1,A1_4_1,True
+ARCHERY_J01,Archery,2,"A1_4_2, A1_5_1",True
+ATHLETICS_D03,Athletics,5,"A1_8_1, A1_8_2, A1_8_3, A1_8_4, A2_5_2_6",False
+BADMINTON_G02,Badminton,1,A1_2_2,True
+BASESOFTBALL_F13,Baseball or Softball,1,A1_1_14,True
+BASKETBALL_F07,Basketball,1,A1_1_8,True
+BOCCIA_L11,Boccia,1,A1_11_6,True
+BODYWEIGHT_P25,Body weight exercises,1,A2_5_3,True
+BOOTCAMP_P22,"Bootcamp (e.g. drill sergeant, military fitness)",1,A2_5_9,True
+BOULES_L12,"Boules, petanque, deck bowls",1,A1_11_7,True
+BOWLSBOULES_C12,Bowls or boules,9,"A1_11_1, A1_11_2, A1_11_3, A1_11_4, A1_11_5, A1_11_6, A1_11_7, A1_11_8, A1_11_9",False
+BOWLSCARPET_U18,Carpet bowls,1,A1_11_1,True
+BOWLSCROWNGREEN_U19,Crown green bowls,1,A1_11_2,True
+BOWLSFLATGREEN_U20,Flat green bowls,3,"A1_11_3, A1_11_4, A1_11_9",True
+BOWLSSHORTMAT_U23,Short mat bowls,1,A1_11_5,True
+BOWLS_L10,Bowls,7,"A1_11_1, A1_11_2, A1_11_3, A1_11_4, A1_11_5, A1_11_8, A1_11_9",True
+BOXCLASS_P03,Boxing class,1,A2_5_13,True
+BOXINGTRAD_S01,Boxing (traditional),1,A1_5_2,True
+BOXING_J02,Boxing,2,"A1_5_2, A2_5_13",False
+CARDIOCLASS_P04,Cardio class,1,A2_5_14,True
+CAVING_H02,Caving or pot holing,1,A1_3_3,True
+CHEERLEADING_L15,Cheerleading,1,A1_12_4,True
+CIRCUITS_P20,Circuit training,1,A2_5_7,True
+CLIMBBOULD_H16,Climbing or bouldering,3,"A1_3_1_1, A1_3_1_2, A1_3_1_6",True
+CLIMBWALL_R02,Climbing or bouldering wall,1,A1_3_1_2,True
+COMBATTARGET_C09,"Combat sports, martial arts or target sports",21,"A1_4_2, A1_4_3, A1_5_1, A1_5_2, A1_5_3, A1_5_4, A1_5_5, A1_5_6, A1_5_6_1, A1_5_6_2, A1_5_6_3, A1_5_6_4, A1_5_6_5, A1_5_6_6, A1_5_7, A1_5_7_1, A1_5_7_2, A1_5_7_3, A1_5_8, A1_5_9, A2_5_22",False
+CORECLASS_P05,Core strength class,1,A2_5_15,True
+CRICKETLONG_Q06,Long form cricket match (e.g. 40-50 overs),1,A1_1_2_1,True
+CRICKETNETPRAC_Q09,Cricket nets or practice,1,A1_1_2_6,True
+CRICKETOTH_Q12,Other cricket,1,A1_1_2_5,True
+CRICKETSHORT_Q07,Short form cricket match (e.g. 20:20),1,A1_1_2_2,True
+CRICKET_F02,Cricket,5,"A1_1_2, A1_1_2_1, A1_1_2_2, A1_1_2_5, A1_1_2_6",True
+CROQUET_I05,Croquet,1,A1_4_11,True
+CYCBMX_N03,BMX,1,CYC1_4,True
+CYCCROSS_N06,Cyclo-cross,1,CYC1_7,True
+CYCLEISURE_N01,Cycling for leisure,2,"A1_4_9, CYC1_2",False
+CYCMOUNTAIN_N02,Mountain biking,1,CYC1_3,True
+CYCROAD_N04,Road cycling or racing,1,CYC1_5,True
+CYCTRACK_N05,Track cycling,1,CYC1_6,True
+CYCTRAV_B04,Cycling for travel,1,CYC1_1,False
+CYC_OLD_M02,Cycling_old,8,"A1_4_9, CYC1_10, CYC1_2, CYC1_3, CYC1_4, CYC1_5, CYC1_6, CYC1_7",False
+DANCEALL_C04,Dance,5,"A2_5_17, DANCE_1, DANCE_2, DANCE_4, DANCE_6",False
+DANCEART_B05,Creative or artistic dance,1,DANCE_1,True
+DANCECLASS_P07,Dance-based class,2,"A2_5_17, DANCE_2",True
+DANCEOTHER_O01,Other types of dancing,1,DANCE_4,True
+DARTS_I08,Darts,1,A1_4_14,True
+DIVING_U05,Diving,1,A1_7_4,True
+DODGEBALL_F12,Dodgeball,1,A1_1_13,True
+DRIVINGRANGE_U10,Driving range,1,A1_9_3,True
+EQUESTDRESSAGE_U15,Dressage,1,A1_10_4,True
+EQUESTEVENTING_U16,Eventing,1,A1_10_5,True
+EQUESTHACKING_U12,Hacking or pony trekking,1,A1_10_1,True
+EQUESTOTHER_U17,Other horse riding,1,A1_10_6,True
+EQUESTSCHOOLING_U13,Schooling,1,A1_10_2,True
+EQUESTSHOWJUMP_U14,Show jumping,1,A1_10_3,True
+EQUEST_L09,Equestrian,7,"A1_10, A1_10_1, A1_10_2, A1_10_3, A1_10_4, A1_10_5, A1_10_6",True
+EXMACHINESOTHER_P16,Other exercise machine,2,"A2_5_2, A2_5_2_7",True
+FELLRUNNING_L04,Fell running,1,A1_8_3,True
+FENCING_J03,Fencing,2,"A1_4_3, A1_5_3",True
+FITCLASS_E02,Fitness class,11,"A2_5_11, A2_5_12, A2_5_13, A2_5_14, A2_5_15, A2_5_16, A2_5_17, A2_5_19, A2_5_20, A2_5_21, DANCE_2",True
+FOOTBALL11_Q01,11 a-side football,1,A1_1_1_1,True
+FOOTBALLOTHER_Q05,Other football,1,A1_1_1_5,True
+FOOTBALLSMALL_Q02,Small sided football,1,A1_1_1_2,True
+FOOTBALLWALK_Q04,Walking football,1,A1_1_1_4,True
+FOOTBALL_F01,Football,6,"A1_1_1, A1_1_1_1, A1_1_1_2, A1_1_1_3, A1_1_1_4, A1_1_1_5",True
+FREEWEIGHTS_P18,Free weights,1,A2_5_4,True
+FRISBEE_I03,Frisbee or ultimate frisbee,1,A1_4_5,True
+FUTSAL_Q03,Futsal,1,A1_1_1_3,True
+GARDENTRAMP_L14,Garden trampolining,2,"A1_12_3, A1_4_7",True
+GARD_B08,Gardening,1,ACT1_2,False
+GENERICFITNESS_E06,Generic fitness training,4,"A2_4_12, A2_5_24, A2_5_3, A2_5_5",False
+GLIDING_H08,"Gliding, paragliding or handgliding",1,A1_3_10,True
+GOALBALL_F15,Goalball,1,A1_1_16,True
+GOLFADV_U11,Adventure or crazy golf,1,A1_9_4,True
+GOLFFULL_U08,Full course golf,1,A1_9_1,True
+GOLFSHORT_U09,"Short course golf, par 3, pitch and putt, putting",1,A1_9_2,True
+GOLF_L08,Golf,5,"A1_9, A1_9_1, A1_9_2, A1_9_3, A1_9_4",True
+GYMNASTICSONLY_U24,Gymnastics,1,A1_12_1,True
+GYMNASTICS_L13,Gymnastics,3,"A1_12_1, A1_12_2, A1_12_5",False
+GYMTRAMPCHEER_C13,"Gymnastics, trampolining or cheerleading",6,"A1_12_1, A1_12_2, A1_12_3, A1_12_4, A1_12_5, A1_4_7",False
+GYM_E01,Gym session,1,A2_5_1,True
+HANDBALL_F16,Handball,1,A1_1_17,True
+HIGHROPES_H14,High ropes,1,A1_3_19,False
+HIIT_P24,High intensity,1,A2_5_18,True
+HILLWALK_H15,"Hill and mountain walking, hiking, mountaineering",4,"A1_3_1_3, A1_3_1_4, A1_3_1_5, WALK1_4",True
+HOCKEY_F09,Hockey,2,"A1_1_10, A1_1_10_1",True
+HULAHOOP_P27,Hula hooping,1,A2_4_12,False
+ICEHOCKEY_K03,Ice hockey,2,"A1_1_10_3, A1_6_4",True
+ICESKATING_I02,Ice skating,3,"A1_13_4, A1_4_4, A1_6_6",True
+JUDO_J04,Judo,1,A1_5_4,True
+JUJITSU_S03,Ju-Jitsu,1,A1_5_6_3,True
+KARATE_S02,Karate,1,A1_5_6_1,True
+KARTING_U26,Karting or go-karting,1,A1_14_1,False
+LACROSSE_F14,Lacrosse,1,A1_1_15,True
+LEISURE_C08,Leisure activities and games,21,"A1_12_3, A1_13_4, A1_1_12, A1_4_1, A1_4_10, A1_4_11, A1_4_12, A1_4_13, A1_4_14, A1_4_15, A1_4_16, A1_4_2, A1_4_3, A1_4_4, A1_4_5, A1_4_6, A1_4_7, A1_4_95, A1_5_1, A1_5_3, A1_6_6",False
+LIFESAVING_H13,Life-saving,2,"A1_3_16, A1_7_7",True
+MARTIALCHINESE_S05,Chinese martial arts,1,A1_5_6_5,True
+MARTIALOTHER_S06,Other martial arts,1,A1_5_6_6,True
+MARTIAL_J07,Martial Arts,6,"A1_5_6, A1_5_6_1, A1_5_6_3, A1_5_6_4, A1_5_6_5, A1_5_6_6",True
+MODPENT_L06,Modern Pentathlon,1,A1_8_6,True
+MOTORCARRACE_U28,Motorcar racing,1,A1_14_3,False
+MOTORCYCRACE_U27,Motorcycle racing,1,A1_14_2,False
+MOTORSPORTS_L18,Motor sports,4,"A1_14, A1_14_1, A1_14_2, A1_14_3",True
+MOUNTSCRAM_R05,Mountaineering and scrambling,1,A1_3_1_4,True
+NETBALL_F06,Netball,1,A1_1_7,True
+OBSTACLE_L07,Obstacle course (e.g. Tough Mudder),1,A1_8_7,True
+ORIENTEERING_H04,Orienteering,1,A1_3_5,True
+OTHERFITCLASS_P10,Other fitness or exercise class,1,A2_5_21,True
+PARKOUR_H05,Parkour or free running,1,A1_3_6,True
+PILATES_P01,Pilates,1,A2_5_11,True
+POOL_I07,Pool,1,A1_4_13,True
+RESISTMACHINE_P17,Resistance weights machines,1,A2_5_2_3,True
+RIFLE_S09,Rifle,1,A1_5_7_2,False
+ROCKCLIMB_R01,Rock climbing or bouldering,1,A1_3_1_1,True
+ROLLERSKATING_L16,"Rollerskating, inline skating, rollerblading",1,A1_13_1,True
+ROLLER_C14,Roller or skating sports,8,"A1_13_1, A1_13_2, A1_13_3, A1_13_4, A1_1_10_2, A1_4_4, A1_6_6, SCOOT1_1",False
+ROUNDERS_F11,Rounders,2,"A1_1_12, A1_4_6",True
+ROWINGWATER_R04,Rowing (on water),1,A1_3_7_1,True
+ROWING_H06,Rowing,4,"A1_3_7, A1_3_7_1, A1_3_7_2, A2_5_2_4",False
+ROWMACHINE_P13,Rowing machine,2,"A1_3_7_2, A2_5_2_4",True
+RUGBYLEAG13_Q17,13 a-side rugby league,1,A1_1_4_1,True
+RUGBYLEAGTAG_Q19,Tag or other rugby league,1,A1_1_4_3,True
+RUGBYLEAGTOUCH_Q18,Touch rugby league,2,"A1_1_4_2, A1_1_5_2",True
+RUGBYLEAGUE_F04,Rugby League,5,"A1_1_4, A1_1_4_1, A1_1_4_2, A1_1_4_3, A1_1_5_2",True
+RUGBYUN15_Q13,15 a-side rugby union,1,A1_1_3_1,True
+RUGBYUN7_Q15,Rugby sevens,1,A1_1_3_3,True
+RUGBYUNION_F03,Rugby Union,6,"A1_1_3, A1_1_3_1, A1_1_3_2, A1_1_3_3, A1_1_3_4, A1_1_5_1",True
+RUGBYUNTAG_Q16,Tag or other rugby union,1,A1_1_3_4,True
+RUGBYUNTOUCH_Q14,Touch rugby union,2,"A1_1_3_2, A1_1_5_1",True
+RUNATHMULTI_C11,"Running, athletics or multi-sports",8,"A1_8_1, A1_8_2, A1_8_3, A1_8_4, A1_8_5, A1_8_6, A1_8_7, A2_5_2_6",False
+RUNJOG_U07,Running or jogging,1,A1_8_2,False
+RUNNING_L03,Running,3,"A1_8_2, A1_8_4, A2_5_2_6",False
+SAILING_H07,Sailing,3,"A1_3_17, A1_3_8, A1_3_9",True
+SHOOTING_J08,Shooting,4,"A1_5_7, A1_5_7_1, A1_5_7_2, A1_5_7_3",True
+SKATEBOARDING_L17,Skateboarding,1,A1_13_3,True
+SKIING_T01,Skiing,1,A1_6_1,False
+SKIPPING_P26,Skipping,1,A2_5_5,True
+SKITTLES_I09,Skittles,1,A1_4_15,False
+SLEDDING_K02,"Sledding, luge, tobogganing",1,A1_6_3,True
+SNOOKER_I06,Snooker,1,A1_4_12,True
+SNOWBOARDING_T02,Snowboarding,1,A1_6_2,False
+SNOWSPORT_K01,Snowsport,3,"A1_6_1, A1_6_2, A1_6_8",True
+SQUASH_G04,Squash,1,A1_2_6,True
+STEPMACHINE_P14,Step machine,1,A2_5_2_5,True
+SWIMIN_U02,Swimming - Indoors,1,A1_7_8_1,True
+SWIMOPEN_U04,Swimming - Open water,1,A1_7_8_3,True
+SWIMOUTPOOL_U03,Swimming - Outdoor pool,1,A1_7_8_2,True
+SWIM_L01,"Swimming, diving or water polo",12,"A1_1_95_4, A1_7, A1_7_1, A1_7_2, A1_7_3, A1_7_4, A1_7_6, A1_7_8, A1_7_8_1, A1_7_8_2, A1_7_8_3, A2_5_19",True
+TABLETENNIS_G03,Table Tennis,1,A1_2_5,True
+TAEKWONDO_J05,Taekwondo,1,A1_5_5,True
+TAICHI_J06,Tai Chi,3,"A1_5_6_2, A1_5_9, A2_5_22",True
+TENNIS_G01,Tennis,1,A1_2_1,True
+TENPIN_I04,Ten-pin bowling,1,A1_4_10,True
+TRACKANDFIELD_L02,Track and field athletics,1,A1_8_1,True
+TRAMPOLINING_U25,Trampolining,1,A1_12_2,True
+TREADMILL_P15,Treadmill,2,"A1_8_4, A2_5_2_6",True
+TRIATHLON_L05,Triathlon,1,A1_8_5,True
+VOLLEYBALL_F10,Volleyball,1,A1_1_11,True
+WALKALL_C01,Walking,7,"A1_3_1_3, A1_3_1_5, A1_4_8, WALK1_1, WALK1_2, WALK1_4, WALK1_6",False
+WALKLEISURE_B01,Walking for leisure,2,"A1_4_8, WALK1_2",False
+WALKTRAV_B02,Walking for travel,1,WALK1_1,False
+WATERCLASS_P08,Water-based class,1,A2_5_19,True
+WATERPOLO_U06,Water polo,2,"A1_1_95_4, A1_7_6",True
+WATERSKIING_H10,Waterskiing,1,A1_3_13,True
+WEIGHTLIFTING_P19,Weightlifting or powerlifting,1,A2_5_6,True
+WEIGHTSCLASS_P09,Weights-based class,1,A2_5_20,True
+WEIGHTS_E04,Weights session,5,"A2_5_20, A2_5_23, A2_5_2_3, A2_5_4, A2_5_6",True
+WHEELCHBASKETBALL_F08,Wheelchair Basketball,1,A1_1_9,True
+WHEELCHRUGBY_F05,Wheelchair Rugby,1,A1_1_6,True
+WINTER_C10,Winter sports,11,"A1_13_4, A1_1_10_3, A1_4_4, A1_6_1, A1_6_2, A1_6_3, A1_6_4, A1_6_5, A1_6_6, A1_6_7, A1_6_8",False
+WRESTLING_J09,Wrestling,1,A1_5_8,True
+XFIT_P23,Cross fit,1,A2_5_10,True
+XTRAINING_P21,Cross training,1,A2_5_8,True
+XTRAINMACHINE_P11,Cross training machine,1,A2_5_2_1,True
+YOGA_P02,Yoga,1,A2_5_12,True

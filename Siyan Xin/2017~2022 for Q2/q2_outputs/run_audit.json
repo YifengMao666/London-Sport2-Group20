@@ -1,0 +1,44 @@
+{
+  "respondent_rows": 96629,
+  "survey_year_counts": {
+    "2017": 15967,
+    "2018": 15889,
+    "2019": 16091,
+    "2020": 16028,
+    "2021": 16139,
+    "2022": 16515
+  },
+  "borough_count": 32,
+  "comparable_location_activities": 146,
+  "annual_panel_rows": 576,
+  "monthly_panel_rows": 6847,
+  "annual_low_effective_n_below_20": 5,
+  "monthly_low_effective_n_below_20": 6139,
+  "annual_composition_max_abs_error": 2.220446049250313e-16,
+  "monthly_composition_max_abs_error": 3.3306690738754696e-16,
+  "annual_partial_pooling_prior_strength": 5.0,
+  "monthly_partial_pooling_prior_strength": 20.0,
+  "selected_models": {
+    "annual": {
+      "name": "Random Forest",
+      "params": {
+        "n_estimators": 250,
+        "max_depth": null,
+        "min_samples_leaf": 10
+      }
+    },
+    "monthly": {
+      "name": "Ridge",
+      "params": {
+        "alpha": 0.1
+      }
+    }
+  },
+  "important_definition": "neither_recorded is no qualifying recorded indoor/outdoor location, not physical inactivity",
+  "preference_definition": "indoor exposure / (indoor exposure + outdoor exposure); both contributes one exposure to each side",
+  "preference_inference": "Bayesian-bootstrap pairwise contrasts plus BH-FDR correction; low-n and non-estimable borough comparisons are retained and flagged",
+  "covid_scenarios": {
+    "persistent_legacy": "COVID-era level and time-since-COVID terms continue; no future disruption-window flag",
+    "legacy_recovery": "future COVID-specific terms are set to zero; ordinary time trend and seasonality remain"
+  }
+}
