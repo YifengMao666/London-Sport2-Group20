@@ -1,0 +1,40 @@
+{
+  "target": "frequent_volunteer_rate",
+  "selected_model": "Gradient Boosting",
+  "tuned_parameters": {
+    "learning_rate": 0.05,
+    "max_depth": 2,
+    "min_samples_leaf": 20,
+    "n_estimators": 150
+  },
+  "fixed_parameters": {
+    "loss": "huber"
+  },
+  "numeric_features": [
+    "frequent_volunteer_rate_lag1",
+    "lag_1_missing",
+    "time_trend"
+  ],
+  "categorical_features": [
+    "borough_category",
+    "age_activity_group"
+  ],
+  "training_years": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "validation_year": 7,
+  "test_year": 8,
+  "selection_sample": "Observed targets with an available one-year lag",
+  "primary_selection_metric": "Unweighted MAE",
+  "validation_mae": 0.0773789476866546,
+  "test_mae": 0.08537746934426858,
+  "test_skill_vs_naive": 0.21616364440741687,
+  "random_state": 2026,
+  "prediction_bounds": [
+    0.0,
+    1.0
+  ]
+}
