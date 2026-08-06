@@ -1,0 +1,7 @@
+measure,value
+Selected model,Gradient Boosting
+Year 7 validation MAE,0.0773789476866546
+Year 8 test MAE,0.08537746934426858
+Year 8 skill versus naive,0.21616364440741687
+Validation common rows,681
+Test common rows,685
