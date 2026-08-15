@@ -1,7 +1,0 @@
-﻿question,answer,evidence
-Are annual borough age-stratified results feasible?,"Yes, with precision shown","1,024 complete cells; 0.4% below effective_n 20"
-What is decomposed exactly?,The reconstructed age-group-weighted rate only,London Year 1→8: composition=-0.24%; within-age behaviour=2.06%
-What most strongly distinguishes boroughs in the full conditional model?,earnings_relative_to_london,"2.89 pp per within-year SD; cluster-robust 95% CI [1.65, 4.13]"
-Which input block most affects the selected monthly forecast?,Lagged external context,Permutation increase=0.0087 (8.4% of baseline); largest refit ablation=Lagged external context (+0.0022)
-How is the selected nonlinear monthly model explained?,Held-out grouped permutation + interventional TreeSHAP,Maximum SHAP additivity error=2.48e-09; SHAP/permutation group-rank Spearman=0.63
-Can a particular policy effect be claimed?,No,Policy is not separately identified; selected crime is explicitly classified as specification-sensitive. Wild-bootstrap p-values span 0.044–0.806.

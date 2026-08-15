@@ -1,4 +1,0 @@
-﻿model,target,weighted MAE,weighted RMSE,weighted R2,development residual quantile,weighted test coverage,average empirical band width
-Gradient Boosting,Inactive,0.07544228698001186,0.09664720461017413,0.13534691036080493,90% absolute-error quantile,0.9116921176612597,0.3284162459270784
-Gradient Boosting,Fairly active,0.04490060213868885,0.05710776471060079,0.016659619359261746,90% absolute-error quantile,0.9256417480288226,0.19183581435000083
-Gradient Boosting,Active,0.08586146565855912,0.10629506082766023,0.1502468639488006,90% absolute-error quantile,0.9291877107979417,0.36617161980339463

@@ -1,0 +1,25 @@
+task,model,alpha,n_estimators,max_depth,min_samples_leaf,max_features,learning_rate
+age_overall,Ridge Regression,10.0,,,,,
+age_overall,Random Forest,,220.0,8.0,12.0,0.8,
+age_overall,Gradient Boosting,,120.0,2.0,15.0,,0.05
+dis_overall,Ridge Regression,100.0,,,,,
+dis_overall,Random Forest,,160.0,6.0,5.0,0.5,
+dis_overall,Gradient Boosting,,120.0,2.0,15.0,,0.05
+dis_level,Ridge Regression,0.1,,,,,
+dis_level,Random Forest,,160.0,6.0,5.0,0.5,
+dis_level,Gradient Boosting,,120.0,2.0,15.0,,0.05
+months12,Ridge Regression,100.0,,,,,
+months12,Random Forest,,160.0,10.0,8.0,0.5,
+months12,Gradient Boosting,,120.0,2.0,15.0,,0.05
+days,Ridge Regression,100.0,,,,,
+days,Random Forest,,160.0,10.0,8.0,0.5,
+days,Gradient Boosting,,120.0,2.0,15.0,,0.05
+age_months12,Ridge Regression,100.0,,,,,
+age_months12,Random Forest,,160.0,10.0,8.0,0.5,
+age_months12,Gradient Boosting,,120.0,2.0,15.0,,0.05
+age_days,Ridge Regression,100.0,,,,,
+age_days,Random Forest,,160.0,10.0,8.0,0.5,
+age_days,Gradient Boosting,,120.0,2.0,15.0,,0.05
+age_level,Ridge Regression,0.1,,,,,
+age_level,Random Forest,,160.0,10.0,8.0,0.5,
+age_level,Gradient Boosting,,120.0,2.0,15.0,,0.05

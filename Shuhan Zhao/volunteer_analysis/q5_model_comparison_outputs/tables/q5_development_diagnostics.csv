@@ -1,0 +1,10 @@
+measure,value
+Training rows,2698.0
+Training series,746.0
+Target mean,0.0866194562333645
+Target median,0.0
+Zero-target proportion,0.5211267605633803
+Lag-missing proportion,0.29799851742031136
+Median effective sample size,4.863762541424524
+Effective n below 5,0.5126019273535952
+Effective n below 10,0.7327650111193477
