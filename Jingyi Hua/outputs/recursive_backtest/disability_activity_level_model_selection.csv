@@ -1,0 +1,17 @@
+task,origin,model,parameters,validation_score,selected
+disability_activity_level,4,Naive baseline,{},0.006566973088219835,False
+disability_activity_level,4,Ridge Regression,"{""alpha"": 0.1}",0.005856566575613309,False
+disability_activity_level,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.005464723442432809,False
+disability_activity_level,4,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.005328071687191513,True
+disability_activity_level,5,Naive baseline,{},0.007384896702665569,False
+disability_activity_level,5,Ridge Regression,"{""alpha"": 0.1}",0.005961183020038922,False
+disability_activity_level,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.005333013456525733,False
+disability_activity_level,5,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.005282058857165441,True
+disability_activity_level,6,Naive baseline,{},0.007126509843003377,False
+disability_activity_level,6,Ridge Regression,"{""alpha"": 0.1}",0.006054850337041676,False
+disability_activity_level,6,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.005260222706632818,False
+disability_activity_level,6,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.005233261432468714,True
+disability_activity_level,7,Naive baseline,{},0.00756630470020163,False
+disability_activity_level,7,Ridge Regression,"{""alpha"": 0.1}",0.006542176227879288,False
+disability_activity_level,7,Random Forest,"{""max_depth"": 6, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 160}",0.006018638891815285,False
+disability_activity_level,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.005752379422666116,True

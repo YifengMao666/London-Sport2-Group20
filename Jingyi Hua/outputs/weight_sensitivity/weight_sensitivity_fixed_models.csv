@@ -1,0 +1,9 @@
+task,fixed_model,fixed_parameters
+age_overall_level,Gradient Boosting,{}
+disability_overall_level,Gradient Boosting,{}
+age_activity_level,Gradient Boosting,{}
+disability_activity_level,Gradient Boosting,{}
+age_months12,Naive baseline,{}
+disability_months12,Gradient Boosting,{}
+age_days10p60gr,Ridge Regression,{}
+disability_days10p60gr,Gradient Boosting,{}
