@@ -16,6 +16,14 @@ The analysis covers historical trends, geographic differences, borough clusterin
 ```text
 Yifeng Mao/
 ├── README.md
+├── data/
+│   ├── active_lives_1516_london_125.csv
+│   ├── active_lives_1516_london_125_variables.csv
+│   ├── active_lives_1617_london_125.csv
+│   ├── active_lives_1617_london_125_variables.csv
+│   └── preprocessing_code/
+│       ├── prepare_london_1516.ipynb
+│       └── prepare_london_1617.ipynb
 └── Q1/
     ├── physical_activity_analysis/
     │   ├── 01_prepare_question1_data.ipynb
