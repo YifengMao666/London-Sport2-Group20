@@ -1,9 +1,9 @@
 task,fixed_model,fixed_parameters
 age_overall_level,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}"
 disability_overall_level,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}"
-age_activity_level,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}"
+age_activity_level,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}"
 disability_activity_level,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}"
 age_months12,Naive baseline,{}
-disability_months12,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}"
-age_days10p60gr,Ridge Regression,"{""alpha"": 100.0}"
+disability_months12,Ridge Regression,"{""alpha"": 100.0}"
+age_days10p60gr,Naive baseline,{}
 disability_days10p60gr,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}"
