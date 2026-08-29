@@ -6,7 +6,7 @@ dis_overall,Ridge Regression,100.0,,,,,
 dis_overall,Random Forest,,160.0,6.0,5.0,0.5,
 dis_overall,Gradient Boosting,,120.0,2.0,15.0,,0.05
 dis_level,Ridge Regression,0.1,,,,,
-dis_level,Random Forest,,160.0,6.0,5.0,0.5,
+dis_level,Random Forest,,160.0,10.0,8.0,0.5,
 dis_level,Gradient Boosting,,120.0,2.0,15.0,,0.05
 months12,Ridge Regression,100.0,,,,,
 months12,Random Forest,,160.0,10.0,8.0,0.5,
