@@ -1,129 +1,129 @@
 task,origin,model,parameters,validation_score,selected
 age_activity_level,4,Naive baseline,{},0.0056811416160491,False
-age_activity_level,4,Ridge Regression,"{""alpha"": 0.1}",0.0055345311129651,False
-age_activity_level,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0048961060943054,True
+age_activity_level,4,Ridge Regression,"{""alpha"": 0.1}",0.0055301252480634,False
+age_activity_level,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0048969402971894,True
 age_activity_level,4,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0056066254924371,False
 age_activity_level,5,Naive baseline,{},0.005992671435817,False
-age_activity_level,5,Ridge Regression,"{""alpha"": 0.1}",0.0058602942063057,False
-age_activity_level,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0047796857283729,False
+age_activity_level,5,Ridge Regression,"{""alpha"": 0.1}",0.0058567311800014,False
+age_activity_level,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.004778927993225,False
 age_activity_level,5,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.004582890429868,True
 age_activity_level,6,Naive baseline,{},0.0051497521929468,False
-age_activity_level,6,Ridge Regression,"{""alpha"": 0.1}",0.0051219885966496,False
-age_activity_level,6,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.0043869780723758,False
+age_activity_level,6,Ridge Regression,"{""alpha"": 0.1}",0.0051212745417482,False
+age_activity_level,6,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.0043877497377425,False
 age_activity_level,6,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0043753283003784,True
 age_activity_level,7,Naive baseline,{},0.0059898704773031,False
-age_activity_level,7,Ridge Regression,"{""alpha"": 0.1}",0.0060080566472164,False
-age_activity_level,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0054308969135852,False
-age_activity_level,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0053325651722776,True
+age_activity_level,7,Ridge Regression,"{""alpha"": 0.1}",0.006009313331028,False
+age_activity_level,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0054336272962858,False
+age_activity_level,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.005332565405054,True
 age_days10p60gr,4,Naive baseline,{},0.008809466514717,True
-age_days10p60gr,4,Ridge Regression,"{""alpha"": 100.0}",0.0089425031271178,False
-age_days10p60gr,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0101447477757411,False
+age_days10p60gr,4,Ridge Regression,"{""alpha"": 100.0}",0.0089202667800826,False
+age_days10p60gr,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0101453550311111,False
 age_days10p60gr,4,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.008897509310092,False
 age_days10p60gr,5,Naive baseline,{},0.0090828866482029,False
-age_days10p60gr,5,Ridge Regression,"{""alpha"": 100.0}",0.0094520602791881,False
-age_days10p60gr,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0103107984940478,False
+age_days10p60gr,5,Ridge Regression,"{""alpha"": 100.0}",0.0094297373409178,False
+age_days10p60gr,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.01030976538441,False
 age_days10p60gr,5,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0088965323332126,True
 age_days10p60gr,6,Naive baseline,{},0.0074661117885646,True
-age_days10p60gr,6,Ridge Regression,"{""alpha"": 100.0}",0.0083578585808981,False
-age_days10p60gr,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0087103992082801,False
+age_days10p60gr,6,Ridge Regression,"{""alpha"": 100.0}",0.0083457018150525,False
+age_days10p60gr,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0087114114296469,False
 age_days10p60gr,6,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0074685122437184,False
 age_days10p60gr,7,Naive baseline,{},0.0086409302508833,False
-age_days10p60gr,7,Ridge Regression,"{""alpha"": 100.0}",0.0080453265068329,True
-age_days10p60gr,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0094353079089768,False
-age_days10p60gr,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0087483141518405,False
+age_days10p60gr,7,Ridge Regression,"{""alpha"": 100.0}",0.0080342711966772,True
+age_days10p60gr,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0094494690821369,False
+age_days10p60gr,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0087740533080351,False
 age_months12,4,Naive baseline,{},0.0179392853840243,True
-age_months12,4,Ridge Regression,"{""alpha"": 100.0}",0.0188356020231027,False
-age_months12,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0219735807159946,False
-age_months12,4,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0189539120009993,False
+age_months12,4,Ridge Regression,"{""alpha"": 100.0}",0.0188284792944934,False
+age_months12,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0219728728753199,False
+age_months12,4,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0189554923537375,False
 age_months12,5,Naive baseline,{},0.0170299718372257,True
-age_months12,5,Ridge Regression,"{""alpha"": 100.0}",0.0188388258312954,False
-age_months12,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0204002924591092,False
+age_months12,5,Ridge Regression,"{""alpha"": 100.0}",0.0188087191986954,False
+age_months12,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.020400570316342,False
 age_months12,5,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0178338027221443,False
 age_months12,6,Naive baseline,{},0.0162491970185073,True
-age_months12,6,Ridge Regression,"{""alpha"": 100.0}",0.0186404573332192,False
-age_months12,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0188285450097231,False
+age_months12,6,Ridge Regression,"{""alpha"": 0.1}",0.0185837981150867,False
+age_months12,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0188260124269263,False
 age_months12,6,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0163703253353028,False
 age_months12,7,Naive baseline,{},0.0152596087832078,True
-age_months12,7,Ridge Regression,"{""alpha"": 100.0}",0.0160098916195386,False
-age_months12,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0177371816023689,False
-age_months12,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.015728525933656,False
+age_months12,7,Ridge Regression,"{""alpha"": 100.0}",0.0159638808165115,False
+age_months12,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0177508640064374,False
+age_months12,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0157357219060366,False
 age_overall_level,4,Naive baseline,{},0.0939918750222303,False
-age_overall_level,4,Ridge Regression,"{""alpha"": 0.1}",0.0895941679068125,False
-age_overall_level,4,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.0859714984358817,False
+age_overall_level,4,Ridge Regression,"{""alpha"": 0.1}",0.089594167906817,False
+age_overall_level,4,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.0859597617379805,False
 age_overall_level,4,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0782913597214568,True
 age_overall_level,5,Naive baseline,{},0.1052377189279597,False
 age_overall_level,5,Ridge Regression,"{""alpha"": 0.1}",0.09018750192694,False
-age_overall_level,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0868728009922506,False
+age_overall_level,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0868540778557557,False
 age_overall_level,5,Gradient Boosting,"{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 20, ""n_estimators"": 160}",0.0820174116790479,True
 age_overall_level,6,Naive baseline,{},0.0998281351047113,False
-age_overall_level,6,Ridge Regression,"{""alpha"": 0.1}",0.0807351928823558,False
-age_overall_level,6,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.0794834622062025,False
+age_overall_level,6,Ridge Regression,"{""alpha"": 0.1}",0.0807351928823559,False
+age_overall_level,6,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.0794835979264635,False
 age_overall_level,6,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0719197115097464,True
 age_overall_level,7,Naive baseline,{},0.0983674809067601,False
-age_overall_level,7,Ridge Regression,"{""alpha"": 10.0}",0.0826248594109128,False
-age_overall_level,7,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.07820082639328,False
-age_overall_level,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0701930704711618,True
+age_overall_level,7,Ridge Regression,"{""alpha"": 10.0}",0.0826248594109126,False
+age_overall_level,7,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.0782168435576295,False
+age_overall_level,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0701484789472557,True
 disability_activity_level,4,Naive baseline,{},0.0065669730882198,False
-disability_activity_level,4,Ridge Regression,"{""alpha"": 0.1}",0.0058565665756133,False
-disability_activity_level,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0054647234424328,False
+disability_activity_level,4,Ridge Regression,"{""alpha"": 0.1}",0.0058524387201185,False
+disability_activity_level,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0054648730935036,False
 disability_activity_level,4,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0053280716871915,True
 disability_activity_level,5,Naive baseline,{},0.0073848967026655,False
-disability_activity_level,5,Ridge Regression,"{""alpha"": 0.1}",0.0059611830200389,False
-disability_activity_level,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0053330134565257,False
+disability_activity_level,5,Ridge Regression,"{""alpha"": 0.1}",0.0059575294802099,False
+disability_activity_level,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0053311471227523,False
 disability_activity_level,5,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0052820588571654,True
 disability_activity_level,6,Naive baseline,{},0.0071265098430033,False
-disability_activity_level,6,Ridge Regression,"{""alpha"": 0.1}",0.0060548503370416,False
-disability_activity_level,6,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.0052602227066328,False
+disability_activity_level,6,Ridge Regression,"{""alpha"": 0.1}",0.0060497243875833,False
+disability_activity_level,6,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 12, ""n_estimators"": 220}",0.0052601487762483,False
 disability_activity_level,6,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0052332614324687,True
 disability_activity_level,7,Naive baseline,{},0.0075663047002016,False
-disability_activity_level,7,Ridge Regression,"{""alpha"": 0.1}",0.0065421762278792,False
-disability_activity_level,7,Random Forest,"{""max_depth"": 6, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 160}",0.0060186388918152,False
+disability_activity_level,7,Ridge Regression,"{""alpha"": 1.0}",0.0065377451502915,False
+disability_activity_level,7,Random Forest,"{""max_depth"": 6, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 160}",0.006021634855461,False
 disability_activity_level,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0057523794226661,True
 disability_days10p60gr,4,Naive baseline,{},0.0100316366146401,False
-disability_days10p60gr,4,Ridge Regression,"{""alpha"": 100.0}",0.0093560623778596,False
-disability_days10p60gr,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0105895804569428,False
+disability_days10p60gr,4,Ridge Regression,"{""alpha"": 100.0}",0.0093547627173876,False
+disability_days10p60gr,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0105894298469732,False
 disability_days10p60gr,4,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0088075278098732,True
 disability_days10p60gr,5,Naive baseline,{},0.0106136141748032,False
-disability_days10p60gr,5,Ridge Regression,"{""alpha"": 100.0}",0.0099330001673149,False
-disability_days10p60gr,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0107247913742318,False
+disability_days10p60gr,5,Ridge Regression,"{""alpha"": 100.0}",0.0099317681496938,False
+disability_days10p60gr,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0107252870599603,False
 disability_days10p60gr,5,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0093546895428888,True
 disability_days10p60gr,6,Naive baseline,{},0.010156248355504,False
-disability_days10p60gr,6,Ridge Regression,"{""alpha"": 100.0}",0.0101391450480439,False
-disability_days10p60gr,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0105435407407698,False
+disability_days10p60gr,6,Ridge Regression,"{""alpha"": 100.0}",0.0101316776168521,False
+disability_days10p60gr,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0105429146884071,False
 disability_days10p60gr,6,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0089649436915031,True
 disability_days10p60gr,7,Naive baseline,{},0.0108313421974963,False
-disability_days10p60gr,7,Ridge Regression,"{""alpha"": 100.0}",0.0095081895738841,False
-disability_days10p60gr,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0103145522559761,False
-disability_days10p60gr,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0092425796861677,True
+disability_days10p60gr,7,Ridge Regression,"{""alpha"": 100.0}",0.0094887259789263,False
+disability_days10p60gr,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0103354710347733,False
+disability_days10p60gr,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0092690845863352,True
 disability_months12,4,Naive baseline,{},0.021920004174101,False
-disability_months12,4,Ridge Regression,"{""alpha"": 100.0}",0.0203401201003472,True
-disability_months12,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0252506229928299,False
+disability_months12,4,Ridge Regression,"{""alpha"": 100.0}",0.020321665145373,True
+disability_months12,4,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.025250070882755,False
 disability_months12,4,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0216661287694544,False
 disability_months12,5,Naive baseline,{},0.02306656762314,False
-disability_months12,5,Ridge Regression,"{""alpha"": 100.0}",0.0210905200276094,True
-disability_months12,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.024512116599307,False
+disability_months12,5,Ridge Regression,"{""alpha"": 100.0}",0.0210244807613246,True
+disability_months12,5,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0245112936931409,False
 disability_months12,5,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0219828138486911,False
 disability_months12,6,Naive baseline,{},0.0215740403984884,False
-disability_months12,6,Ridge Regression,"{""alpha"": 100.0}",0.0215199412038752,False
-disability_months12,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0229766106240964,False
+disability_months12,6,Ridge Regression,"{""alpha"": 100.0}",0.0214246111307942,False
+disability_months12,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0229765628365473,False
 disability_months12,6,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0203306537810927,True
 disability_months12,7,Naive baseline,{},0.0206615503722527,False
-disability_months12,7,Ridge Regression,"{""alpha"": 100.0}",0.0203662767522713,False
-disability_months12,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0225817113491734,False
-disability_months12,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0197960385347608,True
+disability_months12,7,Ridge Regression,"{""alpha"": 100.0}",0.0202821297086363,False
+disability_months12,7,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.0225859961237107,False
+disability_months12,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.0197754912482938,True
 disability_overall_level,4,Naive baseline,{},0.1773254815637872,False
 disability_overall_level,4,Ridge Regression,"{""alpha"": 10.0}",0.1598220914584913,False
-disability_overall_level,4,Random Forest,"{""max_depth"": 6, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 160}",0.1395120808711026,False
+disability_overall_level,4,Random Forest,"{""max_depth"": 6, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 160}",0.1394157616233836,False
 disability_overall_level,4,Gradient Boosting,"{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 20, ""n_estimators"": 160}",0.1308825460340289,True
 disability_overall_level,5,Naive baseline,{},0.1877118338041086,False
 disability_overall_level,5,Ridge Regression,"{""alpha"": 100.0}",0.1528028922565137,False
-disability_overall_level,5,Random Forest,"{""max_depth"": 6, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 160}",0.1486866055043948,False
-disability_overall_level,5,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.1442785810283314,True
+disability_overall_level,5,Random Forest,"{""max_depth"": 6, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 160}",0.1486507446673395,False
+disability_overall_level,5,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.1442821504490214,True
 disability_overall_level,6,Naive baseline,{},0.1754736619371782,False
 disability_overall_level,6,Ridge Regression,"{""alpha"": 100.0}",0.137789935620294,False
-disability_overall_level,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.1385819892575427,False
+disability_overall_level,6,Random Forest,"{""max_depth"": 10, ""max_features"": 0.5, ""min_samples_leaf"": 8, ""n_estimators"": 160}",0.1385797371055129,False
 disability_overall_level,6,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.1368510119176057,True
 disability_overall_level,7,Naive baseline,{},0.1713930496702267,False
-disability_overall_level,7,Ridge Regression,"{""alpha"": 100.0}",0.1289485515447767,False
-disability_overall_level,7,Random Forest,"{""max_depth"": 6, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 160}",0.126317135615242,False
-disability_overall_level,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.1222516885935218,True
+disability_overall_level,7,Ridge Regression,"{""alpha"": 100.0}",0.1289485515447769,False
+disability_overall_level,7,Random Forest,"{""max_depth"": 6, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 160}",0.1261889990365389,False
+disability_overall_level,7,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",0.1221800035931599,True
