@@ -1,0 +1,9 @@
+task,selected_model_from_06,n_eff_col,status
+age_overall_level,Gradient Boosting,n_eff_overall_activity_level,ready
+disability_overall_level,Gradient Boosting,n_eff,ready
+age_activity_level,Random Forest,n_eff_activity_level,ready
+disability_activity_level,Gradient Boosting,n_eff,ready
+age_months12,Naive baseline,n_eff_months12,ready
+disability_months12,Ridge Regression,n_eff_MONTHS_12,ready
+age_days10p60gr,Naive baseline,n_eff_days10p60gr,ready
+disability_days10p60gr,Gradient Boosting,n_eff_DAYS10P60GR,ready

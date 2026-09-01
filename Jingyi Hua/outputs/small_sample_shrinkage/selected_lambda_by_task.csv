@@ -1,0 +1,9 @@
+task,fixed_model,selected_lambda,primary_subset,primary_validation_error,all_cell_validation_error,n_validation_origins
+age_activity_level,Random Forest,50,n_eff<30,0.006157811708630016,0.007175641426121853,4
+age_days10p60gr,Naive baseline,100,n_eff<30,0.007825578248075319,0.007493061210598648,4
+age_months12,Naive baseline,100,n_eff<30,0.014414363526731585,0.014469024216218089,4
+age_overall_level,Gradient Boosting,20,n_eff<30,0.18040690608904775,0.11304906669305972,4
+disability_activity_level,Gradient Boosting,20,n_eff<30,0.00798343367378334,0.007973270396126492,4
+disability_days10p60gr,Gradient Boosting,20,n_eff<30,0.009317431902366547,0.00886334801671957,4
+disability_months12,Ridge Regression,2,n_eff<30,0.022223186461164973,0.020747548883844762,4
+disability_overall_level,Gradient Boosting,5,n_eff<30,0.23217306449330638,0.20005434644119874,4

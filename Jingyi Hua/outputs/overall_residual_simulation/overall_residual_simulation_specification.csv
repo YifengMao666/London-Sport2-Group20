@@ -1,0 +1,3 @@
+task,fixed_model,fixed_parameters,residual_source,residual_pool_size,simulations,simulation_batch_size,lower_quantile,upper_quantile,random_state,maximum_composition_sum_error
+age_overall_level,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",Year 8 one-step-ahead test residuals in ALR space,256,500,50,0.05,0.95,2026,2.220446049250313e-16
+disability_overall_level,Gradient Boosting,"{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 15, ""n_estimators"": 120}",Year 8 one-step-ahead test residuals in ALR space,504,500,50,0.05,0.95,2026,2.220446049250313e-16

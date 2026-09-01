@@ -1,0 +1,9 @@
+model,horizon,observations,total_variation,overall_mae,overall_rmse
+Gradient Boosting,1,2000,,,
+Naive baseline,1,2000,,,
+Gradient Boosting,2,1496,,,
+Naive baseline,2,1496,,,
+Gradient Boosting,3,997,,,
+Naive baseline,3,997,,,
+Gradient Boosting,4,495,0.185754456231189,0.12383630415412598,0.1736034546098558
+Naive baseline,4,495,0.24680394073276976,0.16453596048851316,0.24361502612962835

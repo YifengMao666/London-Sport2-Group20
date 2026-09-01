@@ -1,0 +1,3 @@
+task,alr_coordinate,year8_residual_observations,centred_residual_mean,centred_residual_sd,centred_residual_min,centred_residual_max
+disability_overall_level,alr_1,504,4.0564994044587814e-16,3.5932821081810977,-14.025784426931395,14.317682366443501
+disability_overall_level,alr_2,504,-5.260342426200147e-16,5.342838176552391,-10.86883031502098,17.96867254565946
