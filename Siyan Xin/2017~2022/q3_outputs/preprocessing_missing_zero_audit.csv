@@ -1,0 +1,25 @@
+source_file,survey_wave,variable_family,cells_total,raw_missing_or_blank,invalid_nonmissing_to_nan,valid_zero_retained,valid_nonzero_retained,processing_rule
+2017_data_179_activities.csv,2017/18,MONTHS_12,2331182,314776,0,1929889,86517,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2017_data_179_activities.csv,2017/18,DAYS10P60GR,2331182,314776,0,1988069,28337,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2017_data_179_activities.csv,2017/18,INOUTA_indoor,2331182,2320934,0,2041,8207,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2017_data_179_activities.csv,2017/18,INOUTB_outdoor,2331182,2320549,0,7805,2828,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2018_data_179_activities.csv,2018/19,MONTHS_12,2319794,0,0,2230447,89347,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2018_data_179_activities.csv,2018/19,DAYS10P60GR,2319794,2067,0,2289270,28457,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2018_data_179_activities.csv,2018/19,INOUTA_indoor,2319794,28993,0,2281998,8803,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2018_data_179_activities.csv,2018/19,INOUTB_outdoor,2319794,28993,0,2287556,3245,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+1920_london32_stable179.csv,2019/20,MONTHS_12,2349286,0,0,2258704,90582,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+1920_london32_stable179.csv,2019/20,DAYS10P60GR,2349286,0,0,2325796,23490,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+1920_london32_stable179.csv,2019/20,INOUTA_indoor,2349286,12994,0,2328678,7614,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+1920_london32_stable179.csv,2019/20,INOUTB_outdoor,2349286,12994,0,2333463,2829,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2021_london32_stable179.csv,2020/21,MONTHS_12,2340088,118389,0,2157087,64612,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2021_london32_stable179.csv,2020/21,DAYS10P60GR,2340088,118389,0,2200372,21327,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2021_london32_stable179.csv,2020/21,INOUTA_indoor,2340088,1451386,0,882280,6422,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+2021_london32_stable179.csv,2020/21,INOUTB_outdoor,2340088,1451386,0,885539,3163,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+year7_179activities.csv,2021/22,MONTHS_12,2356294,220419,0,2062365,73510,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+year7_179activities.csv,2021/22,DAYS10P60GR,2356294,220419,0,2109868,26007,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+year7_179activities.csv,2021/22,INOUTA_indoor,2356294,2344538,0,3625,8131,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+year7_179activities.csv,2021/22,INOUTB_outdoor,2356294,2344538,0,7771,3985,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+year8_179activities.csv,2022/23,MONTHS_12,2411190,210159,0,2117102,83929,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+year8_179activities.csv,2022/23,DAYS10P60GR,2411190,210159,0,2172225,28806,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+year8_179activities.csv,2022/23,INOUTA_indoor,2411190,2398084,0,3710,9396,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
+year8_179activities.csv,2022/23,INOUTB_outdoor,2411190,2398084,0,8976,4130,Blank/invalid -> pandas NaN; valid zero remains 0; no imputation
