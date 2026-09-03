@@ -2,7 +2,7 @@
 
 ## Files
 
-- `q3_indoor_outdoor_forecasting_revised.ipynb`: Complete Jupyter Notebook execution code.
+- `q3_indoor_outdoor_forecasting.ipynb`: Complete Jupyter Notebook execution code.
 - `q3_outputs/`: All results obtained from re-running the workflow with the 6 full CSVs and `179.xlsx`.
 
 ## Input Files
