@@ -12,7 +12,7 @@ A machine-learning analysis of Sport England's Active Lives Adult Survey across 
 
 London Sport needs forward-looking evidence to decide where support is most needed, which groups may face persistent barriers, and how future provision could balance physical activity, indoor and outdoor opportunities, and volunteering.
 
-This repository contains the analysis developed for **London Sport 2**, an MSc group dissertation in Engineering Mathematics at the University of Bristol. It uses Sport England's [Active Lives Adult Survey](https://www.sportengland.org/research-and-data/data/active-lives) to study London overall, Inner and Outer London, and the 32 London boroughs outside the City of London.
+This repository contains the analysis developed for **London Sport 2**, an MSc group dissertation in Engineering Mathematics at the University of Bristol. It uses Sport England's [Active Lives Adult Survey](https://datacatalogue.ukdataservice.ac.uk/series/series/2000120#access-data) to study London overall, Inner and Outer London, and the 32 London boroughs outside the City of London.
 
 The project combines survey-weighted descriptive analysis with chronological model evaluation. It compares simple persistence forecasts with Ridge Regression, Random Forest and Gradient Boosting, then uses the selected models to produce medium-term planning scenarios.
 
@@ -131,7 +131,7 @@ COVID-period indicators and recovery scenarios describe alternative model assump
 
 ## Data sources
 
-The principal source is Sport England's [Active Lives Adult Survey](https://www.sportengland.org/research-and-data/data/active-lives). The final two waves correspond to UK Data Archive studies **9136** and **9288**, documented in the [Year 7 technical report](https://doc.ukdataservice.ac.uk/doc/9136/mrdoc/pdf/9136_active_lives_survey_year_7_technical_report.pdf) and [Year 8 technical report](https://doc.ukdataservice.ac.uk/doc/9288/mrdoc/pdf/9288_active_lives_survey_full_year_8_technical_report.pdf).
+The principal source is Sport England's [Active Lives Adult Survey](https://datacatalogue.ukdataservice.ac.uk/series/series/2000120#access-data). The final two waves correspond to UK Data Archive studies **9136** and **9288**, documented in the [Year 7 technical report](https://doc.ukdataservice.ac.uk/doc/9136/mrdoc/pdf/9136_active_lives_survey_year_7_technical_report.pdf) and [Year 8 technical report](https://doc.ukdataservice.ac.uk/doc/9288/mrdoc/pdf/9288_active_lives_survey_full_year_8_technical_report.pdf).
 
 RQ1 also uses ONS population and residence-based earnings data and Metropolitan Police recorded-crime data. Survey data, documentation and derived outputs remain subject to the conditions of their original providers.
 
