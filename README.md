@@ -144,8 +144,8 @@ RQ1 also uses ONS population and residence-based earnings data and Metropolitan 
 | **Shuhan Zhao** | RQ4 - frequent sport volunteering |
 | **Yifeng Mao** | RQ1 - London and borough activity |
 
-**Supervisor:** Dr Dalila O'Grady  
-**Programme:** MSc, Faculty of Engineering, University of Bristol  
+**Supervisor:** Dr Dalila O'Grady, Dr Alex Williams
+**Programme:** MSc, Faculty of Science and Engineering, University of Bristol  
 **Project partner:** London Sport
 
 ## Licence
