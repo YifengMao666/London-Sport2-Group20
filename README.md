@@ -119,7 +119,7 @@ For the detailed RQ3 outcome definitions, validation rules and sensitivity desig
 
 ## Reproducing the analysis
 
-Processed datasets and saved outputs are included with each research strand. Detailed run instructions are provided in the linked section READMEs. Rebuilding from source requires the relevant Active Lives survey files; RQ1 additionally uses ONS, Metropolitan Police and London borough boundary data.
+Processed datasets and saved outputs are included with each research strand. Available run instructions and project folders are linked above. Rebuilding from source requires the relevant Active Lives survey files; RQ1 additionally uses ONS, Metropolitan Police and London borough boundary data.
 
 ## How to interpret the results
 
