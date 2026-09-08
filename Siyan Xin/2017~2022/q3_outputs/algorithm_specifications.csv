@@ -1,0 +1,5 @@
+algorithm,definition,candidate_parameters
+Naive persistence,Copies the previous survey wave (annual) or same month one year earlier (monthly),none
+Ridge regression,Linear multi-output regression in ALR space with L2 coefficient shrinkage,"alpha in {0.1, 1, 10, 100}"
+Random Forest,Average of bootstrap regression trees fitted jointly to the three ALR coordinates,"250 trees; (max_depth=8, min_leaf=5) or (unlimited, min_leaf=10)"
+Gradient Boosting,"Sequential Huber-loss regression trees, one ensemble per ALR coordinate",120/180 trees; learning_rate 0.03/0.05; max_depth 2/3; min_leaf 5/10

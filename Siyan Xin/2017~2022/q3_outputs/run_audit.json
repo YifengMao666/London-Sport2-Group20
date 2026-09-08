@@ -18,24 +18,53 @@
   "monthly_composition_max_abs_error": 3.3306690738754696e-16,
   "annual_partial_pooling_prior_strength": 5.0,
   "monthly_partial_pooling_prior_strength": 20.0,
+  "alr_zero_replacement_epsilon": 1e-06,
+  "alr_epsilon_sensitivity_values": [
+    0.0001,
+    1e-05,
+    1e-06
+  ],
+  "rolling_origin_validation": [
+    {
+      "training": "2017/18--2018/19",
+      "validation": "2019/20"
+    },
+    {
+      "training": "2017/18--2019/20",
+      "validation": "2020/21"
+    },
+    {
+      "training": "2017/18--2020/21",
+      "validation": "2021/22"
+    }
+  ],
+  "final_test": "2022/23, used once after model and hyperparameter selection",
+  "selection_rule": "lowest mean rank across 3-fold mean weighted TV and weighted MAE; TV then MAE are deterministic tie-breakers",
+  "metric_rationale": {
+    "TV": "evaluates the entire four-part probability composition as displaced mass",
+    "MAE": "reports typical error in derived indoor/outdoor participation rates on the original scale and is interpretable in percentage points"
+  },
   "selected_models": {
     "annual": {
       "name": "Random Forest",
       "params": {
-        "n_estimators": 250,
-        "max_depth": null,
-        "min_samples_leaf": 10
+        "max_depth": 8,
+        "min_samples_leaf": 5,
+        "n_estimators": 250
       }
     },
     "monthly": {
-      "name": "Ridge",
+      "name": "Random Forest",
       "params": {
-        "alpha": 0.1
+        "max_depth": null,
+        "min_samples_leaf": 10,
+        "n_estimators": 250
       }
     }
   },
-  "important_definition": "neither_recorded is no qualifying recorded indoor/outdoor location, not physical inactivity",
+  "important_definition": "neither_recorded means neither an indoor nor outdoor location was recorded among qualifying comparable activities; it comprises no_qualifying_comparable_activity plus recent_activity_without_recorded_location and is not physical inactivity",
   "preference_definition": "indoor exposure / (indoor exposure + outdoor exposure); both contributes one exposure to each side",
+  "missing_and_zero_rule": "CSV blanks and illegal codes become pandas NaN (not Python None); no imputation is used; valid zero codes remain zero and participate as negative/no indicators",
   "preference_inference": "Bayesian-bootstrap pairwise contrasts plus BH-FDR correction; low-n and non-estimable borough comparisons are retained and flagged",
   "covid_scenarios": {
     "persistent_legacy": "COVID-era level and time-since-COVID terms continue; no future disruption-window flag",
