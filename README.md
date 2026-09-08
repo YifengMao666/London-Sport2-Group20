@@ -36,7 +36,7 @@ London's **Active** share increased from **64.6% to 66.4%** between 2015/16 and 
 Borough differences remained persistent and spatially clustered. Formal annual model selection retained Naive persistence for London and Inner/Outer London and Ridge Regression for the boroughs. The annual evidence did not establish one clear long-term direction for London overall. A supplementary annualised quarterly scenario suggested that London's Active share could rise by approximately 2.0 percentage points by 2030/31, but this is a secondary scenario rather than the main forecast result.
 
 <p align="center">
-  <img src="README_assets/rq1_london_composition_forecast.png" alt="Observed London activity composition and the annualised quarterly forecast" width="780">
+  <img src="README_assets/rq1_london_composition_forecast.png" alt="Observed London activity composition and the annualised quarterly forecast" width="50%">
 </p>
 <p align="center"><em>Observed London activity composition and the supplementary annualised quarterly scenario. Shading shows sensitivity bands, not prediction intervals.</em></p>
 
@@ -58,7 +58,7 @@ Random Forest was selected for both annual and monthly forecasts. On the untouch
 The projected indoor exposure share in 2028/29 was **56.5%** under a persistent-COVID-legacy scenario and **58.0%** under a recovery scenario. Indoor exposure is the share of recorded indoor settings among all recorded indoor and outdoor exposures; it is not the percentage of residents who participate indoors. Active respondents had a lower observed indoor exposure balance than the other activity-level groups.
 
 <p align="center">
-  <img src="README_assets/rq3_london_annual_forecast.png" alt="Observed and forecast indoor and outdoor participation rates in London" width="820">
+  <img src="README_assets/rq3_london_annual_forecast.png" alt="Observed and forecast indoor and outdoor participation rates in London" width="50%">
 </p>
 <p align="center"><em>Observed and projected London indoor and outdoor participation rates. The shaded area is the range between the two COVID scenarios, not a prediction interval.</em></p>
 
