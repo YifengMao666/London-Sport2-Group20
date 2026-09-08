@@ -146,7 +146,7 @@ RQ1 also uses ONS population and residence-based earnings data and Metropolitan 
 
 **Supervisor:** Dr Dalila O'Grady  
 **Teaching Assistant:** Alex Williams  
-**Programme:** MSc, Faculty of Engineering, University of Bristol  
+**Programme:** MSc, Faculty of Science and Engineering, University of Bristol  
 **Project Partner:** London Sport
 
 ## Licence
