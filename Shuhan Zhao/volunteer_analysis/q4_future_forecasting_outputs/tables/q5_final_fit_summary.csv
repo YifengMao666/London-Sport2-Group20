@@ -1,0 +1,4 @@
+task,model,training_rows,selected_parameters,resolved_fit_parameters
+borough_age_activity,Gradient Boosting,4290,"{""learning_rate"": 0.05, ""loss"": ""huber"", ""max_depth"": 3, ""min_leaf_fraction"": 0.02, ""n_estimators"": 150}","{""learning_rate"": 0.05, ""loss"": ""huber"", ""max_depth"": 3, ""min_samples_leaf"": 86, ""n_estimators"": 150}"
+borough_age,Gradient Boosting,1523,"{""learning_rate"": 0.01, ""loss"": ""huber"", ""max_depth"": 2, ""min_leaf_fraction"": 0.02, ""n_estimators"": 400}","{""learning_rate"": 0.01, ""loss"": ""huber"", ""max_depth"": 2, ""min_samples_leaf"": 31, ""n_estimators"": 400}"
+borough_activity,Random Forest,576,"{""max_depth"": 4, ""max_features"": 0.5, ""min_leaf_fraction"": 0.05, ""n_estimators"": 250}","{""max_depth"": 4, ""max_features"": 0.5, ""min_samples_leaf"": 29, ""n_estimators"": 250}"

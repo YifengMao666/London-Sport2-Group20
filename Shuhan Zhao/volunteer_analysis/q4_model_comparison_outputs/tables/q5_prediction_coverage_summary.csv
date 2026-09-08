@@ -1,0 +1,7 @@
+task,phase,target_rows,lag_available_rows,predicted_rows,common_sample_rate
+borough_age_activity,Rolling validation,2112,2027,2112,0.9597537878787878
+borough_age_activity,Year 8 test,716,685,716,0.9567039106145251
+borough_age,Rolling validation,758,749,758,0.9881266490765171
+borough_age,Year 8 test,255,253,255,0.9921568627450981
+borough_activity,Rolling validation,288,288,288,1.0
+borough_activity,Year 8 test,96,96,96,1.0

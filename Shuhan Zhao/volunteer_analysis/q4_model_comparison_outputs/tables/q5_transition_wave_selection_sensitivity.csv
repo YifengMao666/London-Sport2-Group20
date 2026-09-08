@@ -1,0 +1,4 @@
+task,official_model,official_candidate_id,official_three_fold_tv,official_candidate_later_tv,later_wave_model,later_wave_candidate_id,later_wave_best_tv,same_model,same_candidate,official_minus_later_best_tv
+borough_activity,Random Forest,Random Forest_01,0.03409226106790395,0.03423943072043457,Random Forest,Random Forest_01,0.03423943072043457,True,True,0.0
+borough_age,Gradient Boosting,Gradient Boosting_04,0.04714445090915546,0.046506621805187026,Ridge Regression,Ridge Regression_07,0.046239144570885495,False,False,0.00026747723430153164
+borough_age_activity,Gradient Boosting,Gradient Boosting_05,0.06253287296198125,0.06044228805261257,Gradient Boosting,Gradient Boosting_02,0.05993552239335293,True,False,0.0005067656592596392

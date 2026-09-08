@@ -1,0 +1,4 @@
+task,official_weighted_model,official_candidate_id,mean_weighted_tv,unweighted_model,unweighted_candidate_id,mean_unweighted_mae,same_model
+borough_activity,Random Forest,Random Forest_01,0.03409226106790395,Random Forest,Random Forest_01,0.038667478367898696,True
+borough_age,Gradient Boosting,Gradient Boosting_04,0.04714445090915546,Gradient Boosting,Gradient Boosting_04,0.06024333337242013,True
+borough_age_activity,Gradient Boosting,Gradient Boosting_05,0.06253287296198125,Gradient Boosting,Gradient Boosting_05,0.0768298957022699,True

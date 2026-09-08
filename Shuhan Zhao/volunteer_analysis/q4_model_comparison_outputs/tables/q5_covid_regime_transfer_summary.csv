@@ -1,0 +1,4 @@
+task,official_model,official_candidate_id,cv_mean_weighted_tv,cv_skill_vs_naive,year8_weighted_tv,year8_skill_vs_naive,year8_rank,year8_best_model,year8_best_weighted_tv,same_year8_best_model,selected_minus_year8_best_tv,skill_change
+borough_activity,Random Forest,Random Forest_01,0.03409226106790395,0.22728968189747067,0.031751038046077186,0.1695721244022066,2,Gradient Boosting,0.029224009679357284,False,0.0025270283667199016,-0.05771755749526408
+borough_age,Gradient Boosting,Gradient Boosting_04,0.04714445090915546,0.29782315952815774,0.05014518252082174,0.24466719837107287,2,Random Forest,0.048154297638821286,False,0.001990884882000457,-0.053155961157084874
+borough_age_activity,Gradient Boosting,Gradient Boosting_05,0.06253287296198125,0.2928485290463986,0.06828081943233338,0.2345416281739946,1,Gradient Boosting,0.06828081943233338,True,0.0,-0.05830690087240398

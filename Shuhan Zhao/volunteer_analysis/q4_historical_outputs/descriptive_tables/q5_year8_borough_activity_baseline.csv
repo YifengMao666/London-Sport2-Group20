@@ -1,0 +1,97 @@
+year,LA_2023,activity_level_3cat,activity_level_3cat_label,frequent_volunteer_rate,borough_name
+8,8,0,inactive,0.0175194032821311,Barking and Dagenham
+8,8,1,fairly_active,0.0168301970950098,Barking and Dagenham
+8,8,2,active,0.1185985169727892,Barking and Dagenham
+8,9,0,inactive,0.0483307067831903,Barnet
+8,9,1,fairly_active,0.1206854881522925,Barnet
+8,9,2,active,0.1310947179168555,Barnet
+8,17,0,inactive,0.1057139951343908,Bexley
+8,17,1,fairly_active,0.103573297523188,Bexley
+8,17,2,active,0.1355511808738733,Bexley
+8,30,0,inactive,0.0620616884622956,Brent
+8,30,1,fairly_active,0.0835581063579768,Brent
+8,30,2,active,0.1182017667594987,Brent
+8,35,0,inactive,0.0795567706428596,Bromley
+8,35,1,fairly_active,0.1852224742186073,Bromley
+8,35,2,active,0.145670934849398,Bromley
+8,44,0,inactive,0.1114743190480871,Camden
+8,44,1,fairly_active,0.0741511106022006,Camden
+8,44,2,active,0.1476193400694425,Camden
+8,68,0,inactive,0.0804274320701952,Croydon
+8,68,1,fairly_active,0.0766862897091347,Croydon
+8,68,2,active,0.1955800166852447,Croydon
+8,78,0,inactive,0.0698310151348901,Ealing
+8,78,1,fairly_active,0.041381898947453,Ealing
+8,78,2,active,0.1993044106307955,Ealing
+8,91,0,inactive,0.0976385984889489,Enfield
+8,91,1,fairly_active,0.0751388113527339,Enfield
+8,91,2,active,0.2000351431165984,Enfield
+8,107,0,inactive,0.0721439966526744,Greenwich
+8,107,1,fairly_active,0.0969335158495161,Greenwich
+8,107,2,active,0.1351804709835486,Greenwich
+8,109,0,inactive,0.0786560777835536,Hackney
+8,109,1,fairly_active,0.0,Hackney
+8,109,2,active,0.1203866792576902,Hackney
+8,112,0,inactive,0.060659927886744,Hammersmith and Fulham
+8,112,1,fairly_active,0.0,Hammersmith and Fulham
+8,112,2,active,0.1208937799641938,Hammersmith and Fulham
+8,114,0,inactive,0.0982536996798982,Haringey
+8,114,1,fairly_active,0.1252803565701054,Haringey
+8,114,2,active,0.1703358727121471,Haringey
+8,117,0,inactive,0.0921114793433415,Harrow
+8,117,1,fairly_active,0.1829635956151865,Harrow
+8,117,2,active,0.211898334001755,Harrow
+8,122,0,inactive,0.0866465698757752,Havering
+8,122,1,fairly_active,0.0067851014848199,Havering
+8,122,2,active,0.1226736330189797,Havering
+8,126,0,inactive,0.0453250249395577,Hillingdon
+8,126,1,fairly_active,0.0980862001366558,Hillingdon
+8,126,2,active,0.1579040239399581,Hillingdon
+8,129,0,inactive,0.1885342723854947,Hounslow
+8,129,1,fairly_active,0.1777950738282708,Hounslow
+8,129,2,active,0.2154876944237875,Hounslow
+8,135,0,inactive,0.0188494550372388,Islington
+8,135,1,fairly_active,0.0231054449071455,Islington
+8,135,2,active,0.1362501871697056,Islington
+8,136,0,inactive,0.1599700401956616,Kensington and Chelsea
+8,136,1,fairly_active,0.0478313974564641,Kensington and Chelsea
+8,136,2,active,0.1299995486897204,Kensington and Chelsea
+8,139,0,inactive,0.0350888883745555,Kingston upon Thames
+8,139,1,fairly_active,0.1220134491999493,Kingston upon Thames
+8,139,2,active,0.1630725739649481,Kingston upon Thames
+8,142,0,inactive,0.1037140596605766,Lambeth
+8,142,1,fairly_active,0.1013063204455528,Lambeth
+8,142,2,active,0.0950017933897772,Lambeth
+8,147,0,inactive,0.1104996377667886,Lewisham
+8,147,1,fairly_active,0.1136081892669467,Lewisham
+8,147,2,active,0.1257012106446112,Lewisham
+8,160,0,inactive,0.1290272534496641,Merton
+8,160,1,fairly_active,0.1187397231179398,Merton
+8,160,2,active,0.1439745103605429,Merton
+8,171,0,inactive,0.1177479331014947,Newham
+8,171,1,fairly_active,0.1171361872509075,Newham
+8,171,2,active,0.139647883417129,Newham
+8,196,0,inactive,0.0567021905576142,Redbridge
+8,196,1,fairly_active,0.1414939227499457,Redbridge
+8,196,2,active,0.1647277975746881,Redbridge
+8,201,0,inactive,0.0888488008785999,Richmond upon Thames
+8,201,1,fairly_active,0.1270038887853408,Richmond upon Thames
+8,201,2,active,0.195919582903659,Richmond upon Thames
+8,241,0,inactive,0.1171879207580028,Southwark
+8,241,1,fairly_active,0.0356401868772092,Southwark
+8,241,2,active,0.1243717632901734,Southwark
+8,255,0,inactive,0.054195303689244,Sutton
+8,255,1,fairly_active,0.0438581562217602,Sutton
+8,255,2,active,0.1442013723534721,Sutton
+8,272,0,inactive,0.0434696652648335,Tower Hamlets
+8,272,1,fairly_active,0.0,Tower Hamlets
+8,272,2,active,0.1553962624844831,Tower Hamlets
+8,279,0,inactive,0.144834238325498,Waltham Forest
+8,279,1,fairly_active,0.0796307696568919,Waltham Forest
+8,279,2,active,0.1158455855906048,Waltham Forest
+8,280,0,inactive,0.0701644829558799,Wandsworth
+8,280,1,fairly_active,0.2731867548004618,Wandsworth
+8,280,2,active,0.1590584242151394,Wandsworth
+8,293,0,inactive,0.0088161227981778,Westminster
+8,293,1,fairly_active,0.0178464745600835,Westminster
+8,293,2,active,0.0847805288260273,Westminster

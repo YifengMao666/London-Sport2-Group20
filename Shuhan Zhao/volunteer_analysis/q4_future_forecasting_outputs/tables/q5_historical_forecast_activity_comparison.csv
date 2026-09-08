@@ -1,0 +1,4 @@
+activity_level,historical_period_median_rate_pct,historical_years,forecast_period_median_rate_pct,forecast_years,period_difference_pp,historical_rank,forecast_rank
+Inactive,4.89142494441769,6,6.998978667068802,6,2.1075537226511125,3,3
+Fairly active,6.94691808131207,6,7.899520017368326,6,0.9526019360562561,2,2
+Active,13.05681966838057,6,13.683537991711315,6,0.6267183233307456,1,1
