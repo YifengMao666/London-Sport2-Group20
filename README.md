@@ -20,12 +20,12 @@ The project combines survey-weighted descriptive analysis with chronological mod
 
 ## Research questions
 
-| | Question | Data period | Forecast period | Project area |
+| RQ | Question | Data period | Forecast period | Project area |
 |---|---|---:|---:|---|
-| **RQ1** | How might physical activity levels change across London, Inner and Outer London, and individual boroughs? | 2015/16-2022/23 | 2023/24-2030/31 | [London and borough activity](./Yifeng%20Mao/) |
-| **RQ2** | How might activity levels and participation change across age and disability groups, and which activities are expected to have the highest participation? | 2015/16-2022/23 | 2023/24-2030/31 | [Age and disability](./Jingyi%20Hua/) |
-| **RQ3** | How might indoor and outdoor participation change across London and its boroughs, and how does the balance differ by activity level? | 2017/18-2022/23 | 2023/24-2028/29 | [Indoor and outdoor activity](./Siyan%20Xin/2017~2022/) |
-| **RQ4** | How might frequent sport volunteering change by borough, age and activity level, and how does the activity-level gap vary with age? | 2017/18-2022/23 | 2023/24-2028/29 | [Frequent sport volunteering](./Shuhan%20Zhao/volunteer_analysis/) |
+| **RQ1** | How might physical activity levels change across London, Inner and Outer London, and individual boroughs? | 2015/16-2022/23 | 2023/24-2030/31 | [London and borough activity](./Yifeng%20Mao/README.md) |
+| **RQ2** | How might activity levels and participation change across age and disability groups, and which activities are expected to have the highest participation? | 2015/16-2022/23 | 2023/24-2030/31 | [Age and disability](./Jingyi%20Hua/README.md) |
+| **RQ3** | How might indoor and outdoor participation change across London and its boroughs, and how does the balance differ by activity level? | 2017/18-2022/23 | 2023/24-2028/29 | [Indoor and outdoor activity](./Siyan%20Xin/2017~2022/Q3_README.md) |
+| **RQ4** | How might frequent sport volunteering change by borough, age and activity level, and how does the activity-level gap vary with age? | 2017/18-2022/23 | 2023/24-2028/29 | [Frequent sport volunteering](./Shuhan%20Zhao/README.md) |
 
 ## Key findings
 
@@ -42,12 +42,12 @@ Borough differences remained persistent and spatially clustered. Formal annual m
 
 ### RQ2 - Age and disability
 
-Gradient Boosting was selected for six of the eight forecasting tasks. On the independent 2022/23 test, it reduced error relative to Naive by **29.1%** for disability-specific activity composition and **26.2%** for overall disability-group composition.
+Gradient Boosting was selected for four of the eight forecasting tasks; the remaining tasks selected Naive persistence, Random Forest or Ridge Regression. On the independent 2022/23 test, the largest improvements over Naive were **29.1%** for disability-specific activity composition and **26.2%** for overall disability-group composition.
 
 Most age-group forecasts were relatively stable, but people aged 75-84 and 85+ remained at substantially lower predicted Active rates. The limiting-disability group also remained below the no-disability group throughout the selected-model forecast. Active Travel and Gardening frequently appeared among the activities with the highest predicted participation. The exact long-term path for the 85+ group and the disability gap was more sensitive to model choice than the broad group differences.
 
 <p align="center">
-  <img src="README_assets/rq2_age_disability_forecast.png" alt="Forecast Active rates by age and broad disability group" width="900">
+  <img src="README_assets/rq2_age_disability_forecast.png" alt="Forecast Active rates by age and broad disability group" width="50%">
 </p>
 <p align="center"><em>Mean predicted Active rates across boroughs by age and broad disability group, 2023/24-2030/31.</em></p>
 
@@ -55,7 +55,7 @@ Most age-group forecasts were relatively stable, but people aged 75-84 and 85+ r
 
 Random Forest was selected for both annual and monthly forecasts. On the untouched 2022/23 test, it reduced total-variation error relative to Naive by **18.2% annually** and **17.6% monthly**.
 
-The projected indoor exposure share in 2028/29 was **56.5%** under a persistent-COVID-legacy scenario and **58.0%** under a recovery scenario. Indoor exposure is the share of recorded indoor settings among all recorded indoor and outdoor exposures; it is not the percentage of residents who participate indoors. Active respondents had a lower observed indoor exposure balance than the other activity-level groups.
+The projected indoor exposure share in 2028/29 was **56.5%** under the **persistent legacy** scenario and **58.0%** under the **legacy recovery** scenario. Indoor exposure is the share of recorded indoor settings among all recorded indoor and outdoor exposures; it is not the percentage of residents who participate indoors. Active respondents had a lower observed indoor exposure balance than the other activity-level groups.
 
 <p align="center">
   <img src="README_assets/rq3_london_annual_forecast.png" alt="Observed and forecast indoor and outdoor participation rates in London" width="50%">
@@ -64,12 +64,12 @@ The projected indoor exposure share in 2028/29 was **56.5%** under a persistent-
 
 ### RQ4 - Frequent sport volunteering
 
-The selected models were Random Forest for the borough-by-activity-level task and Gradient Boosting for the borough-by-age and borough-by-age-by-activity-level tasks. On the independent 2022/23 test, they reduced effective-sample-size-weighted MAE by **17.0%-24.5%** relative to Naive.
+The selected models were Random Forest for the borough-by-activity-level task and Gradient Boosting for the borough-by-age and borough-by-age-by-activity-level tasks. On the independent 2022/23 test, they reduced effective-sample-size-weighted MAE by **17.0% to 24.5%** relative to Naive.
 
 The forecasts retained a clear activity-level ordering: frequent volunteering was highest among the Active group. Across borough medians, ages 16-24 had the highest projected rate and ages 85+ the lowest. Detailed borough-by-age-by-activity-level estimates have weaker sample support and should be interpreted more cautiously than the broader patterns.
 
 <p align="center">
-  <img src="README_assets/rq4_projected_activity_gaps.png" alt="Projected frequent sport-volunteering gaps by age and activity level" width="900">
+  <img src="README_assets/rq4_projected_activity_gaps.png" alt="Projected frequent sport-volunteering gaps by age and activity level" width="50%">
 </p>
 <p align="center"><em>Projected volunteering-rate gaps by age. Year 9 is 2023/24 and Year 14 is 2028/29; shading shows the interquartile range across boroughs.</em></p>
 
@@ -106,14 +106,23 @@ The wider analysis also includes temporal decomposition, age standardisation, mu
 
 ## Repository guide
 
-The repository is organised by contributor and research strand. Detailed notebook descriptions and run instructions are kept close to the relevant code.
+The repository is organised by contributor and research strand. The complete dissertation, presentation slides and individual research-area READMEs can be accessed below.
+
+### Project documents
+
+| Document | Description |
+|---|---|
+| [Group dissertation](./Group20_Dessertation.pdf) | Complete written dissertation covering the four research questions, methodology, results and conclusions |
+| [Presentation slides](./Group20_Presentation_Slides.pdf) | Concise visual overview of the project and its principal findings |
+
+### Research areas
 
 | Area | Contents | Where to start |
 |---|---|---|
 | [`Yifeng Mao/`](./Yifeng%20Mao/) | RQ1 data preparation, multilevel analysis, borough clustering and forecasting | [RQ1 README](./Yifeng%20Mao/README.md) |
-| [`Jingyi Hua/`](./Jingyi%20Hua/) | RQ2 age/disability data, modelling, forecasts, backtests and robustness analysis | [`notebooks/`](./Jingyi%20Hua/notebooks/) |
+| [`Jingyi Hua/`](./Jingyi%20Hua/) | RQ2 age/disability data, modelling, forecasts, backtests and robustness analysis | [RQ2 README](./Jingyi%20Hua/README.md) |
 | [`Siyan Xin/2017~2022/`](./Siyan%20Xin/2017~2022/) | RQ3 harmonisation, modelling, forecasts and audit outputs | [RQ3 README](./Siyan%20Xin/2017~2022/Q3_README.md) |
-| [`Shuhan Zhao/volunteer_analysis/`](./Shuhan%20Zhao/volunteer_analysis/) | RQ4 panel construction, historical analysis, model comparison and future projections | [`volunteer_analysis/`](./Shuhan%20Zhao/volunteer_analysis/) |
+| [`Shuhan Zhao/`](./Shuhan%20Zhao/) | RQ4 panel construction, historical analysis, model comparison, future projections and supporting preprocessing work | [RQ4 README](./Shuhan%20Zhao/README.md) |
 
 For the detailed RQ3 outcome definitions, validation rules and sensitivity design, see the [RQ3 methods notes](./Siyan%20Xin/2017~2022/q3_outputs/METHODS_README.md).
 
