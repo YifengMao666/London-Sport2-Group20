@@ -47,7 +47,7 @@ Gradient Boosting was selected for four of the eight forecasting tasks; the rema
 Most age-group forecasts were relatively stable, but people aged 75-84 and 85+ remained at substantially lower predicted Active rates. The limiting-disability group also remained below the no-disability group throughout the selected-model forecast. Active Travel and Gardening frequently appeared among the activities with the highest predicted participation. The exact long-term path for the 85+ group and the disability gap was more sensitive to model choice than the broad group differences.
 
 <p align="center">
-  <img src="README_assets/rq2_age_disability_forecast.png" alt="Forecast Active rates by age and broad disability group" width="100%">
+  <img src="README_assets/rq2_age_disability_forecast.png" alt="Forecast Active rates by age and broad disability group" width="80%">
 </p>
 <p align="center"><em>Mean predicted Active rates across boroughs by age and broad disability group, 2023/24-2030/31.</em></p>
 
@@ -69,7 +69,7 @@ The selected models were Random Forest for the borough-by-activity-level task an
 The forecasts retained a clear activity-level ordering: frequent volunteering was highest among the Active group. Across borough medians, ages 16-24 had the highest projected rate and ages 85+ the lowest. Detailed borough-by-age-by-activity-level estimates have weaker sample support and should be interpreted more cautiously than the broader patterns.
 
 <p align="center">
-  <img src="README_assets/rq4_projected_activity_gaps.png" alt="Projected frequent sport-volunteering gaps by age and activity level" width="100%">
+  <img src="README_assets/rq4_projected_activity_gaps.png" alt="Projected frequent sport-volunteering gaps by age and activity level" width="80%">
 </p>
 <p align="center"><em>Projected volunteering-rate gaps by age. Year 9 is 2023/24 and Year 14 is 2028/29; shading shows the interquartile range across boroughs.</em></p>
 
